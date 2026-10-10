@@ -1,0 +1,8 @@
+{
+  "id": "regulationmc",
+  "name": "Regulation M-C",
+  "game": "champions",
+  "mechanics": [
+    "megaevolution"
+  ]
+}

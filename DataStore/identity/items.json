@@ -1,0 +1,2904 @@
+{
+  "items": [
+    {
+      "id": "abilityshield",
+      "name": "Ability Shield",
+      "spritenum": 746
+    },
+    {
+      "id": "abomasite",
+      "name": "Abomasite",
+      "spritenum": 575
+    },
+    {
+      "id": "absolite",
+      "name": "Absolite",
+      "spritenum": 576
+    },
+    {
+      "id": "absolitez",
+      "name": "Absolite Z",
+      "spritenum": 499
+    },
+    {
+      "id": "absorbbulb",
+      "name": "Absorb Bulb",
+      "spritenum": 2
+    },
+    {
+      "id": "adamantcrystal",
+      "name": "Adamant Crystal",
+      "spritenum": 741
+    },
+    {
+      "id": "adamantorb",
+      "name": "Adamant Orb",
+      "spritenum": 4
+    },
+    {
+      "id": "adrenalineorb",
+      "name": "Adrenaline Orb",
+      "spritenum": 660
+    },
+    {
+      "id": "aerodactylite",
+      "name": "Aerodactylite",
+      "spritenum": 577
+    },
+    {
+      "id": "aggronite",
+      "name": "Aggronite",
+      "spritenum": 578
+    },
+    {
+      "id": "aguavberry",
+      "name": "Aguav Berry",
+      "spritenum": 5
+    },
+    {
+      "id": "alakazite",
+      "name": "Alakazite",
+      "spritenum": 579
+    },
+    {
+      "id": "altarianite",
+      "name": "Altarianite",
+      "spritenum": 615
+    },
+    {
+      "id": "ampharosite",
+      "name": "Ampharosite",
+      "spritenum": 580
+    },
+    {
+      "id": "apicotberry",
+      "name": "Apicot Berry",
+      "spritenum": 10
+    },
+    {
+      "id": "assaultvest",
+      "name": "Assault Vest",
+      "spritenum": 581
+    },
+    {
+      "id": "audinite",
+      "name": "Audinite",
+      "spritenum": 617
+    },
+    {
+      "id": "auspiciousarmor",
+      "name": "Auspicious Armor",
+      "spritenum": 753
+    },
+    {
+      "id": "banettite",
+      "name": "Banettite",
+      "spritenum": 582
+    },
+    {
+      "id": "barbaracite",
+      "name": "Barbaracite",
+      "spritenum": 564
+    },
+    {
+      "id": "baxcalibrite",
+      "name": "Baxcalibrite",
+      "spritenum": 514
+    },
+    {
+      "id": "beastball",
+      "name": "Beast Ball",
+      "spritenum": 661
+    },
+    {
+      "id": "beedrillite",
+      "name": "Beedrillite",
+      "spritenum": 628
+    },
+    {
+      "id": "berrysweet",
+      "name": "Berry Sweet",
+      "spritenum": 706
+    },
+    {
+      "id": "bignugget",
+      "name": "Big Nugget",
+      "spritenum": 27
+    },
+    {
+      "id": "blacksludge",
+      "name": "Black Sludge",
+      "spritenum": 34
+    },
+    {
+      "id": "blastoisinite",
+      "name": "Blastoisinite",
+      "spritenum": 583
+    },
+    {
+      "id": "blazikenite",
+      "name": "Blazikenite",
+      "spritenum": 584
+    },
+    {
+      "id": "blunderpolicy",
+      "name": "Blunder Policy",
+      "spritenum": 716
+    },
+    {
+      "id": "boosterenergy",
+      "name": "Booster Energy",
+      "spritenum": 745
+    },
+    {
+      "id": "bottlecap",
+      "name": "Bottle Cap",
+      "spritenum": 696
+    },
+    {
+      "id": "cameruptite",
+      "name": "Cameruptite",
+      "spritenum": 625
+    },
+    {
+      "id": "cellbattery",
+      "name": "Cell Battery",
+      "spritenum": 60
+    },
+    {
+      "id": "chandelurite",
+      "name": "Chandelurite",
+      "spritenum": 557
+    },
+    {
+      "id": "charizarditex",
+      "name": "Charizardite X",
+      "spritenum": 585
+    },
+    {
+      "id": "charizarditey",
+      "name": "Charizardite Y",
+      "spritenum": 586
+    },
+    {
+      "id": "chesnaughtite",
+      "name": "Chesnaughtite",
+      "spritenum": 558
+    },
+    {
+      "id": "chimechite",
+      "name": "Chimechite",
+      "spritenum": 498
+    },
+    {
+      "id": "chippedpot",
+      "name": "Chipped Pot",
+      "spritenum": 720
+    },
+    {
+      "id": "choiceband",
+      "name": "Choice Band",
+      "spritenum": 68
+    },
+    {
+      "id": "choicespecs",
+      "name": "Choice Specs",
+      "spritenum": 70
+    },
+    {
+      "id": "clearamulet",
+      "name": "Clear Amulet",
+      "spritenum": 747
+    },
+    {
+      "id": "clefablite",
+      "name": "Clefablite",
+      "spritenum": 544
+    },
+    {
+      "id": "cloversweet",
+      "name": "Clover Sweet",
+      "spritenum": 707
+    },
+    {
+      "id": "cornerstonemask",
+      "name": "Cornerstone Mask",
+      "spritenum": 758
+    },
+    {
+      "id": "covertcloak",
+      "name": "Covert Cloak",
+      "spritenum": 750
+    },
+    {
+      "id": "crabominite",
+      "name": "Crabominite",
+      "spritenum": 507
+    },
+    {
+      "id": "crackedpot",
+      "name": "Cracked Pot",
+      "spritenum": 719
+    },
+    {
+      "id": "custapberry",
+      "name": "Custap Berry",
+      "spritenum": 86
+    },
+    {
+      "id": "darkranite",
+      "name": "Darkranite",
+      "spritenum": 504
+    },
+    {
+      "id": "dawnstone",
+      "name": "Dawn Stone",
+      "spritenum": 92
+    },
+    {
+      "id": "delphoxite",
+      "name": "Delphoxite",
+      "spritenum": 559
+    },
+    {
+      "id": "destinyknot",
+      "name": "Destiny Knot",
+      "spritenum": 95
+    },
+    {
+      "id": "diveball",
+      "name": "Dive Ball",
+      "spritenum": 101
+    },
+    {
+      "id": "dracoplate",
+      "name": "Draco Plate",
+      "spritenum": 105
+    },
+    {
+      "id": "dragalgite",
+      "name": "Dragalgite",
+      "spritenum": 565
+    },
+    {
+      "id": "dragoninite",
+      "name": "Dragoninite",
+      "spritenum": 547
+    },
+    {
+      "id": "dragonscale",
+      "name": "Dragon Scale",
+      "spritenum": 108
+    },
+    {
+      "id": "drampanite",
+      "name": "Drampanite",
+      "spritenum": 569
+    },
+    {
+      "id": "dreadplate",
+      "name": "Dread Plate",
+      "spritenum": 110
+    },
+    {
+      "id": "dreamball",
+      "name": "Dream Ball",
+      "spritenum": 111
+    },
+    {
+      "id": "dubiousdisc",
+      "name": "Dubious Disc",
+      "spritenum": 113
+    },
+    {
+      "id": "duskball",
+      "name": "Dusk Ball",
+      "spritenum": 115
+    },
+    {
+      "id": "duskstone",
+      "name": "Dusk Stone",
+      "spritenum": 116
+    },
+    {
+      "id": "earthplate",
+      "name": "Earth Plate",
+      "spritenum": 117
+    },
+    {
+      "id": "eelektrossite",
+      "name": "Eelektrossite",
+      "spritenum": 556
+    },
+    {
+      "id": "ejectbutton",
+      "name": "Eject Button",
+      "spritenum": 118
+    },
+    {
+      "id": "ejectpack",
+      "name": "Eject Pack",
+      "spritenum": 714
+    },
+    {
+      "id": "electirizer",
+      "name": "Electirizer",
+      "spritenum": 119
+    },
+    {
+      "id": "emboarite",
+      "name": "Emboarite",
+      "spritenum": 552
+    },
+    {
+      "id": "enigmaberry",
+      "name": "Enigma Berry",
+      "spritenum": 124
+    },
+    {
+      "id": "eviolite",
+      "name": "Eviolite",
+      "spritenum": 130
+    },
+    {
+      "id": "excadrite",
+      "name": "Excadrite",
+      "spritenum": 553
+    },
+    {
+      "id": "falinksite",
+      "name": "Falinksite",
+      "spritenum": 570
+    },
+    {
+      "id": "fastball",
+      "name": "Fast Ball",
+      "spritenum": 137
+    },
+    {
+      "id": "feraligite",
+      "name": "Feraligite",
+      "spritenum": 549
+    },
+    {
+      "id": "figyberry",
+      "name": "Figy Berry",
+      "spritenum": 140
+    },
+    {
+      "id": "firestone",
+      "name": "Fire Stone",
+      "spritenum": 142
+    },
+    {
+      "id": "fistplate",
+      "name": "Fist Plate",
+      "spritenum": 143
+    },
+    {
+      "id": "flameorb",
+      "name": "Flame Orb",
+      "spritenum": 145
+    },
+    {
+      "id": "flameplate",
+      "name": "Flame Plate",
+      "spritenum": 146
+    },
+    {
+      "id": "floatstone",
+      "name": "Float Stone",
+      "spritenum": 147
+    },
+    {
+      "id": "floettite",
+      "name": "Floettite",
+      "spritenum": 562
+    },
+    {
+      "id": "flowersweet",
+      "name": "Flower Sweet",
+      "spritenum": 708
+    },
+    {
+      "id": "friendball",
+      "name": "Friend Ball",
+      "spritenum": 153
+    },
+    {
+      "id": "froslassite",
+      "name": "Froslassite",
+      "spritenum": 551
+    },
+    {
+      "id": "galaricacuff",
+      "name": "Galarica Cuff",
+      "spritenum": 739
+    },
+    {
+      "id": "galaricawreath",
+      "name": "Galarica Wreath",
+      "spritenum": 740
+    },
+    {
+      "id": "galladite",
+      "name": "Galladite",
+      "spritenum": 616
+    },
+    {
+      "id": "ganlonberry",
+      "name": "Ganlon Berry",
+      "spritenum": 158
+    },
+    {
+      "id": "garchompite",
+      "name": "Garchompite",
+      "spritenum": 573
+    },
+    {
+      "id": "garchompitez",
+      "name": "Garchompite Z",
+      "spritenum": 501
+    },
+    {
+      "id": "gardevoirite",
+      "name": "Gardevoirite",
+      "spritenum": 587
+    },
+    {
+      "id": "gengarite",
+      "name": "Gengarite",
+      "spritenum": 588
+    },
+    {
+      "id": "glalitite",
+      "name": "Glalitite",
+      "spritenum": 623
+    },
+    {
+      "id": "glimmoranite",
+      "name": "Glimmoranite",
+      "spritenum": 512
+    },
+    {
+      "id": "goldbottlecap",
+      "name": "Gold Bottle Cap",
+      "spritenum": 697
+    },
+    {
+      "id": "golisopite",
+      "name": "Golisopite",
+      "spritenum": 508
+    },
+    {
+      "id": "golurkite",
+      "name": "Golurkite",
+      "spritenum": 505
+    },
+    {
+      "id": "greatball",
+      "name": "Great Ball",
+      "spritenum": 174
+    },
+    {
+      "id": "greninjite",
+      "name": "Greninjite",
+      "spritenum": 560
+    },
+    {
+      "id": "grepaberry",
+      "name": "Grepa Berry",
+      "spritenum": 178
+    },
+    {
+      "id": "gripclaw",
+      "name": "Grip Claw",
+      "spritenum": 179
+    },
+    {
+      "id": "griseouscore",
+      "name": "Griseous Core",
+      "spritenum": 743
+    },
+    {
+      "id": "griseousorb",
+      "name": "Griseous Orb",
+      "spritenum": 180
+    },
+    {
+      "id": "gyaradosite",
+      "name": "Gyaradosite",
+      "spritenum": 589
+    },
+    {
+      "id": "hawluchanite",
+      "name": "Hawluchanite",
+      "spritenum": 566
+    },
+    {
+      "id": "healball",
+      "name": "Heal Ball",
+      "spritenum": 188
+    },
+    {
+      "id": "hearthflamemask",
+      "name": "Hearthflame Mask",
+      "spritenum": 760
+    },
+    {
+      "id": "heatranite",
+      "name": "Heatranite",
+      "spritenum": 503
+    },
+    {
+      "id": "heavyball",
+      "name": "Heavy Ball",
+      "spritenum": 194
+    },
+    {
+      "id": "heavydutyboots",
+      "name": "Heavy-Duty Boots",
+      "spritenum": 715
+    },
+    {
+      "id": "heracronite",
+      "name": "Heracronite",
+      "spritenum": 590
+    },
+    {
+      "id": "hondewberry",
+      "name": "Hondew Berry",
+      "spritenum": 213
+    },
+    {
+      "id": "houndoominite",
+      "name": "Houndoominite",
+      "spritenum": 591
+    },
+    {
+      "id": "iapapaberry",
+      "name": "Iapapa Berry",
+      "spritenum": 217
+    },
+    {
+      "id": "icestone",
+      "name": "Ice Stone",
+      "spritenum": 693
+    },
+    {
+      "id": "icicleplate",
+      "name": "Icicle Plate",
+      "spritenum": 220
+    },
+    {
+      "id": "insectplate",
+      "name": "Insect Plate",
+      "spritenum": 223
+    },
+    {
+      "id": "ironplate",
+      "name": "Iron Plate",
+      "spritenum": 225
+    },
+    {
+      "id": "jabocaberry",
+      "name": "Jaboca Berry",
+      "spritenum": 230
+    },
+    {
+      "id": "kangaskhanite",
+      "name": "Kangaskhanite",
+      "spritenum": 592
+    },
+    {
+      "id": "keeberry",
+      "name": "Kee Berry",
+      "spritenum": 593
+    },
+    {
+      "id": "kelpsyberry",
+      "name": "Kelpsy Berry",
+      "spritenum": 235
+    },
+    {
+      "id": "laggingtail",
+      "name": "Lagging Tail",
+      "spritenum": 237
+    },
+    {
+      "id": "lansatberry",
+      "name": "Lansat Berry",
+      "spritenum": 238
+    },
+    {
+      "id": "leafstone",
+      "name": "Leaf Stone",
+      "spritenum": 241
+    },
+    {
+      "id": "leek",
+      "name": "Leek",
+      "spritenum": 475
+    },
+    {
+      "id": "levelball",
+      "name": "Level Ball",
+      "spritenum": 246
+    },
+    {
+      "id": "liechiberry",
+      "name": "Liechi Berry",
+      "spritenum": 248
+    },
+    {
+      "id": "loadeddice",
+      "name": "Loaded Dice",
+      "spritenum": 751
+    },
+    {
+      "id": "lopunnite",
+      "name": "Lopunnite",
+      "spritenum": 626
+    },
+    {
+      "id": "loveball",
+      "name": "Love Ball",
+      "spritenum": 258
+    },
+    {
+      "id": "lovesweet",
+      "name": "Love Sweet",
+      "spritenum": 705
+    },
+    {
+      "id": "lucarionite",
+      "name": "Lucarionite",
+      "spritenum": 594
+    },
+    {
+      "id": "lucarionitez",
+      "name": "Lucarionite Z",
+      "spritenum": 502
+    },
+    {
+      "id": "luminousmoss",
+      "name": "Luminous Moss",
+      "spritenum": 595
+    },
+    {
+      "id": "lureball",
+      "name": "Lure Ball",
+      "spritenum": 264
+    },
+    {
+      "id": "lustrousglobe",
+      "name": "Lustrous Globe",
+      "spritenum": 742
+    },
+    {
+      "id": "lustrousorb",
+      "name": "Lustrous Orb",
+      "spritenum": 265
+    },
+    {
+      "id": "luxuryball",
+      "name": "Luxury Ball",
+      "spritenum": 266
+    },
+    {
+      "id": "magmarizer",
+      "name": "Magmarizer",
+      "spritenum": 272
+    },
+    {
+      "id": "magoberry",
+      "name": "Mago Berry",
+      "spritenum": 274
+    },
+    {
+      "id": "malamarite",
+      "name": "Malamarite",
+      "spritenum": 563
+    },
+    {
+      "id": "maliciousarmor",
+      "name": "Malicious Armor",
+      "spritenum": 744
+    },
+    {
+      "id": "manectite",
+      "name": "Manectite",
+      "spritenum": 596
+    },
+    {
+      "id": "marangaberry",
+      "name": "Maranga Berry",
+      "spritenum": 597
+    },
+    {
+      "id": "masterball",
+      "name": "Master Ball",
+      "spritenum": 276
+    },
+    {
+      "id": "masterpieceteacup",
+      "name": "Masterpiece Teacup",
+      "spritenum": 757
+    },
+    {
+      "id": "mawilite",
+      "name": "Mawilite",
+      "spritenum": 598
+    },
+    {
+      "id": "meadowplate",
+      "name": "Meadow Plate",
+      "spritenum": 282
+    },
+    {
+      "id": "medichamite",
+      "name": "Medichamite",
+      "spritenum": 599
+    },
+    {
+      "id": "meganiumite",
+      "name": "Meganiumite",
+      "spritenum": 548
+    },
+    {
+      "id": "meowsticite",
+      "name": "Meowsticite",
+      "spritenum": 506
+    },
+    {
+      "id": "metalalloy",
+      "name": "Metal Alloy",
+      "spritenum": 761
+    },
+    {
+      "id": "metagrossite",
+      "name": "Metagrossite",
+      "spritenum": 618
+    },
+    {
+      "id": "micleberry",
+      "name": "Micle Berry",
+      "spritenum": 290
+    },
+    {
+      "id": "mindplate",
+      "name": "Mind Plate",
+      "spritenum": 291
+    },
+    {
+      "id": "mirrorherb",
+      "name": "Mirror Herb",
+      "spritenum": 748
+    },
+    {
+      "id": "moonball",
+      "name": "Moon Ball",
+      "spritenum": 294
+    },
+    {
+      "id": "moonstone",
+      "name": "Moon Stone",
+      "spritenum": 295
+    },
+    {
+      "id": "nestball",
+      "name": "Nest Ball",
+      "spritenum": 303
+    },
+    {
+      "id": "netball",
+      "name": "Net Ball",
+      "spritenum": 304
+    },
+    {
+      "id": "ovalstone",
+      "name": "Oval Stone",
+      "spritenum": 321
+    },
+    {
+      "id": "parkball",
+      "name": "Park Ball",
+      "spritenum": 325
+    },
+    {
+      "id": "petayaberry",
+      "name": "Petaya Berry",
+      "spritenum": 335
+    },
+    {
+      "id": "pidgeotite",
+      "name": "Pidgeotite",
+      "spritenum": 622
+    },
+    {
+      "id": "pinsirite",
+      "name": "Pinsirite",
+      "spritenum": 602
+    },
+    {
+      "id": "pixieplate",
+      "name": "Pixie Plate",
+      "spritenum": 610
+    },
+    {
+      "id": "pokeball",
+      "name": "Poke Ball",
+      "spritenum": 345
+    },
+    {
+      "id": "pomegberry",
+      "name": "Pomeg Berry",
+      "spritenum": 351
+    },
+    {
+      "id": "poweranklet",
+      "name": "Power Anklet",
+      "spritenum": 354
+    },
+    {
+      "id": "powerband",
+      "name": "Power Band",
+      "spritenum": 355
+    },
+    {
+      "id": "powerbelt",
+      "name": "Power Belt",
+      "spritenum": 356
+    },
+    {
+      "id": "powerbracer",
+      "name": "Power Bracer",
+      "spritenum": 357
+    },
+    {
+      "id": "powerherb",
+      "name": "Power Herb",
+      "spritenum": 358
+    },
+    {
+      "id": "powerlens",
+      "name": "Power Lens",
+      "spritenum": 359
+    },
+    {
+      "id": "powerweight",
+      "name": "Power Weight",
+      "spritenum": 360
+    },
+    {
+      "id": "premierball",
+      "name": "Premier Ball",
+      "spritenum": 363
+    },
+    {
+      "id": "prettyfeather",
+      "name": "Pretty Feather",
+      "spritenum": 1
+    },
+    {
+      "id": "prismscale",
+      "name": "Prism Scale",
+      "spritenum": 365
+    },
+    {
+      "id": "protectivepads",
+      "name": "Protective Pads",
+      "spritenum": 663
+    },
+    {
+      "id": "protector",
+      "name": "Protector",
+      "spritenum": 367
+    },
+    {
+      "id": "punchingglove",
+      "name": "Punching Glove",
+      "spritenum": 749
+    },
+    {
+      "id": "pyroarite",
+      "name": "Pyroarite",
+      "spritenum": 561
+    },
+    {
+      "id": "qualotberry",
+      "name": "Qualot Berry",
+      "spritenum": 371
+    },
+    {
+      "id": "quickball",
+      "name": "Quick Ball",
+      "spritenum": 372
+    },
+    {
+      "id": "raichunitex",
+      "name": "Raichunite X",
+      "spritenum": 496
+    },
+    {
+      "id": "raichunitey",
+      "name": "Raichunite Y",
+      "spritenum": 497
+    },
+    {
+      "id": "rarebone",
+      "name": "Rare Bone",
+      "spritenum": 379
+    },
+    {
+      "id": "razorclaw",
+      "name": "Razor Claw",
+      "spritenum": 382
+    },
+    {
+      "id": "razorfang",
+      "name": "Razor Fang",
+      "spritenum": 383
+    },
+    {
+      "id": "reapercloth",
+      "name": "Reaper Cloth",
+      "spritenum": 385
+    },
+    {
+      "id": "repeatball",
+      "name": "Repeat Ball",
+      "spritenum": 401
+    },
+    {
+      "id": "ribbonsweet",
+      "name": "Ribbon Sweet",
+      "spritenum": 710
+    },
+    {
+      "id": "ringtarget",
+      "name": "Ring Target",
+      "spritenum": 410
+    },
+    {
+      "id": "roomservice",
+      "name": "Room Service",
+      "spritenum": 717
+    },
+    {
+      "id": "rowapberry",
+      "name": "Rowap Berry",
+      "spritenum": 420
+    },
+    {
+      "id": "rustedshield",
+      "name": "Rusted Shield",
+      "spritenum": 699
+    },
+    {
+      "id": "rustedsword",
+      "name": "Rusted Sword",
+      "spritenum": 698
+    },
+    {
+      "id": "sablenite",
+      "name": "Sablenite",
+      "spritenum": 614
+    },
+    {
+      "id": "safariball",
+      "name": "Safari Ball",
+      "spritenum": 425
+    },
+    {
+      "id": "safetygoggles",
+      "name": "Safety Goggles",
+      "spritenum": 604
+    },
+    {
+      "id": "salacberry",
+      "name": "Salac Berry",
+      "spritenum": 426
+    },
+    {
+      "id": "salamencite",
+      "name": "Salamencite",
+      "spritenum": 627
+    },
+    {
+      "id": "sceptilite",
+      "name": "Sceptilite",
+      "spritenum": 613
+    },
+    {
+      "id": "scizorite",
+      "name": "Scizorite",
+      "spritenum": 605
+    },
+    {
+      "id": "scolipite",
+      "name": "Scolipite",
+      "spritenum": 554
+    },
+    {
+      "id": "scovillainite",
+      "name": "Scovillainite",
+      "spritenum": 511
+    },
+    {
+      "id": "scraftinite",
+      "name": "Scraftinite",
+      "spritenum": 555
+    },
+    {
+      "id": "sharpedonite",
+      "name": "Sharpedonite",
+      "spritenum": 619
+    },
+    {
+      "id": "shinystone",
+      "name": "Shiny Stone",
+      "spritenum": 439
+    },
+    {
+      "id": "skarmorite",
+      "name": "Skarmorite",
+      "spritenum": 550
+    },
+    {
+      "id": "skyplate",
+      "name": "Sky Plate",
+      "spritenum": 450
+    },
+    {
+      "id": "slowbronite",
+      "name": "Slowbronite",
+      "spritenum": 620
+    },
+    {
+      "id": "snowball",
+      "name": "Snowball",
+      "spritenum": 606
+    },
+    {
+      "id": "souldew",
+      "name": "Soul Dew",
+      "spritenum": 459
+    },
+    {
+      "id": "spelltag",
+      "name": "Spell Tag",
+      "spritenum": 461
+    },
+    {
+      "id": "splashplate",
+      "name": "Splash Plate",
+      "spritenum": 463
+    },
+    {
+      "id": "spookyplate",
+      "name": "Spooky Plate",
+      "spritenum": 464
+    },
+    {
+      "id": "sportball",
+      "name": "Sport Ball",
+      "spritenum": 465
+    },
+    {
+      "id": "staraptite",
+      "name": "Staraptite",
+      "spritenum": 500
+    },
+    {
+      "id": "starfberry",
+      "name": "Starf Berry",
+      "spritenum": 472
+    },
+    {
+      "id": "starminite",
+      "name": "Starminite",
+      "spritenum": 546
+    },
+    {
+      "id": "starsweet",
+      "name": "Star Sweet",
+      "spritenum": 709
+    },
+    {
+      "id": "steelixite",
+      "name": "Steelixite",
+      "spritenum": 621
+    },
+    {
+      "id": "stickybarb",
+      "name": "Sticky Barb",
+      "spritenum": 476
+    },
+    {
+      "id": "stoneplate",
+      "name": "Stone Plate",
+      "spritenum": 477
+    },
+    {
+      "id": "strangeball",
+      "name": "Strange Ball",
+      "spritenum": 308
+    },
+    {
+      "id": "strawberrysweet",
+      "name": "Strawberry Sweet",
+      "spritenum": 704
+    },
+    {
+      "id": "sunstone",
+      "name": "Sun Stone",
+      "spritenum": 480
+    },
+    {
+      "id": "sweetapple",
+      "name": "Sweet Apple",
+      "spritenum": 711
+    },
+    {
+      "id": "syrupyapple",
+      "name": "Syrupy Apple",
+      "spritenum": 755
+    },
+    {
+      "id": "swampertite",
+      "name": "Swampertite",
+      "spritenum": 612
+    },
+    {
+      "id": "tamatoberry",
+      "name": "Tamato Berry",
+      "spritenum": 486
+    },
+    {
+      "id": "tartapple",
+      "name": "Tart Apple",
+      "spritenum": 712
+    },
+    {
+      "id": "throatspray",
+      "name": "Throat Spray",
+      "spritenum": 713
+    },
+    {
+      "id": "thunderstone",
+      "name": "Thunder Stone",
+      "spritenum": 492
+    },
+    {
+      "id": "timerball",
+      "name": "Timer Ball",
+      "spritenum": 494
+    },
+    {
+      "id": "toxicorb",
+      "name": "Toxic Orb",
+      "spritenum": 515
+    },
+    {
+      "id": "toxicplate",
+      "name": "Toxic Plate",
+      "spritenum": 516
+    },
+    {
+      "id": "tyranitarite",
+      "name": "Tyranitarite",
+      "spritenum": 607
+    },
+    {
+      "id": "ultraball",
+      "name": "Ultra Ball",
+      "spritenum": 521
+    },
+    {
+      "id": "unremarkableteacup",
+      "name": "Unremarkable Teacup",
+      "spritenum": 756
+    },
+    {
+      "id": "upgrade",
+      "name": "Up-Grade",
+      "spritenum": 523
+    },
+    {
+      "id": "utilityumbrella",
+      "name": "Utility Umbrella",
+      "spritenum": 718
+    },
+    {
+      "id": "venusaurite",
+      "name": "Venusaurite",
+      "spritenum": 608
+    },
+    {
+      "id": "victreebelite",
+      "name": "Victreebelite",
+      "spritenum": 545
+    },
+    {
+      "id": "waterstone",
+      "name": "Water Stone",
+      "spritenum": 529
+    },
+    {
+      "id": "weaknesspolicy",
+      "name": "Weakness Policy",
+      "spritenum": 609
+    },
+    {
+      "id": "wellspringmask",
+      "name": "Wellspring Mask",
+      "spritenum": 759
+    },
+    {
+      "id": "wikiberry",
+      "name": "Wiki Berry",
+      "spritenum": 538
+    },
+    {
+      "id": "zapplate",
+      "name": "Zap Plate",
+      "spritenum": 572
+    },
+    {
+      "id": "airballoon",
+      "name": "Air Balloon",
+      "spritenum": 6
+    },
+    {
+      "id": "aloraichiumz",
+      "name": "Aloraichium Z",
+      "spritenum": 655
+    },
+    {
+      "id": "armorfossil",
+      "name": "Armor Fossil",
+      "spritenum": 12
+    },
+    {
+      "id": "aspearberry",
+      "name": "Aspear Berry",
+      "spritenum": 13
+    },
+    {
+      "id": "babiriberry",
+      "name": "Babiri Berry",
+      "spritenum": 17
+    },
+    {
+      "id": "belueberry",
+      "name": "Belue Berry",
+      "spritenum": 21
+    },
+    {
+      "id": "berryjuice",
+      "name": "Berry Juice",
+      "spritenum": 22
+    },
+    {
+      "id": "bigroot",
+      "name": "Big Root",
+      "spritenum": 29
+    },
+    {
+      "id": "bindingband",
+      "name": "Binding Band",
+      "spritenum": 31
+    },
+    {
+      "id": "blackbelt",
+      "name": "Black Belt",
+      "spritenum": 32
+    },
+    {
+      "id": "blackglasses",
+      "name": "Black Glasses",
+      "spritenum": 35
+    },
+    {
+      "id": "blueorb",
+      "name": "Blue Orb",
+      "spritenum": 41
+    },
+    {
+      "id": "blukberry",
+      "name": "Bluk Berry",
+      "spritenum": 44
+    },
+    {
+      "id": "brightpowder",
+      "name": "Bright Powder",
+      "spritenum": 51
+    },
+    {
+      "id": "buggem",
+      "name": "Bug Gem",
+      "spritenum": 53
+    },
+    {
+      "id": "buginiumz",
+      "name": "Buginium Z",
+      "spritenum": 642
+    },
+    {
+      "id": "bugmemory",
+      "name": "Bug Memory",
+      "spritenum": 673
+    },
+    {
+      "id": "burndrive",
+      "name": "Burn Drive",
+      "spritenum": 54
+    },
+    {
+      "id": "charcoal",
+      "name": "Charcoal",
+      "spritenum": 61
+    },
+    {
+      "id": "chartiberry",
+      "name": "Charti Berry",
+      "spritenum": 62
+    },
+    {
+      "id": "cheriberry",
+      "name": "Cheri Berry",
+      "spritenum": 63
+    },
+    {
+      "id": "chestoberry",
+      "name": "Chesto Berry",
+      "spritenum": 65
+    },
+    {
+      "id": "chilanberry",
+      "name": "Chilan Berry",
+      "spritenum": 66
+    },
+    {
+      "id": "chilldrive",
+      "name": "Chill Drive",
+      "spritenum": 67
+    },
+    {
+      "id": "choicescarf",
+      "name": "Choice Scarf",
+      "spritenum": 69
+    },
+    {
+      "id": "chopleberry",
+      "name": "Chople Berry",
+      "spritenum": 71
+    },
+    {
+      "id": "clawfossil",
+      "name": "Claw Fossil",
+      "spritenum": 72
+    },
+    {
+      "id": "cobaberry",
+      "name": "Coba Berry",
+      "spritenum": 76
+    },
+    {
+      "id": "colburberry",
+      "name": "Colbur Berry",
+      "spritenum": 78
+    },
+    {
+      "id": "cornnberry",
+      "name": "Cornn Berry",
+      "spritenum": 81
+    },
+    {
+      "id": "coverfossil",
+      "name": "Cover Fossil",
+      "spritenum": 85
+    },
+    {
+      "id": "damprock",
+      "name": "Damp Rock",
+      "spritenum": 88
+    },
+    {
+      "id": "darkgem",
+      "name": "Dark Gem",
+      "spritenum": 89
+    },
+    {
+      "id": "darkiniumz",
+      "name": "Darkinium Z",
+      "spritenum": 646
+    },
+    {
+      "id": "darkmemory",
+      "name": "Dark Memory",
+      "spritenum": 683
+    },
+    {
+      "id": "decidiumz",
+      "name": "Decidium Z",
+      "spritenum": 650
+    },
+    {
+      "id": "deepseascale",
+      "name": "Deep Sea Scale",
+      "spritenum": 93
+    },
+    {
+      "id": "deepseatooth",
+      "name": "Deep Sea Tooth",
+      "spritenum": 94
+    },
+    {
+      "id": "diancite",
+      "name": "Diancite",
+      "spritenum": 624
+    },
+    {
+      "id": "domefossil",
+      "name": "Dome Fossil",
+      "spritenum": 102
+    },
+    {
+      "id": "dousedrive",
+      "name": "Douse Drive",
+      "spritenum": 103
+    },
+    {
+      "id": "dragonfang",
+      "name": "Dragon Fang",
+      "spritenum": 106
+    },
+    {
+      "id": "dragongem",
+      "name": "Dragon Gem",
+      "spritenum": 107
+    },
+    {
+      "id": "dragoniumz",
+      "name": "Dragonium Z",
+      "spritenum": 645
+    },
+    {
+      "id": "dragonmemory",
+      "name": "Dragon Memory",
+      "spritenum": 682
+    },
+    {
+      "id": "durinberry",
+      "name": "Durin Berry",
+      "spritenum": 114
+    },
+    {
+      "id": "eeviumz",
+      "name": "Eevium Z",
+      "spritenum": 657
+    },
+    {
+      "id": "electricgem",
+      "name": "Electric Gem",
+      "spritenum": 120
+    },
+    {
+      "id": "electricmemory",
+      "name": "Electric Memory",
+      "spritenum": 679
+    },
+    {
+      "id": "electricseed",
+      "name": "Electric Seed",
+      "spritenum": 664
+    },
+    {
+      "id": "electriumz",
+      "name": "Electrium Z",
+      "spritenum": 634
+    },
+    {
+      "id": "expertbelt",
+      "name": "Expert Belt",
+      "spritenum": 132
+    },
+    {
+      "id": "fairiumz",
+      "name": "Fairium Z",
+      "spritenum": 648
+    },
+    {
+      "id": "fairyfeather",
+      "name": "Fairy Feather",
+      "spritenum": 754
+    },
+    {
+      "id": "fairygem",
+      "name": "Fairy Gem",
+      "spritenum": 611
+    },
+    {
+      "id": "fairymemory",
+      "name": "Fairy Memory",
+      "spritenum": 684
+    },
+    {
+      "id": "fightinggem",
+      "name": "Fighting Gem",
+      "spritenum": 139
+    },
+    {
+      "id": "fightingmemory",
+      "name": "Fighting Memory",
+      "spritenum": 668
+    },
+    {
+      "id": "fightiniumz",
+      "name": "Fightinium Z",
+      "spritenum": 637
+    },
+    {
+      "id": "firegem",
+      "name": "Fire Gem",
+      "spritenum": 141
+    },
+    {
+      "id": "firememory",
+      "name": "Fire Memory",
+      "spritenum": 676
+    },
+    {
+      "id": "firiumz",
+      "name": "Firium Z",
+      "spritenum": 632
+    },
+    {
+      "id": "flyinggem",
+      "name": "Flying Gem",
+      "spritenum": 149
+    },
+    {
+      "id": "flyingmemory",
+      "name": "Flying Memory",
+      "spritenum": 669
+    },
+    {
+      "id": "flyiniumz",
+      "name": "Flyinium Z",
+      "spritenum": 640
+    },
+    {
+      "id": "focusband",
+      "name": "Focus Band",
+      "spritenum": 150
+    },
+    {
+      "id": "focussash",
+      "name": "Focus Sash",
+      "spritenum": 151
+    },
+    {
+      "id": "fossilizedbird",
+      "name": "Fossilized Bird",
+      "spritenum": 700
+    },
+    {
+      "id": "fossilizeddino",
+      "name": "Fossilized Dino",
+      "spritenum": 703
+    },
+    {
+      "id": "fossilizeddrake",
+      "name": "Fossilized Drake",
+      "spritenum": 702
+    },
+    {
+      "id": "fossilizedfish",
+      "name": "Fossilized Fish",
+      "spritenum": 701
+    },
+    {
+      "id": "fullincense",
+      "name": "Full Incense",
+      "spritenum": 155
+    },
+    {
+      "id": "ghostgem",
+      "name": "Ghost Gem",
+      "spritenum": 161
+    },
+    {
+      "id": "ghostiumz",
+      "name": "Ghostium Z",
+      "spritenum": 644
+    },
+    {
+      "id": "ghostmemory",
+      "name": "Ghost Memory",
+      "spritenum": 674
+    },
+    {
+      "id": "grassgem",
+      "name": "Grass Gem",
+      "spritenum": 172
+    },
+    {
+      "id": "grassiumz",
+      "name": "Grassium Z",
+      "spritenum": 635
+    },
+    {
+      "id": "grassmemory",
+      "name": "Grass Memory",
+      "spritenum": 678
+    },
+    {
+      "id": "grassyseed",
+      "name": "Grassy Seed",
+      "spritenum": 667
+    },
+    {
+      "id": "groundgem",
+      "name": "Ground Gem",
+      "spritenum": 182
+    },
+    {
+      "id": "groundiumz",
+      "name": "Groundium Z",
+      "spritenum": 639
+    },
+    {
+      "id": "groundmemory",
+      "name": "Ground Memory",
+      "spritenum": 671
+    },
+    {
+      "id": "habanberry",
+      "name": "Haban Berry",
+      "spritenum": 185
+    },
+    {
+      "id": "hardstone",
+      "name": "Hard Stone",
+      "spritenum": 187
+    },
+    {
+      "id": "heatrock",
+      "name": "Heat Rock",
+      "spritenum": 193
+    },
+    {
+      "id": "helixfossil",
+      "name": "Helix Fossil",
+      "spritenum": 195
+    },
+    {
+      "id": "icegem",
+      "name": "Ice Gem",
+      "spritenum": 218
+    },
+    {
+      "id": "icememory",
+      "name": "Ice Memory",
+      "spritenum": 681
+    },
+    {
+      "id": "iciumz",
+      "name": "Icium Z",
+      "spritenum": 636
+    },
+    {
+      "id": "icyrock",
+      "name": "Icy Rock",
+      "spritenum": 221
+    },
+    {
+      "id": "inciniumz",
+      "name": "Incinium Z",
+      "spritenum": 651
+    },
+    {
+      "id": "ironball",
+      "name": "Iron Ball",
+      "spritenum": 224
+    },
+    {
+      "id": "jawfossil",
+      "name": "Jaw Fossil",
+      "spritenum": 694
+    },
+    {
+      "id": "kasibberry",
+      "name": "Kasib Berry",
+      "spritenum": 233
+    },
+    {
+      "id": "kebiaberry",
+      "name": "Kebia Berry",
+      "spritenum": 234
+    },
+    {
+      "id": "kingsrock",
+      "name": "King's Rock",
+      "spritenum": 236
+    },
+    {
+      "id": "kommoniumz",
+      "name": "Kommonium Z",
+      "spritenum": 690
+    },
+    {
+      "id": "latiasite",
+      "name": "Latiasite",
+      "spritenum": 629
+    },
+    {
+      "id": "latiosite",
+      "name": "Latiosite",
+      "spritenum": 630
+    },
+    {
+      "id": "laxincense",
+      "name": "Lax Incense",
+      "spritenum": 240
+    },
+    {
+      "id": "leftovers",
+      "name": "Leftovers",
+      "spritenum": 242
+    },
+    {
+      "id": "leppaberry",
+      "name": "Leppa Berry",
+      "spritenum": 244
+    },
+    {
+      "id": "lifeorb",
+      "name": "Life Orb",
+      "spritenum": 249
+    },
+    {
+      "id": "lightball",
+      "name": "Light Ball",
+      "spritenum": 251
+    },
+    {
+      "id": "lightclay",
+      "name": "Light Clay",
+      "spritenum": 252
+    },
+    {
+      "id": "luckypunch",
+      "name": "Lucky Punch",
+      "spritenum": 261
+    },
+    {
+      "id": "lumberry",
+      "name": "Lum Berry",
+      "spritenum": 262
+    },
+    {
+      "id": "lunaliumz",
+      "name": "Lunalium Z",
+      "spritenum": 686
+    },
+    {
+      "id": "lycaniumz",
+      "name": "Lycanium Z",
+      "spritenum": 689
+    },
+    {
+      "id": "machobrace",
+      "name": "Macho Brace",
+      "spritenum": 269
+    },
+    {
+      "id": "magearnite",
+      "name": "Magearnite",
+      "spritenum": 509
+    },
+    {
+      "id": "magnet",
+      "name": "Magnet",
+      "spritenum": 273
+    },
+    {
+      "id": "magostberry",
+      "name": "Magost Berry",
+      "spritenum": 275
+    },
+    {
+      "id": "mail",
+      "name": "Mail",
+      "spritenum": 403
+    },
+    {
+      "id": "marshadiumz",
+      "name": "Marshadium Z",
+      "spritenum": 654
+    },
+    {
+      "id": "mentalherb",
+      "name": "Mental Herb",
+      "spritenum": 285
+    },
+    {
+      "id": "metalcoat",
+      "name": "Metal Coat",
+      "spritenum": 286
+    },
+    {
+      "id": "metalpowder",
+      "name": "Metal Powder",
+      "spritenum": 287
+    },
+    {
+      "id": "metronome",
+      "name": "Metronome",
+      "spritenum": 289
+    },
+    {
+      "id": "mewniumz",
+      "name": "Mewnium Z",
+      "spritenum": 658
+    },
+    {
+      "id": "mewtwonitex",
+      "name": "Mewtwonite X",
+      "spritenum": 600
+    },
+    {
+      "id": "mewtwonitey",
+      "name": "Mewtwonite Y",
+      "spritenum": 601
+    },
+    {
+      "id": "mimikiumz",
+      "name": "Mimikium Z",
+      "spritenum": 688
+    },
+    {
+      "id": "miracleseed",
+      "name": "Miracle Seed",
+      "spritenum": 292
+    },
+    {
+      "id": "mistyseed",
+      "name": "Misty Seed",
+      "spritenum": 666
+    },
+    {
+      "id": "muscleband",
+      "name": "Muscle Band",
+      "spritenum": 297
+    },
+    {
+      "id": "mysticwater",
+      "name": "Mystic Water",
+      "spritenum": 300
+    },
+    {
+      "id": "nanabberry",
+      "name": "Nanab Berry",
+      "spritenum": 302
+    },
+    {
+      "id": "nevermeltice",
+      "name": "Never-Melt Ice",
+      "spritenum": 305
+    },
+    {
+      "id": "nomelberry",
+      "name": "Nomel Berry",
+      "spritenum": 306
+    },
+    {
+      "id": "normalgem",
+      "name": "Normal Gem",
+      "spritenum": 307
+    },
+    {
+      "id": "normaliumz",
+      "name": "Normalium Z",
+      "spritenum": 631
+    },
+    {
+      "id": "occaberry",
+      "name": "Occa Berry",
+      "spritenum": 311
+    },
+    {
+      "id": "oddincense",
+      "name": "Odd Incense",
+      "spritenum": 312
+    },
+    {
+      "id": "oldamber",
+      "name": "Old Amber",
+      "spritenum": 314
+    },
+    {
+      "id": "oranberry",
+      "name": "Oran Berry",
+      "spritenum": 319
+    },
+    {
+      "id": "pamtreberry",
+      "name": "Pamtre Berry",
+      "spritenum": 323
+    },
+    {
+      "id": "passhoberry",
+      "name": "Passho Berry",
+      "spritenum": 329
+    },
+    {
+      "id": "payapaberry",
+      "name": "Payapa Berry",
+      "spritenum": 330
+    },
+    {
+      "id": "pechaberry",
+      "name": "Pecha Berry",
+      "spritenum": 333
+    },
+    {
+      "id": "persimberry",
+      "name": "Persim Berry",
+      "spritenum": 334
+    },
+    {
+      "id": "pikaniumz",
+      "name": "Pikanium Z",
+      "spritenum": 649
+    },
+    {
+      "id": "pikashuniumz",
+      "name": "Pikashunium Z",
+      "spritenum": 659
+    },
+    {
+      "id": "pinapberry",
+      "name": "Pinap Berry",
+      "spritenum": 337
+    },
+    {
+      "id": "plumefossil",
+      "name": "Plume Fossil",
+      "spritenum": 339
+    },
+    {
+      "id": "poisonbarb",
+      "name": "Poison Barb",
+      "spritenum": 343
+    },
+    {
+      "id": "poisongem",
+      "name": "Poison Gem",
+      "spritenum": 344
+    },
+    {
+      "id": "poisoniumz",
+      "name": "Poisonium Z",
+      "spritenum": 638
+    },
+    {
+      "id": "poisonmemory",
+      "name": "Poison Memory",
+      "spritenum": 670
+    },
+    {
+      "id": "primariumz",
+      "name": "Primarium Z",
+      "spritenum": 652
+    },
+    {
+      "id": "psychicgem",
+      "name": "Psychic Gem",
+      "spritenum": 369
+    },
+    {
+      "id": "psychicmemory",
+      "name": "Psychic Memory",
+      "spritenum": 680
+    },
+    {
+      "id": "psychicseed",
+      "name": "Psychic Seed",
+      "spritenum": 665
+    },
+    {
+      "id": "psychiumz",
+      "name": "Psychium Z",
+      "spritenum": 641
+    },
+    {
+      "id": "quickclaw",
+      "name": "Quick Claw",
+      "spritenum": 373
+    },
+    {
+      "id": "quickpowder",
+      "name": "Quick Powder",
+      "spritenum": 374
+    },
+    {
+      "id": "rabutaberry",
+      "name": "Rabuta Berry",
+      "spritenum": 375
+    },
+    {
+      "id": "rawstberry",
+      "name": "Rawst Berry",
+      "spritenum": 381
+    },
+    {
+      "id": "razzberry",
+      "name": "Razz Berry",
+      "spritenum": 384
+    },
+    {
+      "id": "redcard",
+      "name": "Red Card",
+      "spritenum": 387
+    },
+    {
+      "id": "redorb",
+      "name": "Red Orb",
+      "spritenum": 390
+    },
+    {
+      "id": "rindoberry",
+      "name": "Rindo Berry",
+      "spritenum": 409
+    },
+    {
+      "id": "rockgem",
+      "name": "Rock Gem",
+      "spritenum": 415
+    },
+    {
+      "id": "rockincense",
+      "name": "Rock Incense",
+      "spritenum": 416
+    },
+    {
+      "id": "rockiumz",
+      "name": "Rockium Z",
+      "spritenum": 643
+    },
+    {
+      "id": "rockmemory",
+      "name": "Rock Memory",
+      "spritenum": 672
+    },
+    {
+      "id": "rockyhelmet",
+      "name": "Rocky Helmet",
+      "spritenum": 417
+    },
+    {
+      "id": "rootfossil",
+      "name": "Root Fossil",
+      "spritenum": 418
+    },
+    {
+      "id": "roseincense",
+      "name": "Rose Incense",
+      "spritenum": 419
+    },
+    {
+      "id": "roseliberry",
+      "name": "Roseli Berry",
+      "spritenum": 603
+    },
+    {
+      "id": "sachet",
+      "name": "Sachet",
+      "spritenum": 691
+    },
+    {
+      "id": "sailfossil",
+      "name": "Sail Fossil",
+      "spritenum": 695
+    },
+    {
+      "id": "scopelens",
+      "name": "Scope Lens",
+      "spritenum": 429
+    },
+    {
+      "id": "seaincense",
+      "name": "Sea Incense",
+      "spritenum": 430
+    },
+    {
+      "id": "sharpbeak",
+      "name": "Sharp Beak",
+      "spritenum": 436
+    },
+    {
+      "id": "shedshell",
+      "name": "Shed Shell",
+      "spritenum": 437
+    },
+    {
+      "id": "shellbell",
+      "name": "Shell Bell",
+      "spritenum": 438
+    },
+    {
+      "id": "shockdrive",
+      "name": "Shock Drive",
+      "spritenum": 442
+    },
+    {
+      "id": "shucaberry",
+      "name": "Shuca Berry",
+      "spritenum": 443
+    },
+    {
+      "id": "silkscarf",
+      "name": "Silk Scarf",
+      "spritenum": 444
+    },
+    {
+      "id": "silverpowder",
+      "name": "Silver Powder",
+      "spritenum": 447
+    },
+    {
+      "id": "sitrusberry",
+      "name": "Sitrus Berry",
+      "spritenum": 448
+    },
+    {
+      "id": "skullfossil",
+      "name": "Skull Fossil",
+      "spritenum": 449
+    },
+    {
+      "id": "smoothrock",
+      "name": "Smooth Rock",
+      "spritenum": 453
+    },
+    {
+      "id": "snorliumz",
+      "name": "Snorlium Z",
+      "spritenum": 656
+    },
+    {
+      "id": "softsand",
+      "name": "Soft Sand",
+      "spritenum": 456
+    },
+    {
+      "id": "solganiumz",
+      "name": "Solganium Z",
+      "spritenum": 685
+    },
+    {
+      "id": "spelonberry",
+      "name": "Spelon Berry",
+      "spritenum": 462
+    },
+    {
+      "id": "steelgem",
+      "name": "Steel Gem",
+      "spritenum": 473
+    },
+    {
+      "id": "steeliumz",
+      "name": "Steelium Z",
+      "spritenum": 647
+    },
+    {
+      "id": "steelmemory",
+      "name": "Steel Memory",
+      "spritenum": 675
+    },
+    {
+      "id": "stick",
+      "name": "Stick",
+      "spritenum": 475
+    },
+    {
+      "id": "tangaberry",
+      "name": "Tanga Berry",
+      "spritenum": 487
+    },
+    {
+      "id": "tapuniumz",
+      "name": "Tapunium Z",
+      "spritenum": 653
+    },
+    {
+      "id": "tatsugirinite",
+      "name": "Tatsugirinite",
+      "spritenum": 513
+    },
+    {
+      "id": "terrainextender",
+      "name": "Terrain Extender",
+      "spritenum": 662
+    },
+    {
+      "id": "thickclub",
+      "name": "Thick Club",
+      "spritenum": 491
+    },
+    {
+      "id": "tr00",
+      "name": "TR00",
+      "spritenum": 721
+    },
+    {
+      "id": "tr01",
+      "name": "TR01",
+      "spritenum": 721
+    },
+    {
+      "id": "tr02",
+      "name": "TR02",
+      "spritenum": 730
+    },
+    {
+      "id": "tr03",
+      "name": "TR03",
+      "spritenum": 731
+    },
+    {
+      "id": "tr04",
+      "name": "TR04",
+      "spritenum": 731
+    },
+    {
+      "id": "tr05",
+      "name": "TR05",
+      "spritenum": 735
+    },
+    {
+      "id": "tr06",
+      "name": "TR06",
+      "spritenum": 735
+    },
+    {
+      "id": "tr07",
+      "name": "TR07",
+      "spritenum": 722
+    },
+    {
+      "id": "tr08",
+      "name": "TR08",
+      "spritenum": 733
+    },
+    {
+      "id": "tr09",
+      "name": "TR09",
+      "spritenum": 733
+    },
+    {
+      "id": "tr10",
+      "name": "TR10",
+      "spritenum": 725
+    },
+    {
+      "id": "tr11",
+      "name": "TR11",
+      "spritenum": 734
+    },
+    {
+      "id": "tr12",
+      "name": "TR12",
+      "spritenum": 734
+    },
+    {
+      "id": "tr13",
+      "name": "TR13",
+      "spritenum": 721
+    },
+    {
+      "id": "tr14",
+      "name": "TR14",
+      "spritenum": 721
+    },
+    {
+      "id": "tr15",
+      "name": "TR15",
+      "spritenum": 730
+    },
+    {
+      "id": "tr16",
+      "name": "TR16",
+      "spritenum": 731
+    },
+    {
+      "id": "tr17",
+      "name": "TR17",
+      "spritenum": 734
+    },
+    {
+      "id": "tr18",
+      "name": "TR18",
+      "spritenum": 727
+    },
+    {
+      "id": "tr19",
+      "name": "TR19",
+      "spritenum": 721
+    },
+    {
+      "id": "tr20",
+      "name": "TR20",
+      "spritenum": 721
+    },
+    {
+      "id": "tr21",
+      "name": "TR21",
+      "spritenum": 722
+    },
+    {
+      "id": "tr22",
+      "name": "TR22",
+      "spritenum": 724
+    },
+    {
+      "id": "tr23",
+      "name": "TR23",
+      "spritenum": 725
+    },
+    {
+      "id": "tr24",
+      "name": "TR24",
+      "spritenum": 736
+    },
+    {
+      "id": "tr25",
+      "name": "TR25",
+      "spritenum": 734
+    },
+    {
+      "id": "tr26",
+      "name": "TR26",
+      "spritenum": 721
+    },
+    {
+      "id": "tr27",
+      "name": "TR27",
+      "spritenum": 721
+    },
+    {
+      "id": "tr28",
+      "name": "TR28",
+      "spritenum": 727
+    },
+    {
+      "id": "tr29",
+      "name": "TR29",
+      "spritenum": 721
+    },
+    {
+      "id": "tr30",
+      "name": "TR30",
+      "spritenum": 721
+    },
+    {
+      "id": "tr31",
+      "name": "TR31",
+      "spritenum": 729
+    },
+    {
+      "id": "tr32",
+      "name": "TR32",
+      "spritenum": 737
+    },
+    {
+      "id": "tr33",
+      "name": "TR33",
+      "spritenum": 728
+    },
+    {
+      "id": "tr34",
+      "name": "TR34",
+      "spritenum": 734
+    },
+    {
+      "id": "tr35",
+      "name": "TR35",
+      "spritenum": 721
+    },
+    {
+      "id": "tr36",
+      "name": "TR36",
+      "spritenum": 730
+    },
+    {
+      "id": "tr37",
+      "name": "TR37",
+      "spritenum": 737
+    },
+    {
+      "id": "tr38",
+      "name": "TR38",
+      "spritenum": 734
+    },
+    {
+      "id": "tr39",
+      "name": "TR39",
+      "spritenum": 722
+    },
+    {
+      "id": "tr40",
+      "name": "TR40",
+      "spritenum": 734
+    },
+    {
+      "id": "tr41",
+      "name": "TR41",
+      "spritenum": 730
+    },
+    {
+      "id": "tr42",
+      "name": "TR42",
+      "spritenum": 721
+    },
+    {
+      "id": "tr43",
+      "name": "TR43",
+      "spritenum": 730
+    },
+    {
+      "id": "tr44",
+      "name": "TR44",
+      "spritenum": 734
+    },
+    {
+      "id": "tr45",
+      "name": "TR45",
+      "spritenum": 731
+    },
+    {
+      "id": "tr46",
+      "name": "TR46",
+      "spritenum": 729
+    },
+    {
+      "id": "tr47",
+      "name": "TR47",
+      "spritenum": 736
+    },
+    {
+      "id": "tr48",
+      "name": "TR48",
+      "spritenum": 722
+    },
+    {
+      "id": "tr49",
+      "name": "TR49",
+      "spritenum": 734
+    },
+    {
+      "id": "tr50",
+      "name": "TR50",
+      "spritenum": 732
+    },
+    {
+      "id": "tr51",
+      "name": "TR51",
+      "spritenum": 736
+    },
+    {
+      "id": "tr52",
+      "name": "TR52",
+      "spritenum": 729
+    },
+    {
+      "id": "tr53",
+      "name": "TR53",
+      "spritenum": 722
+    },
+    {
+      "id": "tr54",
+      "name": "TR54",
+      "spritenum": 724
+    },
+    {
+      "id": "tr55",
+      "name": "TR55",
+      "spritenum": 730
+    },
+    {
+      "id": "tr56",
+      "name": "TR56",
+      "spritenum": 722
+    },
+    {
+      "id": "tr57",
+      "name": "TR57",
+      "spritenum": 724
+    },
+    {
+      "id": "tr58",
+      "name": "TR58",
+      "spritenum": 737
+    },
+    {
+      "id": "tr59",
+      "name": "TR59",
+      "spritenum": 732
+    },
+    {
+      "id": "tr60",
+      "name": "TR60",
+      "spritenum": 727
+    },
+    {
+      "id": "tr61",
+      "name": "TR61",
+      "spritenum": 727
+    },
+    {
+      "id": "tr62",
+      "name": "TR62",
+      "spritenum": 736
+    },
+    {
+      "id": "tr63",
+      "name": "TR63",
+      "spritenum": 726
+    },
+    {
+      "id": "tr64",
+      "name": "TR64",
+      "spritenum": 722
+    },
+    {
+      "id": "tr65",
+      "name": "TR65",
+      "spritenum": 732
+    },
+    {
+      "id": "tr66",
+      "name": "TR66",
+      "spritenum": 723
+    },
+    {
+      "id": "tr67",
+      "name": "TR67",
+      "spritenum": 725
+    },
+    {
+      "id": "tr68",
+      "name": "TR68",
+      "spritenum": 737
+    },
+    {
+      "id": "tr69",
+      "name": "TR69",
+      "spritenum": 734
+    },
+    {
+      "id": "tr70",
+      "name": "TR70",
+      "spritenum": 729
+    },
+    {
+      "id": "tr71",
+      "name": "TR71",
+      "spritenum": 732
+    },
+    {
+      "id": "tr72",
+      "name": "TR72",
+      "spritenum": 732
+    },
+    {
+      "id": "tr73",
+      "name": "TR73",
+      "spritenum": 724
+    },
+    {
+      "id": "tr74",
+      "name": "TR74",
+      "spritenum": 729
+    },
+    {
+      "id": "tr75",
+      "name": "TR75",
+      "spritenum": 726
+    },
+    {
+      "id": "tr76",
+      "name": "TR76",
+      "spritenum": 726
+    },
+    {
+      "id": "tr77",
+      "name": "TR77",
+      "spritenum": 732
+    },
+    {
+      "id": "tr78",
+      "name": "TR78",
+      "spritenum": 724
+    },
+    {
+      "id": "tr79",
+      "name": "TR79",
+      "spritenum": 729
+    },
+    {
+      "id": "tr80",
+      "name": "TR80",
+      "spritenum": 733
+    },
+    {
+      "id": "tr81",
+      "name": "TR81",
+      "spritenum": 737
+    },
+    {
+      "id": "tr82",
+      "name": "TR82",
+      "spritenum": 734
+    },
+    {
+      "id": "tr83",
+      "name": "TR83",
+      "spritenum": 734
+    },
+    {
+      "id": "tr84",
+      "name": "TR84",
+      "spritenum": 731
+    },
+    {
+      "id": "tr85",
+      "name": "TR85",
+      "spritenum": 721
+    },
+    {
+      "id": "tr86",
+      "name": "TR86",
+      "spritenum": 733
+    },
+    {
+      "id": "tr87",
+      "name": "TR87",
+      "spritenum": 725
+    },
+    {
+      "id": "tr88",
+      "name": "TR88",
+      "spritenum": 730
+    },
+    {
+      "id": "tr89",
+      "name": "TR89",
+      "spritenum": 723
+    },
+    {
+      "id": "tr90",
+      "name": "TR90",
+      "spritenum": 738
+    },
+    {
+      "id": "tr91",
+      "name": "TR91",
+      "spritenum": 724
+    },
+    {
+      "id": "tr92",
+      "name": "TR92",
+      "spritenum": 738
+    },
+    {
+      "id": "tr93",
+      "name": "TR93",
+      "spritenum": 737
+    },
+    {
+      "id": "tr94",
+      "name": "TR94",
+      "spritenum": 725
+    },
+    {
+      "id": "tr95",
+      "name": "TR95",
+      "spritenum": 737
+    },
+    {
+      "id": "tr96",
+      "name": "TR96",
+      "spritenum": 727
+    },
+    {
+      "id": "tr97",
+      "name": "TR97",
+      "spritenum": 734
+    },
+    {
+      "id": "tr98",
+      "name": "TR98",
+      "spritenum": 731
+    },
+    {
+      "id": "tr99",
+      "name": "TR99",
+      "spritenum": 722
+    },
+    {
+      "id": "twistedspoon",
+      "name": "Twisted Spoon",
+      "spritenum": 520
+    },
+    {
+      "id": "ultranecroziumz",
+      "name": "Ultranecrozium Z",
+      "spritenum": 687
+    },
+    {
+      "id": "wacanberry",
+      "name": "Wacan Berry",
+      "spritenum": 526
+    },
+    {
+      "id": "watergem",
+      "name": "Water Gem",
+      "spritenum": 528
+    },
+    {
+      "id": "wateriumz",
+      "name": "Waterium Z",
+      "spritenum": 633
+    },
+    {
+      "id": "watermemory",
+      "name": "Water Memory",
+      "spritenum": 677
+    },
+    {
+      "id": "watmelberry",
+      "name": "Watmel Berry",
+      "spritenum": 530
+    },
+    {
+      "id": "waveincense",
+      "name": "Wave Incense",
+      "spritenum": 531
+    },
+    {
+      "id": "wepearberry",
+      "name": "Wepear Berry",
+      "spritenum": 533
+    },
+    {
+      "id": "whippeddream",
+      "name": "Whipped Dream",
+      "spritenum": 692
+    },
+    {
+      "id": "whiteherb",
+      "name": "White Herb",
+      "spritenum": 535
+    },
+    {
+      "id": "widelens",
+      "name": "Wide Lens",
+      "spritenum": 537
+    },
+    {
+      "id": "wiseglasses",
+      "name": "Wise Glasses",
+      "spritenum": 539
+    },
+    {
+      "id": "yacheberry",
+      "name": "Yache Berry",
+      "spritenum": 567
+    },
+    {
+      "id": "zeraorite",
+      "name": "Zeraorite",
+      "spritenum": 510
+    },
+    {
+      "id": "zoomlens",
+      "name": "Zoom Lens",
+      "spritenum": 574
+    },
+    {
+      "id": "zygardite",
+      "name": "Zygardite",
+      "spritenum": 568
+    },
+    {
+      "id": "berry",
+      "name": "Berry",
+      "spritenum": 319
+    },
+    {
+      "id": "berserkgene",
+      "name": "Berserk Gene",
+      "spritenum": 388
+    },
+    {
+      "id": "bitterberry",
+      "name": "Bitter Berry",
+      "spritenum": 334
+    },
+    {
+      "id": "burntberry",
+      "name": "Burnt Berry",
+      "spritenum": 13
+    },
+    {
+      "id": "goldberry",
+      "name": "Gold Berry",
+      "spritenum": 448
+    },
+    {
+      "id": "iceberry",
+      "name": "Ice Berry",
+      "spritenum": 381
+    },
+    {
+      "id": "mintberry",
+      "name": "Mint Berry",
+      "spritenum": 65
+    },
+    {
+      "id": "miracleberry",
+      "name": "Miracle Berry",
+      "spritenum": 262
+    },
+    {
+      "id": "mysteryberry",
+      "name": "Mystery Berry",
+      "spritenum": 244
+    },
+    {
+      "id": "pinkbow",
+      "name": "Pink Bow",
+      "spritenum": 444
+    },
+    {
+      "id": "polkadotbow",
+      "name": "Polkadot Bow",
+      "spritenum": 444
+    },
+    {
+      "id": "przcureberry",
+      "name": "PRZ Cure Berry",
+      "spritenum": 63
+    },
+    {
+      "id": "psncureberry",
+      "name": "PSN Cure Berry",
+      "spritenum": 333
+    }
+  ]
+}

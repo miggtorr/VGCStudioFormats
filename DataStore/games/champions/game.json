@@ -1,0 +1,9 @@
+{
+  "id": "champions",
+  "name": "Pokémon Champions",
+  "defaultlevel": 50,
+  "statPointFormat": {
+    "maxPointsPerStat": 32,
+    "maxPointsTotal": 66
+  }
+}

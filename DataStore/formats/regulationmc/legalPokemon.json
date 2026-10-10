@@ -1,0 +1,1153 @@
+{
+  "legalPokemon": [
+    {
+      "id": "venusaur"
+    },
+    {
+      "id": "venusaurmega"
+    },
+    {
+      "id": "charizard"
+    },
+    {
+      "id": "charizardmegax"
+    },
+    {
+      "id": "charizardmegay"
+    },
+    {
+      "id": "blastoise"
+    },
+    {
+      "id": "blastoisemega"
+    },
+    {
+      "id": "beedrill"
+    },
+    {
+      "id": "beedrillmega"
+    },
+    {
+      "id": "pidgeot"
+    },
+    {
+      "id": "pidgeotmega"
+    },
+    {
+      "id": "arbok"
+    },
+    {
+      "id": "pikachu"
+    },
+    {
+      "id": "raichu"
+    },
+    {
+      "id": "raichualola"
+    },
+    {
+      "id": "raichumegax"
+    },
+    {
+      "id": "raichumegay"
+    },
+    {
+      "id": "clefable"
+    },
+    {
+      "id": "clefablemega"
+    },
+    {
+      "id": "ninetales"
+    },
+    {
+      "id": "ninetalesalola"
+    },
+    {
+      "id": "wigglytuff"
+    },
+    {
+      "id": "vileplume"
+    },
+    {
+      "id": "persian"
+    },
+    {
+      "id": "persianalola"
+    },
+    {
+      "id": "arcanine"
+    },
+    {
+      "id": "arcaninehisui"
+    },
+    {
+      "id": "alakazam"
+    },
+    {
+      "id": "alakazammega"
+    },
+    {
+      "id": "machamp"
+    },
+    {
+      "id": "victreebel"
+    },
+    {
+      "id": "victreebelmega"
+    },
+    {
+      "id": "slowbro"
+    },
+    {
+      "id": "slowbromega"
+    },
+    {
+      "id": "slowbrogalar"
+    },
+    {
+      "id": "farfetchd"
+    },
+    {
+      "id": "gengar"
+    },
+    {
+      "id": "gengarmega"
+    },
+    {
+      "id": "kangaskhan"
+    },
+    {
+      "id": "kangaskhanmega"
+    },
+    {
+      "id": "starmie"
+    },
+    {
+      "id": "starmiemega"
+    },
+    {
+      "id": "mrmime"
+    },
+    {
+      "id": "pinsir"
+    },
+    {
+      "id": "pinsirmega"
+    },
+    {
+      "id": "tauros"
+    },
+    {
+      "id": "taurospaldeacombat"
+    },
+    {
+      "id": "taurospaldeablaze"
+    },
+    {
+      "id": "taurospaldeaaqua"
+    },
+    {
+      "id": "gyarados"
+    },
+    {
+      "id": "gyaradosmega"
+    },
+    {
+      "id": "ditto"
+    },
+    {
+      "id": "vaporeon"
+    },
+    {
+      "id": "jolteon"
+    },
+    {
+      "id": "flareon"
+    },
+    {
+      "id": "aerodactyl"
+    },
+    {
+      "id": "aerodactylmega"
+    },
+    {
+      "id": "snorlax"
+    },
+    {
+      "id": "dragonite"
+    },
+    {
+      "id": "dragonitemega"
+    },
+    {
+      "id": "meganium"
+    },
+    {
+      "id": "meganiummega"
+    },
+    {
+      "id": "typhlosion"
+    },
+    {
+      "id": "typhlosionhisui"
+    },
+    {
+      "id": "feraligatr"
+    },
+    {
+      "id": "feraligatrmega"
+    },
+    {
+      "id": "ariados"
+    },
+    {
+      "id": "ampharos"
+    },
+    {
+      "id": "ampharosmega"
+    },
+    {
+      "id": "azumarill"
+    },
+    {
+      "id": "politoed"
+    },
+    {
+      "id": "espeon"
+    },
+    {
+      "id": "umbreon"
+    },
+    {
+      "id": "slowking"
+    },
+    {
+      "id": "slowkinggalar"
+    },
+    {
+      "id": "forretress"
+    },
+    {
+      "id": "steelix"
+    },
+    {
+      "id": "steelixmega"
+    },
+    {
+      "id": "qwilfish"
+    },
+    {
+      "id": "scizor"
+    },
+    {
+      "id": "scizormega"
+    },
+    {
+      "id": "heracross"
+    },
+    {
+      "id": "heracrossmega"
+    },
+    {
+      "id": "skarmory"
+    },
+    {
+      "id": "skarmorymega"
+    },
+    {
+      "id": "houndoom"
+    },
+    {
+      "id": "houndoommega"
+    },
+    {
+      "id": "tyranitar"
+    },
+    {
+      "id": "tyranitarmega"
+    },
+    {
+      "id": "sceptile"
+    },
+    {
+      "id": "sceptilemega"
+    },
+    {
+      "id": "blaziken"
+    },
+    {
+      "id": "blazikenmega"
+    },
+    {
+      "id": "swampert"
+    },
+    {
+      "id": "swampertmega"
+    },
+    {
+      "id": "pelipper"
+    },
+    {
+      "id": "gardevoir"
+    },
+    {
+      "id": "gardevoirmega"
+    },
+    {
+      "id": "sableye"
+    },
+    {
+      "id": "sableyemega"
+    },
+    {
+      "id": "mawile"
+    },
+    {
+      "id": "mawilemega"
+    },
+    {
+      "id": "aggron"
+    },
+    {
+      "id": "aggronmega"
+    },
+    {
+      "id": "medicham"
+    },
+    {
+      "id": "medichammega"
+    },
+    {
+      "id": "manectric"
+    },
+    {
+      "id": "manectricmega"
+    },
+    {
+      "id": "swalot"
+    },
+    {
+      "id": "sharpedo"
+    },
+    {
+      "id": "sharpedomega"
+    },
+    {
+      "id": "camerupt"
+    },
+    {
+      "id": "cameruptmega"
+    },
+    {
+      "id": "torkoal"
+    },
+    {
+      "id": "altaria"
+    },
+    {
+      "id": "altariamega"
+    },
+    {
+      "id": "milotic"
+    },
+    {
+      "id": "castform"
+    },
+    {
+      "id": "castformsunny"
+    },
+    {
+      "id": "castformrainy"
+    },
+    {
+      "id": "castformsnowy"
+    },
+    {
+      "id": "banette"
+    },
+    {
+      "id": "banettemega"
+    },
+    {
+      "id": "chimecho"
+    },
+    {
+      "id": "chimechomega"
+    },
+    {
+      "id": "absol"
+    },
+    {
+      "id": "absolmega"
+    },
+    {
+      "id": "absolmegaz"
+    },
+    {
+      "id": "glalie"
+    },
+    {
+      "id": "glaliemega"
+    },
+    {
+      "id": "salamence"
+    },
+    {
+      "id": "salamencemega"
+    },
+    {
+      "id": "metagross"
+    },
+    {
+      "id": "metagrossmega"
+    },
+    {
+      "id": "torterra"
+    },
+    {
+      "id": "infernape"
+    },
+    {
+      "id": "empoleon"
+    },
+    {
+      "id": "staraptor"
+    },
+    {
+      "id": "staraptormega"
+    },
+    {
+      "id": "luxray"
+    },
+    {
+      "id": "roserade"
+    },
+    {
+      "id": "rampardos"
+    },
+    {
+      "id": "bastiodon"
+    },
+    {
+      "id": "lopunny"
+    },
+    {
+      "id": "lopunnymega"
+    },
+    {
+      "id": "spiritomb"
+    },
+    {
+      "id": "garchomp"
+    },
+    {
+      "id": "garchompmega"
+    },
+    {
+      "id": "garchompmegaz"
+    },
+    {
+      "id": "lucario"
+    },
+    {
+      "id": "lucariomega"
+    },
+    {
+      "id": "lucariomegaz"
+    },
+    {
+      "id": "hippowdon"
+    },
+    {
+      "id": "toxicroak"
+    },
+    {
+      "id": "abomasnow"
+    },
+    {
+      "id": "abomasnowmega"
+    },
+    {
+      "id": "weavile"
+    },
+    {
+      "id": "rhyperior"
+    },
+    {
+      "id": "leafeon"
+    },
+    {
+      "id": "glaceon"
+    },
+    {
+      "id": "gliscor"
+    },
+    {
+      "id": "mamoswine"
+    },
+    {
+      "id": "gallade"
+    },
+    {
+      "id": "gallademega"
+    },
+    {
+      "id": "froslass"
+    },
+    {
+      "id": "froslassmega"
+    },
+    {
+      "id": "rotom"
+    },
+    {
+      "id": "rotomheat"
+    },
+    {
+      "id": "rotomwash"
+    },
+    {
+      "id": "rotomfrost"
+    },
+    {
+      "id": "rotomfan"
+    },
+    {
+      "id": "rotommow"
+    },
+    {
+      "id": "serperior"
+    },
+    {
+      "id": "emboar"
+    },
+    {
+      "id": "emboarmega"
+    },
+    {
+      "id": "samurott"
+    },
+    {
+      "id": "samurotthisui"
+    },
+    {
+      "id": "watchog"
+    },
+    {
+      "id": "liepard"
+    },
+    {
+      "id": "simisage"
+    },
+    {
+      "id": "simisear"
+    },
+    {
+      "id": "simipour"
+    },
+    {
+      "id": "musharna"
+    },
+    {
+      "id": "excadrill"
+    },
+    {
+      "id": "excadrillmega"
+    },
+    {
+      "id": "audino"
+    },
+    {
+      "id": "audinomega"
+    },
+    {
+      "id": "conkeldurr"
+    },
+    {
+      "id": "scolipede"
+    },
+    {
+      "id": "scolipedemega"
+    },
+    {
+      "id": "whimsicott"
+    },
+    {
+      "id": "krookodile"
+    },
+    {
+      "id": "scrafty"
+    },
+    {
+      "id": "scraftymega"
+    },
+    {
+      "id": "cofagrigus"
+    },
+    {
+      "id": "garbodor"
+    },
+    {
+      "id": "zoroark"
+    },
+    {
+      "id": "zoroarkhisui"
+    },
+    {
+      "id": "reuniclus"
+    },
+    {
+      "id": "vanilluxe"
+    },
+    {
+      "id": "emolga"
+    },
+    {
+      "id": "eelektross"
+    },
+    {
+      "id": "eelektrossmega"
+    },
+    {
+      "id": "chandelure"
+    },
+    {
+      "id": "chandeluremega"
+    },
+    {
+      "id": "beartic"
+    },
+    {
+      "id": "stunfisk"
+    },
+    {
+      "id": "stunfiskgalar"
+    },
+    {
+      "id": "golurk"
+    },
+    {
+      "id": "golurkmega"
+    },
+    {
+      "id": "hydreigon"
+    },
+    {
+      "id": "volcarona"
+    },
+    {
+      "id": "chesnaught"
+    },
+    {
+      "id": "chesnaughtmega"
+    },
+    {
+      "id": "delphox"
+    },
+    {
+      "id": "delphoxmega"
+    },
+    {
+      "id": "greninja"
+    },
+    {
+      "id": "greninjamega"
+    },
+    {
+      "id": "diggersby"
+    },
+    {
+      "id": "talonflame"
+    },
+    {
+      "id": "vivillon"
+    },
+    {
+      "id": "vivillonicysnow"
+    },
+    {
+      "id": "vivillonpolar"
+    },
+    {
+      "id": "vivillontundra"
+    },
+    {
+      "id": "vivilloncontinental"
+    },
+    {
+      "id": "vivillongarden"
+    },
+    {
+      "id": "vivillonelegant"
+    },
+    {
+      "id": "vivillonmodern"
+    },
+    {
+      "id": "vivillonmarine"
+    },
+    {
+      "id": "vivillonarchipelago"
+    },
+    {
+      "id": "vivillonhighplains"
+    },
+    {
+      "id": "vivillonsandstorm"
+    },
+    {
+      "id": "vivillonriver"
+    },
+    {
+      "id": "vivillonmonsoon"
+    },
+    {
+      "id": "vivillonsavanna"
+    },
+    {
+      "id": "vivillonsun"
+    },
+    {
+      "id": "vivillonocean"
+    },
+    {
+      "id": "vivillonjungle"
+    },
+    {
+      "id": "vivillonfancy"
+    },
+    {
+      "id": "vivillonpokeball"
+    },
+    {
+      "id": "pyroar"
+    },
+    {
+      "id": "pyroarmega"
+    },
+    {
+      "id": "floetteeternal"
+    },
+    {
+      "id": "floettemega"
+    },
+    {
+      "id": "florges"
+    },
+    {
+      "id": "gogoat"
+    },
+    {
+      "id": "pangoro"
+    },
+    {
+      "id": "furfrou"
+    },
+    {
+      "id": "meowstic"
+    },
+    {
+      "id": "meowsticf"
+    },
+    {
+      "id": "meowsticmmega"
+    },
+    {
+      "id": "meowsticfmega"
+    },
+    {
+      "id": "aegislash"
+    },
+    {
+      "id": "aegislashblade"
+    },
+    {
+      "id": "aromatisse"
+    },
+    {
+      "id": "slurpuff"
+    },
+    {
+      "id": "malamar"
+    },
+    {
+      "id": "malamarmega"
+    },
+    {
+      "id": "barbaracle"
+    },
+    {
+      "id": "barbaraclemega"
+    },
+    {
+      "id": "dragalge"
+    },
+    {
+      "id": "dragalgemega"
+    },
+    {
+      "id": "clawitzer"
+    },
+    {
+      "id": "heliolisk"
+    },
+    {
+      "id": "tyrantrum"
+    },
+    {
+      "id": "aurorus"
+    },
+    {
+      "id": "sylveon"
+    },
+    {
+      "id": "hawlucha"
+    },
+    {
+      "id": "hawluchamega"
+    },
+    {
+      "id": "dedenne"
+    },
+    {
+      "id": "goodra"
+    },
+    {
+      "id": "goodrahisui"
+    },
+    {
+      "id": "klefki"
+    },
+    {
+      "id": "trevenant"
+    },
+    {
+      "id": "gourgeist"
+    },
+    {
+      "id": "gourgeistsmall"
+    },
+    {
+      "id": "gourgeistlarge"
+    },
+    {
+      "id": "gourgeistsuper"
+    },
+    {
+      "id": "avalugg"
+    },
+    {
+      "id": "avalugghisui"
+    },
+    {
+      "id": "noivern"
+    },
+    {
+      "id": "decidueye"
+    },
+    {
+      "id": "decidueyehisui"
+    },
+    {
+      "id": "incineroar"
+    },
+    {
+      "id": "primarina"
+    },
+    {
+      "id": "toucannon"
+    },
+    {
+      "id": "crabominable"
+    },
+    {
+      "id": "crabominablemega"
+    },
+    {
+      "id": "lycanroc"
+    },
+    {
+      "id": "lycanrocmidnight"
+    },
+    {
+      "id": "lycanrocdusk"
+    },
+    {
+      "id": "toxapex"
+    },
+    {
+      "id": "mudsdale"
+    },
+    {
+      "id": "araquanid"
+    },
+    {
+      "id": "salazzle"
+    },
+    {
+      "id": "tsareena"
+    },
+    {
+      "id": "oranguru"
+    },
+    {
+      "id": "passimian"
+    },
+    {
+      "id": "golisopod"
+    },
+    {
+      "id": "golisopodmega"
+    },
+    {
+      "id": "mimikyu"
+    },
+    {
+      "id": "mimikyubusted"
+    },
+    {
+      "id": "drampa"
+    },
+    {
+      "id": "drampamega"
+    },
+    {
+      "id": "kommoo"
+    },
+    {
+      "id": "rillaboom"
+    },
+    {
+      "id": "cinderace"
+    },
+    {
+      "id": "inteleon"
+    },
+    {
+      "id": "corviknight"
+    },
+    {
+      "id": "thievul"
+    },
+    {
+      "id": "flapple"
+    },
+    {
+      "id": "appletun"
+    },
+    {
+      "id": "sandaconda"
+    },
+    {
+      "id": "toxtricity"
+    },
+    {
+      "id": "toxtricitylowkey"
+    },
+    {
+      "id": "toxtricitygmax"
+    },
+    {
+      "id": "grapploct"
+    },
+    {
+      "id": "polteageist"
+    },
+    {
+      "id": "polteageistantique"
+    },
+    {
+      "id": "hatterene"
+    },
+    {
+      "id": "grimmsnarl"
+    },
+    {
+      "id": "perrserker"
+    },
+    {
+      "id": "sirfetchd"
+    },
+    {
+      "id": "mrrime"
+    },
+    {
+      "id": "runerigus"
+    },
+    {
+      "id": "alcremie"
+    },
+    {
+      "id": "alcremierubycream"
+    },
+    {
+      "id": "alcremiematchacream"
+    },
+    {
+      "id": "alcremiemintcream"
+    },
+    {
+      "id": "alcremielemoncream"
+    },
+    {
+      "id": "alcremierubyswirl"
+    },
+    {
+      "id": "alcremiecaramelswirl"
+    },
+    {
+      "id": "alcremierainbowswirl"
+    },
+    {
+      "id": "falinks"
+    },
+    {
+      "id": "falinksmega"
+    },
+    {
+      "id": "pincurchin"
+    },
+    {
+      "id": "indeedee"
+    },
+    {
+      "id": "indeedeef"
+    },
+    {
+      "id": "morpeko"
+    },
+    {
+      "id": "morpekohangry"
+    },
+    {
+      "id": "dragapult"
+    },
+    {
+      "id": "wyrdeer"
+    },
+    {
+      "id": "kleavor"
+    },
+    {
+      "id": "basculegion"
+    },
+    {
+      "id": "basculegionf"
+    },
+    {
+      "id": "sneasler"
+    },
+    {
+      "id": "overqwil"
+    },
+    {
+      "id": "meowscarada"
+    },
+    {
+      "id": "skeledirge"
+    },
+    {
+      "id": "quaquaval"
+    },
+    {
+      "id": "pawmot"
+    },
+    {
+      "id": "maushold"
+    },
+    {
+      "id": "mausholdfour"
+    },
+    {
+      "id": "arboliva"
+    },
+    {
+      "id": "squawkabilly"
+    },
+    {
+      "id": "squawkabillyblue"
+    },
+    {
+      "id": "squawkabillyyellow"
+    },
+    {
+      "id": "squawkabillywhite"
+    },
+    {
+      "id": "garganacl"
+    },
+    {
+      "id": "armarouge"
+    },
+    {
+      "id": "ceruledge"
+    },
+    {
+      "id": "bellibolt"
+    },
+    {
+      "id": "mabosstiff"
+    },
+    {
+      "id": "scovillain"
+    },
+    {
+      "id": "scovillainmega"
+    },
+    {
+      "id": "espathra"
+    },
+    {
+      "id": "tinkaton"
+    },
+    {
+      "id": "palafin"
+    },
+    {
+      "id": "palafinhero"
+    },
+    {
+      "id": "orthworm"
+    },
+    {
+      "id": "glimmora"
+    },
+    {
+      "id": "glimmoramega"
+    },
+    {
+      "id": "houndstone"
+    },
+    {
+      "id": "annihilape"
+    },
+    {
+      "id": "farigiraf"
+    },
+    {
+      "id": "kingambit"
+    },
+    {
+      "id": "baxcalibur"
+    },
+    {
+      "id": "baxcaliburmega"
+    },
+    {
+      "id": "gholdengo"
+    },
+    {
+      "id": "sinistcha"
+    },
+    {
+      "id": "sinistchamasterpiece"
+    },
+    {
+      "id": "archaludon"
+    },
+    {
+      "id": "hydrapple"
+    }
+  ]
+}

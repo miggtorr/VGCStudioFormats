@@ -1,0 +1,958 @@
+{
+  "abilityData": [
+    {
+      "id": "angershell"
+    },
+    {
+      "id": "berserk"
+    },
+    {
+      "id": "dragonize"
+    },
+    {
+      "id": "eelevate"
+    },
+    {
+      "id": "emergencyexit"
+    },
+    {
+      "id": "firemane"
+    },
+    {
+      "id": "healer"
+    },
+    {
+      "id": "megasol"
+    },
+    {
+      "id": "naturalcure"
+    },
+    {
+      "id": "piercingdrill"
+    },
+    {
+      "id": "regenerator"
+    },
+    {
+      "id": "runaway"
+    },
+    {
+      "id": "spicyspray"
+    },
+    {
+      "id": "unseenfist"
+    },
+    {
+      "id": "wimpout"
+    },
+    {
+      "id": "noability"
+    },
+    {
+      "id": "adaptability"
+    },
+    {
+      "id": "aerilate"
+    },
+    {
+      "id": "aftermath"
+    },
+    {
+      "id": "airlock"
+    },
+    {
+      "id": "analytic"
+    },
+    {
+      "id": "angerpoint"
+    },
+    {
+      "id": "anticipation"
+    },
+    {
+      "id": "arenatrap"
+    },
+    {
+      "id": "armortail"
+    },
+    {
+      "id": "aromaveil"
+    },
+    {
+      "id": "asoneglastrier"
+    },
+    {
+      "id": "asonespectrier"
+    },
+    {
+      "id": "aurabreak"
+    },
+    {
+      "id": "auraguard"
+    },
+    {
+      "id": "baddreams"
+    },
+    {
+      "id": "ballfetch"
+    },
+    {
+      "id": "battery"
+    },
+    {
+      "id": "battlearmor"
+    },
+    {
+      "id": "battlebond"
+    },
+    {
+      "id": "beadsofruin"
+    },
+    {
+      "id": "beastboost"
+    },
+    {
+      "id": "bigpecks"
+    },
+    {
+      "id": "blaze"
+    },
+    {
+      "id": "bulletproof"
+    },
+    {
+      "id": "cheekpouch"
+    },
+    {
+      "id": "chillingneigh"
+    },
+    {
+      "id": "chlorophyll"
+    },
+    {
+      "id": "clearbody"
+    },
+    {
+      "id": "cloudnine"
+    },
+    {
+      "id": "colorchange"
+    },
+    {
+      "id": "comatose"
+    },
+    {
+      "id": "commander"
+    },
+    {
+      "id": "competitive"
+    },
+    {
+      "id": "compoundeyes"
+    },
+    {
+      "id": "contrary"
+    },
+    {
+      "id": "corrosion"
+    },
+    {
+      "id": "costar"
+    },
+    {
+      "id": "cottondown"
+    },
+    {
+      "id": "cudchew"
+    },
+    {
+      "id": "curiousmedicine"
+    },
+    {
+      "id": "cursedbody"
+    },
+    {
+      "id": "cutecharm"
+    },
+    {
+      "id": "damp"
+    },
+    {
+      "id": "dancer"
+    },
+    {
+      "id": "darkaura"
+    },
+    {
+      "id": "dauntlessshield"
+    },
+    {
+      "id": "dazzling"
+    },
+    {
+      "id": "defeatist"
+    },
+    {
+      "id": "defiant"
+    },
+    {
+      "id": "deltastream"
+    },
+    {
+      "id": "desolateland"
+    },
+    {
+      "id": "disguise"
+    },
+    {
+      "id": "download"
+    },
+    {
+      "id": "dragonsmaw"
+    },
+    {
+      "id": "drizzle"
+    },
+    {
+      "id": "drought"
+    },
+    {
+      "id": "dryskin"
+    },
+    {
+      "id": "earlybird"
+    },
+    {
+      "id": "eartheater"
+    },
+    {
+      "id": "effectspore"
+    },
+    {
+      "id": "electricsurge"
+    },
+    {
+      "id": "electromorphosis"
+    },
+    {
+      "id": "embodyaspectcornerstone"
+    },
+    {
+      "id": "embodyaspecthearthflame"
+    },
+    {
+      "id": "embodyaspectteal"
+    },
+    {
+      "id": "embodyaspectwellspring"
+    },
+    {
+      "id": "fairyaura"
+    },
+    {
+      "id": "filter"
+    },
+    {
+      "id": "flamebody"
+    },
+    {
+      "id": "flareboost"
+    },
+    {
+      "id": "flashfire"
+    },
+    {
+      "id": "flowergift"
+    },
+    {
+      "id": "flowerveil"
+    },
+    {
+      "id": "fluffy"
+    },
+    {
+      "id": "forecast"
+    },
+    {
+      "id": "forewarn"
+    },
+    {
+      "id": "friendguard"
+    },
+    {
+      "id": "frisk"
+    },
+    {
+      "id": "fullmetalbody"
+    },
+    {
+      "id": "furcoat"
+    },
+    {
+      "id": "galewings"
+    },
+    {
+      "id": "galvanize"
+    },
+    {
+      "id": "gluttony"
+    },
+    {
+      "id": "goodasgold"
+    },
+    {
+      "id": "gooey"
+    },
+    {
+      "id": "gorillatactics"
+    },
+    {
+      "id": "grasspelt"
+    },
+    {
+      "id": "grassysurge"
+    },
+    {
+      "id": "grimneigh"
+    },
+    {
+      "id": "guarddog"
+    },
+    {
+      "id": "gulpmissile"
+    },
+    {
+      "id": "guts"
+    },
+    {
+      "id": "hadronengine"
+    },
+    {
+      "id": "harvest"
+    },
+    {
+      "id": "heatproof"
+    },
+    {
+      "id": "heavymetal"
+    },
+    {
+      "id": "honeygather"
+    },
+    {
+      "id": "hospitality"
+    },
+    {
+      "id": "hugepower"
+    },
+    {
+      "id": "hungerswitch"
+    },
+    {
+      "id": "hustle"
+    },
+    {
+      "id": "hydration"
+    },
+    {
+      "id": "hypercutter"
+    },
+    {
+      "id": "icebody"
+    },
+    {
+      "id": "iceface"
+    },
+    {
+      "id": "icescales"
+    },
+    {
+      "id": "illuminate"
+    },
+    {
+      "id": "illusion"
+    },
+    {
+      "id": "immunity"
+    },
+    {
+      "id": "imposter"
+    },
+    {
+      "id": "infiltrator"
+    },
+    {
+      "id": "innardsout"
+    },
+    {
+      "id": "innerfocus"
+    },
+    {
+      "id": "insomnia"
+    },
+    {
+      "id": "intimidate"
+    },
+    {
+      "id": "intrepidsword"
+    },
+    {
+      "id": "ironbarbs"
+    },
+    {
+      "id": "ironfist"
+    },
+    {
+      "id": "justified"
+    },
+    {
+      "id": "keeneye"
+    },
+    {
+      "id": "klutz"
+    },
+    {
+      "id": "leafguard"
+    },
+    {
+      "id": "levitate"
+    },
+    {
+      "id": "libero"
+    },
+    {
+      "id": "lightmetal"
+    },
+    {
+      "id": "lightningrod"
+    },
+    {
+      "id": "limber"
+    },
+    {
+      "id": "lingeringaroma"
+    },
+    {
+      "id": "liquidooze"
+    },
+    {
+      "id": "liquidvoice"
+    },
+    {
+      "id": "longreach"
+    },
+    {
+      "id": "magicbounce"
+    },
+    {
+      "id": "magicguard"
+    },
+    {
+      "id": "magician"
+    },
+    {
+      "id": "magmaarmor"
+    },
+    {
+      "id": "magnetpull"
+    },
+    {
+      "id": "marvelscale"
+    },
+    {
+      "id": "megalauncher"
+    },
+    {
+      "id": "merciless"
+    },
+    {
+      "id": "mimicry"
+    },
+    {
+      "id": "mindseye"
+    },
+    {
+      "id": "minus"
+    },
+    {
+      "id": "mirrorarmor"
+    },
+    {
+      "id": "mistysurge"
+    },
+    {
+      "id": "moldbreaker"
+    },
+    {
+      "id": "moody"
+    },
+    {
+      "id": "motordrive"
+    },
+    {
+      "id": "moxie"
+    },
+    {
+      "id": "multiscale"
+    },
+    {
+      "id": "multitype"
+    },
+    {
+      "id": "mummy"
+    },
+    {
+      "id": "myceliummight"
+    },
+    {
+      "id": "neuroforce"
+    },
+    {
+      "id": "neutralizinggas"
+    },
+    {
+      "id": "noguard"
+    },
+    {
+      "id": "normalize"
+    },
+    {
+      "id": "oblivious"
+    },
+    {
+      "id": "opportunist"
+    },
+    {
+      "id": "orichalcumpulse"
+    },
+    {
+      "id": "overcoat"
+    },
+    {
+      "id": "overgrow"
+    },
+    {
+      "id": "owntempo"
+    },
+    {
+      "id": "parentalbond"
+    },
+    {
+      "id": "pastelveil"
+    },
+    {
+      "id": "perishbody"
+    },
+    {
+      "id": "pickpocket"
+    },
+    {
+      "id": "pickup"
+    },
+    {
+      "id": "pixilate"
+    },
+    {
+      "id": "plus"
+    },
+    {
+      "id": "poisonheal"
+    },
+    {
+      "id": "poisonpoint"
+    },
+    {
+      "id": "poisonpuppeteer"
+    },
+    {
+      "id": "poisontouch"
+    },
+    {
+      "id": "powerconstruct"
+    },
+    {
+      "id": "powerofalchemy"
+    },
+    {
+      "id": "powerspot"
+    },
+    {
+      "id": "prankster"
+    },
+    {
+      "id": "pressure"
+    },
+    {
+      "id": "primordialsea"
+    },
+    {
+      "id": "prismarmor"
+    },
+    {
+      "id": "propellertail"
+    },
+    {
+      "id": "protean"
+    },
+    {
+      "id": "protosynthesis"
+    },
+    {
+      "id": "psychicsurge"
+    },
+    {
+      "id": "punkrock"
+    },
+    {
+      "id": "purepower"
+    },
+    {
+      "id": "purifyingsalt"
+    },
+    {
+      "id": "quarkdrive"
+    },
+    {
+      "id": "queenlymajesty"
+    },
+    {
+      "id": "quickdraw"
+    },
+    {
+      "id": "quickfeet"
+    },
+    {
+      "id": "raindish"
+    },
+    {
+      "id": "rattled"
+    },
+    {
+      "id": "receiver"
+    },
+    {
+      "id": "reckless"
+    },
+    {
+      "id": "refrigerate"
+    },
+    {
+      "id": "ripen"
+    },
+    {
+      "id": "rivalry"
+    },
+    {
+      "id": "rkssystem"
+    },
+    {
+      "id": "rockhead"
+    },
+    {
+      "id": "rockypayload"
+    },
+    {
+      "id": "roughskin"
+    },
+    {
+      "id": "sandforce"
+    },
+    {
+      "id": "sandrush"
+    },
+    {
+      "id": "sandspit"
+    },
+    {
+      "id": "sandstream"
+    },
+    {
+      "id": "sandveil"
+    },
+    {
+      "id": "sapsipper"
+    },
+    {
+      "id": "schooling"
+    },
+    {
+      "id": "scrappy"
+    },
+    {
+      "id": "screencleaner"
+    },
+    {
+      "id": "seedsower"
+    },
+    {
+      "id": "serenegrace"
+    },
+    {
+      "id": "shadowshield"
+    },
+    {
+      "id": "shadowtag"
+    },
+    {
+      "id": "sharpness"
+    },
+    {
+      "id": "shedskin"
+    },
+    {
+      "id": "sheerforce"
+    },
+    {
+      "id": "shellarmor"
+    },
+    {
+      "id": "shielddust"
+    },
+    {
+      "id": "shieldsdown"
+    },
+    {
+      "id": "simple"
+    },
+    {
+      "id": "skilllink"
+    },
+    {
+      "id": "slowstart"
+    },
+    {
+      "id": "slushrush"
+    },
+    {
+      "id": "sniper"
+    },
+    {
+      "id": "snowcloak"
+    },
+    {
+      "id": "snowwarning"
+    },
+    {
+      "id": "solarpower"
+    },
+    {
+      "id": "solidrock"
+    },
+    {
+      "id": "soulheart"
+    },
+    {
+      "id": "soundproof"
+    },
+    {
+      "id": "speedboost"
+    },
+    {
+      "id": "stakeout"
+    },
+    {
+      "id": "stall"
+    },
+    {
+      "id": "stalwart"
+    },
+    {
+      "id": "stamina"
+    },
+    {
+      "id": "stancechange"
+    },
+    {
+      "id": "static"
+    },
+    {
+      "id": "steadfast"
+    },
+    {
+      "id": "steamengine"
+    },
+    {
+      "id": "steelworker"
+    },
+    {
+      "id": "steelyspirit"
+    },
+    {
+      "id": "stench"
+    },
+    {
+      "id": "stickyhold"
+    },
+    {
+      "id": "stormdrain"
+    },
+    {
+      "id": "strongjaw"
+    },
+    {
+      "id": "sturdy"
+    },
+    {
+      "id": "suctioncups"
+    },
+    {
+      "id": "superluck"
+    },
+    {
+      "id": "supersweetsyrup"
+    },
+    {
+      "id": "supremeoverlord"
+    },
+    {
+      "id": "surgesurfer"
+    },
+    {
+      "id": "swarm"
+    },
+    {
+      "id": "sweetveil"
+    },
+    {
+      "id": "swiftswim"
+    },
+    {
+      "id": "swordofruin"
+    },
+    {
+      "id": "symbiosis"
+    },
+    {
+      "id": "synchronize"
+    },
+    {
+      "id": "tabletsofruin"
+    },
+    {
+      "id": "tangledfeet"
+    },
+    {
+      "id": "tanglinghair"
+    },
+    {
+      "id": "technician"
+    },
+    {
+      "id": "telepathy"
+    },
+    {
+      "id": "teraformzero"
+    },
+    {
+      "id": "terashell"
+    },
+    {
+      "id": "terashift"
+    },
+    {
+      "id": "teravolt"
+    },
+    {
+      "id": "thermalexchange"
+    },
+    {
+      "id": "thickfat"
+    },
+    {
+      "id": "tintedlens"
+    },
+    {
+      "id": "torrent"
+    },
+    {
+      "id": "toughclaws"
+    },
+    {
+      "id": "toxicboost"
+    },
+    {
+      "id": "toxicchain"
+    },
+    {
+      "id": "toxicdebris"
+    },
+    {
+      "id": "trace"
+    },
+    {
+      "id": "transistor"
+    },
+    {
+      "id": "triage"
+    },
+    {
+      "id": "truant"
+    },
+    {
+      "id": "turboblaze"
+    },
+    {
+      "id": "unaware"
+    },
+    {
+      "id": "unburden"
+    },
+    {
+      "id": "unnerve"
+    },
+    {
+      "id": "vesselofruin"
+    },
+    {
+      "id": "victorystar"
+    },
+    {
+      "id": "vitalspirit"
+    },
+    {
+      "id": "voltabsorb"
+    },
+    {
+      "id": "wanderingspirit"
+    },
+    {
+      "id": "waterabsorb"
+    },
+    {
+      "id": "waterbubble"
+    },
+    {
+      "id": "watercompaction"
+    },
+    {
+      "id": "waterveil"
+    },
+    {
+      "id": "weakarmor"
+    },
+    {
+      "id": "wellbakedbody"
+    },
+    {
+      "id": "whitesmoke"
+    },
+    {
+      "id": "windpower"
+    },
+    {
+      "id": "windrider"
+    },
+    {
+      "id": "wonderguard"
+    },
+    {
+      "id": "wonderskin"
+    },
+    {
+      "id": "zenmode"
+    },
+    {
+      "id": "zerotohero"
+    }
+  ]
+}

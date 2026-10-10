@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "identity": {
+    "version": 1,
+    "path": "identity"
+  },
+  "games": [
+    {
+      "id": "champions",
+      "name": "Pokémon Champions",
+      "version": 1,
+      "path": "games/champions"
+    }
+  ],
+  "formats": [
+    {
+      "id": "regulationmc",
+      "name": "Regulation M-C",
+      "version": 1,
+      "formatBaseGame": "champions",
+      "path": "formats/regulationmc"
+    }
+  ]
+}

@@ -1,0 +1,2245 @@
+{
+  "abilityData": [
+    {
+      "id": "abilityshield"
+    },
+    {
+      "id": "abomasite",
+      "itemUser": [
+        "Abomasnow"
+      ]
+    },
+    {
+      "id": "absolite",
+      "itemUser": [
+        "Absol"
+      ]
+    },
+    {
+      "id": "absolitez",
+      "itemUser": [
+        "Absol"
+      ]
+    },
+    {
+      "id": "absorbbulb"
+    },
+    {
+      "id": "adamantcrystal",
+      "itemUser": [
+        "Dialga-Origin"
+      ]
+    },
+    {
+      "id": "adamantorb",
+      "itemUser": [
+        "Dialga"
+      ]
+    },
+    {
+      "id": "adrenalineorb"
+    },
+    {
+      "id": "aerodactylite",
+      "itemUser": [
+        "Aerodactyl"
+      ]
+    },
+    {
+      "id": "aggronite",
+      "itemUser": [
+        "Aggron"
+      ]
+    },
+    {
+      "id": "aguavberry"
+    },
+    {
+      "id": "alakazite",
+      "itemUser": [
+        "Alakazam"
+      ]
+    },
+    {
+      "id": "altarianite",
+      "itemUser": [
+        "Altaria"
+      ]
+    },
+    {
+      "id": "ampharosite",
+      "itemUser": [
+        "Ampharos"
+      ]
+    },
+    {
+      "id": "apicotberry"
+    },
+    {
+      "id": "assaultvest"
+    },
+    {
+      "id": "audinite",
+      "itemUser": [
+        "Audino"
+      ]
+    },
+    {
+      "id": "auspiciousarmor"
+    },
+    {
+      "id": "banettite",
+      "itemUser": [
+        "Banette"
+      ]
+    },
+    {
+      "id": "barbaracite",
+      "itemUser": [
+        "Barbaracle"
+      ]
+    },
+    {
+      "id": "baxcalibrite",
+      "itemUser": [
+        "Baxcalibur"
+      ]
+    },
+    {
+      "id": "beastball"
+    },
+    {
+      "id": "beedrillite",
+      "itemUser": [
+        "Beedrill"
+      ]
+    },
+    {
+      "id": "berrysweet"
+    },
+    {
+      "id": "bignugget"
+    },
+    {
+      "id": "blacksludge"
+    },
+    {
+      "id": "blastoisinite",
+      "itemUser": [
+        "Blastoise"
+      ]
+    },
+    {
+      "id": "blazikenite",
+      "itemUser": [
+        "Blaziken"
+      ]
+    },
+    {
+      "id": "blunderpolicy"
+    },
+    {
+      "id": "boosterenergy"
+    },
+    {
+      "id": "bottlecap"
+    },
+    {
+      "id": "cameruptite",
+      "itemUser": [
+        "Camerupt"
+      ]
+    },
+    {
+      "id": "cellbattery"
+    },
+    {
+      "id": "chandelurite",
+      "itemUser": [
+        "Chandelure"
+      ]
+    },
+    {
+      "id": "charizarditex",
+      "itemUser": [
+        "Charizard"
+      ]
+    },
+    {
+      "id": "charizarditey",
+      "itemUser": [
+        "Charizard"
+      ]
+    },
+    {
+      "id": "chesnaughtite",
+      "itemUser": [
+        "Chesnaught"
+      ]
+    },
+    {
+      "id": "chimechite",
+      "itemUser": [
+        "Chimecho"
+      ]
+    },
+    {
+      "id": "chippedpot"
+    },
+    {
+      "id": "choiceband"
+    },
+    {
+      "id": "choicespecs"
+    },
+    {
+      "id": "clearamulet"
+    },
+    {
+      "id": "clefablite",
+      "itemUser": [
+        "Clefable"
+      ]
+    },
+    {
+      "id": "cloversweet"
+    },
+    {
+      "id": "cornerstonemask",
+      "itemUser": [
+        "Ogerpon-Cornerstone"
+      ]
+    },
+    {
+      "id": "covertcloak"
+    },
+    {
+      "id": "crabominite",
+      "itemUser": [
+        "Crabominable"
+      ]
+    },
+    {
+      "id": "crackedpot"
+    },
+    {
+      "id": "custapberry"
+    },
+    {
+      "id": "darkranite",
+      "itemUser": [
+        "Darkrai"
+      ]
+    },
+    {
+      "id": "dawnstone"
+    },
+    {
+      "id": "delphoxite",
+      "itemUser": [
+        "Delphox"
+      ]
+    },
+    {
+      "id": "destinyknot"
+    },
+    {
+      "id": "diveball"
+    },
+    {
+      "id": "dracoplate"
+    },
+    {
+      "id": "dragalgite",
+      "itemUser": [
+        "Dragalge"
+      ]
+    },
+    {
+      "id": "dragoninite",
+      "itemUser": [
+        "Dragonite"
+      ]
+    },
+    {
+      "id": "dragonscale"
+    },
+    {
+      "id": "drampanite",
+      "itemUser": [
+        "Drampa"
+      ]
+    },
+    {
+      "id": "dreadplate"
+    },
+    {
+      "id": "dreamball"
+    },
+    {
+      "id": "dubiousdisc"
+    },
+    {
+      "id": "duskball"
+    },
+    {
+      "id": "duskstone"
+    },
+    {
+      "id": "earthplate"
+    },
+    {
+      "id": "eelektrossite",
+      "itemUser": [
+        "Eelektross"
+      ]
+    },
+    {
+      "id": "ejectbutton"
+    },
+    {
+      "id": "ejectpack"
+    },
+    {
+      "id": "electirizer"
+    },
+    {
+      "id": "emboarite",
+      "itemUser": [
+        "Emboar"
+      ]
+    },
+    {
+      "id": "enigmaberry"
+    },
+    {
+      "id": "eviolite"
+    },
+    {
+      "id": "excadrite",
+      "itemUser": [
+        "Excadrill"
+      ]
+    },
+    {
+      "id": "falinksite",
+      "itemUser": [
+        "Falinks"
+      ]
+    },
+    {
+      "id": "fastball"
+    },
+    {
+      "id": "feraligite",
+      "itemUser": [
+        "Feraligatr"
+      ]
+    },
+    {
+      "id": "figyberry"
+    },
+    {
+      "id": "firestone"
+    },
+    {
+      "id": "fistplate"
+    },
+    {
+      "id": "flameorb"
+    },
+    {
+      "id": "flameplate"
+    },
+    {
+      "id": "floatstone"
+    },
+    {
+      "id": "floettite",
+      "itemUser": [
+        "Floette-Eternal"
+      ]
+    },
+    {
+      "id": "flowersweet"
+    },
+    {
+      "id": "friendball"
+    },
+    {
+      "id": "froslassite",
+      "itemUser": [
+        "Froslass"
+      ]
+    },
+    {
+      "id": "galaricacuff"
+    },
+    {
+      "id": "galaricawreath"
+    },
+    {
+      "id": "galladite",
+      "itemUser": [
+        "Gallade"
+      ]
+    },
+    {
+      "id": "ganlonberry"
+    },
+    {
+      "id": "garchompite",
+      "itemUser": [
+        "Garchomp"
+      ]
+    },
+    {
+      "id": "garchompitez",
+      "itemUser": [
+        "Garchomp"
+      ]
+    },
+    {
+      "id": "gardevoirite",
+      "itemUser": [
+        "Gardevoir"
+      ]
+    },
+    {
+      "id": "gengarite",
+      "itemUser": [
+        "Gengar"
+      ]
+    },
+    {
+      "id": "glalitite",
+      "itemUser": [
+        "Glalie"
+      ]
+    },
+    {
+      "id": "glimmoranite",
+      "itemUser": [
+        "Glimmora"
+      ]
+    },
+    {
+      "id": "goldbottlecap"
+    },
+    {
+      "id": "golisopite",
+      "itemUser": [
+        "Golisopod"
+      ]
+    },
+    {
+      "id": "golurkite",
+      "itemUser": [
+        "Golurk"
+      ]
+    },
+    {
+      "id": "greatball"
+    },
+    {
+      "id": "greninjite",
+      "itemUser": [
+        "Greninja"
+      ]
+    },
+    {
+      "id": "grepaberry"
+    },
+    {
+      "id": "gripclaw"
+    },
+    {
+      "id": "griseouscore",
+      "itemUser": [
+        "Giratina-Origin"
+      ]
+    },
+    {
+      "id": "griseousorb",
+      "itemUser": [
+        "Giratina"
+      ]
+    },
+    {
+      "id": "gyaradosite",
+      "itemUser": [
+        "Gyarados"
+      ]
+    },
+    {
+      "id": "hawluchanite",
+      "itemUser": [
+        "Hawlucha"
+      ]
+    },
+    {
+      "id": "healball"
+    },
+    {
+      "id": "hearthflamemask",
+      "itemUser": [
+        "Ogerpon-Hearthflame"
+      ]
+    },
+    {
+      "id": "heatranite",
+      "itemUser": [
+        "Heatran"
+      ]
+    },
+    {
+      "id": "heavyball"
+    },
+    {
+      "id": "heavydutyboots"
+    },
+    {
+      "id": "heracronite",
+      "itemUser": [
+        "Heracross"
+      ]
+    },
+    {
+      "id": "hondewberry"
+    },
+    {
+      "id": "houndoominite",
+      "itemUser": [
+        "Houndoom"
+      ]
+    },
+    {
+      "id": "iapapaberry"
+    },
+    {
+      "id": "icestone"
+    },
+    {
+      "id": "icicleplate"
+    },
+    {
+      "id": "insectplate"
+    },
+    {
+      "id": "ironplate"
+    },
+    {
+      "id": "jabocaberry"
+    },
+    {
+      "id": "kangaskhanite",
+      "itemUser": [
+        "Kangaskhan"
+      ]
+    },
+    {
+      "id": "keeberry"
+    },
+    {
+      "id": "kelpsyberry"
+    },
+    {
+      "id": "laggingtail"
+    },
+    {
+      "id": "lansatberry"
+    },
+    {
+      "id": "leafstone"
+    },
+    {
+      "id": "leek",
+      "itemUser": [
+        "Farfetch’d",
+        "Farfetch’d-Galar",
+        "Sirfetch’d"
+      ]
+    },
+    {
+      "id": "levelball"
+    },
+    {
+      "id": "liechiberry"
+    },
+    {
+      "id": "loadeddice"
+    },
+    {
+      "id": "lopunnite",
+      "itemUser": [
+        "Lopunny"
+      ]
+    },
+    {
+      "id": "loveball"
+    },
+    {
+      "id": "lovesweet"
+    },
+    {
+      "id": "lucarionite",
+      "itemUser": [
+        "Lucario"
+      ]
+    },
+    {
+      "id": "lucarionitez",
+      "itemUser": [
+        "Lucario"
+      ]
+    },
+    {
+      "id": "luminousmoss"
+    },
+    {
+      "id": "lureball"
+    },
+    {
+      "id": "lustrousglobe",
+      "itemUser": [
+        "Palkia-Origin"
+      ]
+    },
+    {
+      "id": "lustrousorb",
+      "itemUser": [
+        "Palkia"
+      ]
+    },
+    {
+      "id": "luxuryball"
+    },
+    {
+      "id": "magmarizer"
+    },
+    {
+      "id": "magoberry"
+    },
+    {
+      "id": "malamarite",
+      "itemUser": [
+        "Malamar"
+      ]
+    },
+    {
+      "id": "maliciousarmor"
+    },
+    {
+      "id": "manectite",
+      "itemUser": [
+        "Manectric"
+      ]
+    },
+    {
+      "id": "marangaberry"
+    },
+    {
+      "id": "masterball"
+    },
+    {
+      "id": "masterpieceteacup"
+    },
+    {
+      "id": "mawilite",
+      "itemUser": [
+        "Mawile"
+      ]
+    },
+    {
+      "id": "meadowplate"
+    },
+    {
+      "id": "medichamite",
+      "itemUser": [
+        "Medicham"
+      ]
+    },
+    {
+      "id": "meganiumite",
+      "itemUser": [
+        "Meganium"
+      ]
+    },
+    {
+      "id": "meowsticite",
+      "itemUser": [
+        "Meowstic",
+        "Meowstic-F"
+      ]
+    },
+    {
+      "id": "metalalloy"
+    },
+    {
+      "id": "metagrossite",
+      "itemUser": [
+        "Metagross"
+      ]
+    },
+    {
+      "id": "micleberry"
+    },
+    {
+      "id": "mindplate"
+    },
+    {
+      "id": "mirrorherb"
+    },
+    {
+      "id": "moonball"
+    },
+    {
+      "id": "moonstone"
+    },
+    {
+      "id": "nestball"
+    },
+    {
+      "id": "netball"
+    },
+    {
+      "id": "ovalstone"
+    },
+    {
+      "id": "parkball"
+    },
+    {
+      "id": "petayaberry"
+    },
+    {
+      "id": "pidgeotite",
+      "itemUser": [
+        "Pidgeot"
+      ]
+    },
+    {
+      "id": "pinsirite",
+      "itemUser": [
+        "Pinsir"
+      ]
+    },
+    {
+      "id": "pixieplate"
+    },
+    {
+      "id": "pokeball"
+    },
+    {
+      "id": "pomegberry"
+    },
+    {
+      "id": "poweranklet"
+    },
+    {
+      "id": "powerband"
+    },
+    {
+      "id": "powerbelt"
+    },
+    {
+      "id": "powerbracer"
+    },
+    {
+      "id": "powerherb"
+    },
+    {
+      "id": "powerlens"
+    },
+    {
+      "id": "powerweight"
+    },
+    {
+      "id": "premierball"
+    },
+    {
+      "id": "prettyfeather"
+    },
+    {
+      "id": "prismscale"
+    },
+    {
+      "id": "protectivepads"
+    },
+    {
+      "id": "protector"
+    },
+    {
+      "id": "punchingglove"
+    },
+    {
+      "id": "pyroarite",
+      "itemUser": [
+        "Pyroar"
+      ]
+    },
+    {
+      "id": "qualotberry"
+    },
+    {
+      "id": "quickball"
+    },
+    {
+      "id": "raichunitex",
+      "itemUser": [
+        "Raichu"
+      ]
+    },
+    {
+      "id": "raichunitey",
+      "itemUser": [
+        "Raichu"
+      ]
+    },
+    {
+      "id": "rarebone"
+    },
+    {
+      "id": "razorclaw"
+    },
+    {
+      "id": "razorfang"
+    },
+    {
+      "id": "reapercloth"
+    },
+    {
+      "id": "repeatball"
+    },
+    {
+      "id": "ribbonsweet"
+    },
+    {
+      "id": "ringtarget"
+    },
+    {
+      "id": "roomservice"
+    },
+    {
+      "id": "rowapberry"
+    },
+    {
+      "id": "rustedshield",
+      "itemUser": [
+        "Zamazenta-Crowned"
+      ]
+    },
+    {
+      "id": "rustedsword",
+      "itemUser": [
+        "Zacian-Crowned"
+      ]
+    },
+    {
+      "id": "sablenite",
+      "itemUser": [
+        "Sableye"
+      ]
+    },
+    {
+      "id": "safariball"
+    },
+    {
+      "id": "safetygoggles"
+    },
+    {
+      "id": "salacberry"
+    },
+    {
+      "id": "salamencite",
+      "itemUser": [
+        "Salamence"
+      ]
+    },
+    {
+      "id": "sceptilite",
+      "itemUser": [
+        "Sceptile"
+      ]
+    },
+    {
+      "id": "scizorite",
+      "itemUser": [
+        "Scizor"
+      ]
+    },
+    {
+      "id": "scolipite",
+      "itemUser": [
+        "Scolipede"
+      ]
+    },
+    {
+      "id": "scovillainite",
+      "itemUser": [
+        "Scovillain"
+      ]
+    },
+    {
+      "id": "scraftinite",
+      "itemUser": [
+        "Scrafty"
+      ]
+    },
+    {
+      "id": "sharpedonite",
+      "itemUser": [
+        "Sharpedo"
+      ]
+    },
+    {
+      "id": "shinystone"
+    },
+    {
+      "id": "skarmorite",
+      "itemUser": [
+        "Skarmory"
+      ]
+    },
+    {
+      "id": "skyplate"
+    },
+    {
+      "id": "slowbronite",
+      "itemUser": [
+        "Slowbro"
+      ]
+    },
+    {
+      "id": "snowball"
+    },
+    {
+      "id": "souldew",
+      "itemUser": [
+        "Latios",
+        "Latias"
+      ]
+    },
+    {
+      "id": "spelltag"
+    },
+    {
+      "id": "splashplate"
+    },
+    {
+      "id": "spookyplate"
+    },
+    {
+      "id": "sportball"
+    },
+    {
+      "id": "staraptite",
+      "itemUser": [
+        "Staraptor"
+      ]
+    },
+    {
+      "id": "starfberry"
+    },
+    {
+      "id": "starminite",
+      "itemUser": [
+        "Starmie"
+      ]
+    },
+    {
+      "id": "starsweet"
+    },
+    {
+      "id": "steelixite",
+      "itemUser": [
+        "Steelix"
+      ]
+    },
+    {
+      "id": "stickybarb"
+    },
+    {
+      "id": "stoneplate"
+    },
+    {
+      "id": "strangeball"
+    },
+    {
+      "id": "strawberrysweet"
+    },
+    {
+      "id": "sunstone"
+    },
+    {
+      "id": "sweetapple"
+    },
+    {
+      "id": "syrupyapple"
+    },
+    {
+      "id": "swampertite",
+      "itemUser": [
+        "Swampert"
+      ]
+    },
+    {
+      "id": "tamatoberry"
+    },
+    {
+      "id": "tartapple"
+    },
+    {
+      "id": "throatspray"
+    },
+    {
+      "id": "thunderstone"
+    },
+    {
+      "id": "timerball"
+    },
+    {
+      "id": "toxicorb"
+    },
+    {
+      "id": "toxicplate"
+    },
+    {
+      "id": "tyranitarite",
+      "itemUser": [
+        "Tyranitar"
+      ]
+    },
+    {
+      "id": "ultraball"
+    },
+    {
+      "id": "unremarkableteacup"
+    },
+    {
+      "id": "upgrade"
+    },
+    {
+      "id": "utilityumbrella"
+    },
+    {
+      "id": "venusaurite",
+      "itemUser": [
+        "Venusaur"
+      ]
+    },
+    {
+      "id": "victreebelite",
+      "itemUser": [
+        "Victreebel"
+      ]
+    },
+    {
+      "id": "waterstone"
+    },
+    {
+      "id": "weaknesspolicy"
+    },
+    {
+      "id": "wellspringmask",
+      "itemUser": [
+        "Ogerpon-Wellspring"
+      ]
+    },
+    {
+      "id": "wikiberry"
+    },
+    {
+      "id": "zapplate"
+    },
+    {
+      "id": "airballoon"
+    },
+    {
+      "id": "aloraichiumz",
+      "itemUser": [
+        "Raichu-Alola"
+      ]
+    },
+    {
+      "id": "armorfossil"
+    },
+    {
+      "id": "aspearberry"
+    },
+    {
+      "id": "babiriberry"
+    },
+    {
+      "id": "belueberry"
+    },
+    {
+      "id": "berryjuice"
+    },
+    {
+      "id": "bigroot"
+    },
+    {
+      "id": "bindingband"
+    },
+    {
+      "id": "blackbelt"
+    },
+    {
+      "id": "blackglasses"
+    },
+    {
+      "id": "blueorb",
+      "itemUser": [
+        "Kyogre"
+      ]
+    },
+    {
+      "id": "blukberry"
+    },
+    {
+      "id": "brightpowder"
+    },
+    {
+      "id": "buggem"
+    },
+    {
+      "id": "buginiumz"
+    },
+    {
+      "id": "bugmemory",
+      "itemUser": [
+        "Silvally-Bug"
+      ]
+    },
+    {
+      "id": "burndrive",
+      "itemUser": [
+        "Genesect-Burn"
+      ]
+    },
+    {
+      "id": "charcoal"
+    },
+    {
+      "id": "chartiberry"
+    },
+    {
+      "id": "cheriberry"
+    },
+    {
+      "id": "chestoberry"
+    },
+    {
+      "id": "chilanberry"
+    },
+    {
+      "id": "chilldrive",
+      "itemUser": [
+        "Genesect-Chill"
+      ]
+    },
+    {
+      "id": "choicescarf"
+    },
+    {
+      "id": "chopleberry"
+    },
+    {
+      "id": "clawfossil"
+    },
+    {
+      "id": "cobaberry"
+    },
+    {
+      "id": "colburberry"
+    },
+    {
+      "id": "cornnberry"
+    },
+    {
+      "id": "coverfossil"
+    },
+    {
+      "id": "damprock"
+    },
+    {
+      "id": "darkgem"
+    },
+    {
+      "id": "darkiniumz"
+    },
+    {
+      "id": "darkmemory",
+      "itemUser": [
+        "Silvally-Dark"
+      ]
+    },
+    {
+      "id": "decidiumz",
+      "itemUser": [
+        "Decidueye"
+      ]
+    },
+    {
+      "id": "deepseascale",
+      "itemUser": [
+        "Clamperl"
+      ]
+    },
+    {
+      "id": "deepseatooth",
+      "itemUser": [
+        "Clamperl"
+      ]
+    },
+    {
+      "id": "diancite",
+      "itemUser": [
+        "Diancie"
+      ]
+    },
+    {
+      "id": "domefossil"
+    },
+    {
+      "id": "dousedrive",
+      "itemUser": [
+        "Genesect-Douse"
+      ]
+    },
+    {
+      "id": "dragonfang"
+    },
+    {
+      "id": "dragongem"
+    },
+    {
+      "id": "dragoniumz"
+    },
+    {
+      "id": "dragonmemory",
+      "itemUser": [
+        "Silvally-Dragon"
+      ]
+    },
+    {
+      "id": "durinberry"
+    },
+    {
+      "id": "eeviumz",
+      "itemUser": [
+        "Eevee"
+      ]
+    },
+    {
+      "id": "electricgem"
+    },
+    {
+      "id": "electricmemory",
+      "itemUser": [
+        "Silvally-Electric"
+      ]
+    },
+    {
+      "id": "electricseed"
+    },
+    {
+      "id": "electriumz"
+    },
+    {
+      "id": "expertbelt"
+    },
+    {
+      "id": "fairiumz"
+    },
+    {
+      "id": "fairyfeather"
+    },
+    {
+      "id": "fairygem"
+    },
+    {
+      "id": "fairymemory",
+      "itemUser": [
+        "Silvally-Fairy"
+      ]
+    },
+    {
+      "id": "fightinggem"
+    },
+    {
+      "id": "fightingmemory",
+      "itemUser": [
+        "Silvally-Fighting"
+      ]
+    },
+    {
+      "id": "fightiniumz"
+    },
+    {
+      "id": "firegem"
+    },
+    {
+      "id": "firememory",
+      "itemUser": [
+        "Silvally-Fire"
+      ]
+    },
+    {
+      "id": "firiumz"
+    },
+    {
+      "id": "flyinggem"
+    },
+    {
+      "id": "flyingmemory",
+      "itemUser": [
+        "Silvally-Flying"
+      ]
+    },
+    {
+      "id": "flyiniumz"
+    },
+    {
+      "id": "focusband"
+    },
+    {
+      "id": "focussash"
+    },
+    {
+      "id": "fossilizedbird"
+    },
+    {
+      "id": "fossilizeddino"
+    },
+    {
+      "id": "fossilizeddrake"
+    },
+    {
+      "id": "fossilizedfish"
+    },
+    {
+      "id": "fullincense"
+    },
+    {
+      "id": "ghostgem"
+    },
+    {
+      "id": "ghostiumz"
+    },
+    {
+      "id": "ghostmemory",
+      "itemUser": [
+        "Silvally-Ghost"
+      ]
+    },
+    {
+      "id": "grassgem"
+    },
+    {
+      "id": "grassiumz"
+    },
+    {
+      "id": "grassmemory",
+      "itemUser": [
+        "Silvally-Grass"
+      ]
+    },
+    {
+      "id": "grassyseed"
+    },
+    {
+      "id": "groundgem"
+    },
+    {
+      "id": "groundiumz"
+    },
+    {
+      "id": "groundmemory",
+      "itemUser": [
+        "Silvally-Ground"
+      ]
+    },
+    {
+      "id": "habanberry"
+    },
+    {
+      "id": "hardstone"
+    },
+    {
+      "id": "heatrock"
+    },
+    {
+      "id": "helixfossil"
+    },
+    {
+      "id": "icegem"
+    },
+    {
+      "id": "icememory",
+      "itemUser": [
+        "Silvally-Ice"
+      ]
+    },
+    {
+      "id": "iciumz"
+    },
+    {
+      "id": "icyrock"
+    },
+    {
+      "id": "inciniumz",
+      "itemUser": [
+        "Incineroar"
+      ]
+    },
+    {
+      "id": "ironball"
+    },
+    {
+      "id": "jawfossil"
+    },
+    {
+      "id": "kasibberry"
+    },
+    {
+      "id": "kebiaberry"
+    },
+    {
+      "id": "kingsrock"
+    },
+    {
+      "id": "kommoniumz",
+      "itemUser": [
+        "Kommo-o",
+        "Kommo-o-Totem"
+      ]
+    },
+    {
+      "id": "latiasite",
+      "itemUser": [
+        "Latias"
+      ]
+    },
+    {
+      "id": "latiosite",
+      "itemUser": [
+        "Latios"
+      ]
+    },
+    {
+      "id": "laxincense"
+    },
+    {
+      "id": "leftovers"
+    },
+    {
+      "id": "leppaberry"
+    },
+    {
+      "id": "lifeorb"
+    },
+    {
+      "id": "lightball",
+      "itemUser": [
+        "Pikachu",
+        "Pikachu-Cosplay",
+        "Pikachu-Rock-Star",
+        "Pikachu-Belle",
+        "Pikachu-Pop-Star",
+        "Pikachu-PhD",
+        "Pikachu-Libre",
+        "Pikachu-Original",
+        "Pikachu-Hoenn",
+        "Pikachu-Sinnoh",
+        "Pikachu-Unova",
+        "Pikachu-Kalos",
+        "Pikachu-Alola",
+        "Pikachu-Partner",
+        "Pikachu-Starter",
+        "Pikachu-World"
+      ]
+    },
+    {
+      "id": "lightclay"
+    },
+    {
+      "id": "luckypunch",
+      "itemUser": [
+        "Chansey"
+      ]
+    },
+    {
+      "id": "lumberry"
+    },
+    {
+      "id": "lunaliumz",
+      "itemUser": [
+        "Lunala",
+        "Necrozma-Dawn-Wings"
+      ]
+    },
+    {
+      "id": "lycaniumz",
+      "itemUser": [
+        "Lycanroc",
+        "Lycanroc-Midnight",
+        "Lycanroc-Dusk"
+      ]
+    },
+    {
+      "id": "machobrace"
+    },
+    {
+      "id": "magearnite",
+      "itemUser": [
+        "Magearna",
+        "Magearna-Original"
+      ]
+    },
+    {
+      "id": "magnet"
+    },
+    {
+      "id": "magostberry"
+    },
+    {
+      "id": "mail"
+    },
+    {
+      "id": "marshadiumz",
+      "itemUser": [
+        "Marshadow"
+      ]
+    },
+    {
+      "id": "mentalherb"
+    },
+    {
+      "id": "metalcoat"
+    },
+    {
+      "id": "metalpowder",
+      "itemUser": [
+        "Ditto"
+      ]
+    },
+    {
+      "id": "metronome"
+    },
+    {
+      "id": "mewniumz",
+      "itemUser": [
+        "Mew"
+      ]
+    },
+    {
+      "id": "mewtwonitex",
+      "itemUser": [
+        "Mewtwo"
+      ]
+    },
+    {
+      "id": "mewtwonitey",
+      "itemUser": [
+        "Mewtwo"
+      ]
+    },
+    {
+      "id": "mimikiumz",
+      "itemUser": [
+        "Mimikyu",
+        "Mimikyu-Busted",
+        "Mimikyu-Totem",
+        "Mimikyu-Busted-Totem"
+      ]
+    },
+    {
+      "id": "miracleseed"
+    },
+    {
+      "id": "mistyseed"
+    },
+    {
+      "id": "muscleband"
+    },
+    {
+      "id": "mysticwater"
+    },
+    {
+      "id": "nanabberry"
+    },
+    {
+      "id": "nevermeltice"
+    },
+    {
+      "id": "nomelberry"
+    },
+    {
+      "id": "normalgem"
+    },
+    {
+      "id": "normaliumz"
+    },
+    {
+      "id": "occaberry"
+    },
+    {
+      "id": "oddincense"
+    },
+    {
+      "id": "oldamber"
+    },
+    {
+      "id": "oranberry"
+    },
+    {
+      "id": "pamtreberry"
+    },
+    {
+      "id": "passhoberry"
+    },
+    {
+      "id": "payapaberry"
+    },
+    {
+      "id": "pechaberry"
+    },
+    {
+      "id": "persimberry"
+    },
+    {
+      "id": "pikaniumz",
+      "itemUser": [
+        "Pikachu"
+      ]
+    },
+    {
+      "id": "pikashuniumz",
+      "itemUser": [
+        "Pikachu-Original",
+        "Pikachu-Hoenn",
+        "Pikachu-Sinnoh",
+        "Pikachu-Unova",
+        "Pikachu-Kalos",
+        "Pikachu-Alola",
+        "Pikachu-Partner"
+      ]
+    },
+    {
+      "id": "pinapberry"
+    },
+    {
+      "id": "plumefossil"
+    },
+    {
+      "id": "poisonbarb"
+    },
+    {
+      "id": "poisongem"
+    },
+    {
+      "id": "poisoniumz"
+    },
+    {
+      "id": "poisonmemory",
+      "itemUser": [
+        "Silvally-Poison"
+      ]
+    },
+    {
+      "id": "primariumz",
+      "itemUser": [
+        "Primarina"
+      ]
+    },
+    {
+      "id": "psychicgem"
+    },
+    {
+      "id": "psychicmemory",
+      "itemUser": [
+        "Silvally-Psychic"
+      ]
+    },
+    {
+      "id": "psychicseed"
+    },
+    {
+      "id": "psychiumz"
+    },
+    {
+      "id": "quickclaw"
+    },
+    {
+      "id": "quickpowder",
+      "itemUser": [
+        "Ditto"
+      ]
+    },
+    {
+      "id": "rabutaberry"
+    },
+    {
+      "id": "rawstberry"
+    },
+    {
+      "id": "razzberry"
+    },
+    {
+      "id": "redcard"
+    },
+    {
+      "id": "redorb",
+      "itemUser": [
+        "Groudon"
+      ]
+    },
+    {
+      "id": "rindoberry"
+    },
+    {
+      "id": "rockgem"
+    },
+    {
+      "id": "rockincense"
+    },
+    {
+      "id": "rockiumz"
+    },
+    {
+      "id": "rockmemory",
+      "itemUser": [
+        "Silvally-Rock"
+      ]
+    },
+    {
+      "id": "rockyhelmet"
+    },
+    {
+      "id": "rootfossil"
+    },
+    {
+      "id": "roseincense"
+    },
+    {
+      "id": "roseliberry"
+    },
+    {
+      "id": "sachet"
+    },
+    {
+      "id": "sailfossil"
+    },
+    {
+      "id": "scopelens"
+    },
+    {
+      "id": "seaincense"
+    },
+    {
+      "id": "sharpbeak"
+    },
+    {
+      "id": "shedshell"
+    },
+    {
+      "id": "shellbell"
+    },
+    {
+      "id": "shockdrive",
+      "itemUser": [
+        "Genesect-Shock"
+      ]
+    },
+    {
+      "id": "shucaberry"
+    },
+    {
+      "id": "silkscarf"
+    },
+    {
+      "id": "silverpowder"
+    },
+    {
+      "id": "sitrusberry"
+    },
+    {
+      "id": "skullfossil"
+    },
+    {
+      "id": "smoothrock"
+    },
+    {
+      "id": "snorliumz",
+      "itemUser": [
+        "Snorlax"
+      ]
+    },
+    {
+      "id": "softsand"
+    },
+    {
+      "id": "solganiumz",
+      "itemUser": [
+        "Solgaleo",
+        "Necrozma-Dusk-Mane"
+      ]
+    },
+    {
+      "id": "spelonberry"
+    },
+    {
+      "id": "steelgem"
+    },
+    {
+      "id": "steeliumz"
+    },
+    {
+      "id": "steelmemory",
+      "itemUser": [
+        "Silvally-Steel"
+      ]
+    },
+    {
+      "id": "stick",
+      "itemUser": [
+        "Farfetch’d"
+      ]
+    },
+    {
+      "id": "tangaberry"
+    },
+    {
+      "id": "tapuniumz",
+      "itemUser": [
+        "Tapu Koko",
+        "Tapu Lele",
+        "Tapu Bulu",
+        "Tapu Fini"
+      ]
+    },
+    {
+      "id": "tatsugirinite",
+      "itemUser": [
+        "Tatsugiri",
+        "Tatsugiri-Droopy",
+        "Tatsugiri-Stretchy"
+      ]
+    },
+    {
+      "id": "terrainextender"
+    },
+    {
+      "id": "thickclub",
+      "itemUser": [
+        "Marowak",
+        "Marowak-Alola",
+        "Marowak-Alola-Totem",
+        "Cubone"
+      ]
+    },
+    {
+      "id": "tr00"
+    },
+    {
+      "id": "tr01"
+    },
+    {
+      "id": "tr02"
+    },
+    {
+      "id": "tr03"
+    },
+    {
+      "id": "tr04"
+    },
+    {
+      "id": "tr05"
+    },
+    {
+      "id": "tr06"
+    },
+    {
+      "id": "tr07"
+    },
+    {
+      "id": "tr08"
+    },
+    {
+      "id": "tr09"
+    },
+    {
+      "id": "tr10"
+    },
+    {
+      "id": "tr11"
+    },
+    {
+      "id": "tr12"
+    },
+    {
+      "id": "tr13"
+    },
+    {
+      "id": "tr14"
+    },
+    {
+      "id": "tr15"
+    },
+    {
+      "id": "tr16"
+    },
+    {
+      "id": "tr17"
+    },
+    {
+      "id": "tr18"
+    },
+    {
+      "id": "tr19"
+    },
+    {
+      "id": "tr20"
+    },
+    {
+      "id": "tr21"
+    },
+    {
+      "id": "tr22"
+    },
+    {
+      "id": "tr23"
+    },
+    {
+      "id": "tr24"
+    },
+    {
+      "id": "tr25"
+    },
+    {
+      "id": "tr26"
+    },
+    {
+      "id": "tr27"
+    },
+    {
+      "id": "tr28"
+    },
+    {
+      "id": "tr29"
+    },
+    {
+      "id": "tr30"
+    },
+    {
+      "id": "tr31"
+    },
+    {
+      "id": "tr32"
+    },
+    {
+      "id": "tr33"
+    },
+    {
+      "id": "tr34"
+    },
+    {
+      "id": "tr35"
+    },
+    {
+      "id": "tr36"
+    },
+    {
+      "id": "tr37"
+    },
+    {
+      "id": "tr38"
+    },
+    {
+      "id": "tr39"
+    },
+    {
+      "id": "tr40"
+    },
+    {
+      "id": "tr41"
+    },
+    {
+      "id": "tr42"
+    },
+    {
+      "id": "tr43"
+    },
+    {
+      "id": "tr44"
+    },
+    {
+      "id": "tr45"
+    },
+    {
+      "id": "tr46"
+    },
+    {
+      "id": "tr47"
+    },
+    {
+      "id": "tr48"
+    },
+    {
+      "id": "tr49"
+    },
+    {
+      "id": "tr50"
+    },
+    {
+      "id": "tr51"
+    },
+    {
+      "id": "tr52"
+    },
+    {
+      "id": "tr53"
+    },
+    {
+      "id": "tr54"
+    },
+    {
+      "id": "tr55"
+    },
+    {
+      "id": "tr56"
+    },
+    {
+      "id": "tr57"
+    },
+    {
+      "id": "tr58"
+    },
+    {
+      "id": "tr59"
+    },
+    {
+      "id": "tr60"
+    },
+    {
+      "id": "tr61"
+    },
+    {
+      "id": "tr62"
+    },
+    {
+      "id": "tr63"
+    },
+    {
+      "id": "tr64"
+    },
+    {
+      "id": "tr65"
+    },
+    {
+      "id": "tr66"
+    },
+    {
+      "id": "tr67"
+    },
+    {
+      "id": "tr68"
+    },
+    {
+      "id": "tr69"
+    },
+    {
+      "id": "tr70"
+    },
+    {
+      "id": "tr71"
+    },
+    {
+      "id": "tr72"
+    },
+    {
+      "id": "tr73"
+    },
+    {
+      "id": "tr74"
+    },
+    {
+      "id": "tr75"
+    },
+    {
+      "id": "tr76"
+    },
+    {
+      "id": "tr77"
+    },
+    {
+      "id": "tr78"
+    },
+    {
+      "id": "tr79"
+    },
+    {
+      "id": "tr80"
+    },
+    {
+      "id": "tr81"
+    },
+    {
+      "id": "tr82"
+    },
+    {
+      "id": "tr83"
+    },
+    {
+      "id": "tr84"
+    },
+    {
+      "id": "tr85"
+    },
+    {
+      "id": "tr86"
+    },
+    {
+      "id": "tr87"
+    },
+    {
+      "id": "tr88"
+    },
+    {
+      "id": "tr89"
+    },
+    {
+      "id": "tr90"
+    },
+    {
+      "id": "tr91"
+    },
+    {
+      "id": "tr92"
+    },
+    {
+      "id": "tr93"
+    },
+    {
+      "id": "tr94"
+    },
+    {
+      "id": "tr95"
+    },
+    {
+      "id": "tr96"
+    },
+    {
+      "id": "tr97"
+    },
+    {
+      "id": "tr98"
+    },
+    {
+      "id": "tr99"
+    },
+    {
+      "id": "twistedspoon"
+    },
+    {
+      "id": "ultranecroziumz",
+      "itemUser": [
+        "Necrozma-Ultra"
+      ]
+    },
+    {
+      "id": "wacanberry"
+    },
+    {
+      "id": "watergem"
+    },
+    {
+      "id": "wateriumz"
+    },
+    {
+      "id": "watermemory",
+      "itemUser": [
+        "Silvally-Water"
+      ]
+    },
+    {
+      "id": "watmelberry"
+    },
+    {
+      "id": "waveincense"
+    },
+    {
+      "id": "wepearberry"
+    },
+    {
+      "id": "whippeddream"
+    },
+    {
+      "id": "whiteherb"
+    },
+    {
+      "id": "widelens"
+    },
+    {
+      "id": "wiseglasses"
+    },
+    {
+      "id": "yacheberry"
+    },
+    {
+      "id": "zeraorite",
+      "itemUser": [
+        "Zeraora"
+      ]
+    },
+    {
+      "id": "zoomlens"
+    },
+    {
+      "id": "zygardite",
+      "itemUser": [
+        "Zygarde-Complete"
+      ]
+    },
+    {
+      "id": "berry"
+    },
+    {
+      "id": "berserkgene"
+    },
+    {
+      "id": "bitterberry"
+    },
+    {
+      "id": "burntberry"
+    },
+    {
+      "id": "goldberry"
+    },
+    {
+      "id": "iceberry"
+    },
+    {
+      "id": "mintberry"
+    },
+    {
+      "id": "miracleberry"
+    },
+    {
+      "id": "mysteryberry"
+    },
+    {
+      "id": "pinkbow"
+    },
+    {
+      "id": "polkadotbow"
+    },
+    {
+      "id": "przcureberry"
+    },
+    {
+      "id": "psncureberry"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "legalPokemon": [
+    {
+      "id": "abomasite"
+    },
+    {
+      "id": "absolite"
+    },
+    {
+      "id": "absolitez"
+    },
+    {
+      "id": "aerodactylite"
+    },
+    {
+      "id": "aggronite"
+    },
+    {
+      "id": "alakazite"
+    },
+    {
+      "id": "altarianite"
+    },
+    {
+      "id": "ampharosite"
+    },
+    {
+      "id": "audinite"
+    },
+    {
+      "id": "banettite"
+    },
+    {
+      "id": "barbaracite"
+    },
+    {
+      "id": "baxcalibrite"
+    },
+    {
+      "id": "beedrillite"
+    },
+    {
+      "id": "blastoisinite"
+    },
+    {
+      "id": "blazikenite"
+    },
+    {
+      "id": "cameruptite"
+    },
+    {
+      "id": "chandelurite"
+    },
+    {
+      "id": "charizarditex"
+    },
+    {
+      "id": "charizarditey"
+    },
+    {
+      "id": "chesnaughtite"
+    },
+    {
+      "id": "chimechite"
+    },
+    {
+      "id": "clefablite"
+    },
+    {
+      "id": "crabominite"
+    },
+    {
+      "id": "delphoxite"
+    },
+    {
+      "id": "dragalgite"
+    },
+    {
+      "id": "dragoninite"
+    },
+    {
+      "id": "drampanite"
+    },
+    {
+      "id": "eelektrossite"
+    },
+    {
+      "id": "ejectbutton"
+    },
+    {
+      "id": "emboarite"
+    },
+    {
+      "id": "excadrite"
+    },
+    {
+      "id": "falinksite"
+    },
+    {
+      "id": "feraligite"
+    },
+    {
+      "id": "floettite"
+    },
+    {
+      "id": "froslassite"
+    },
+    {
+      "id": "galladite"
+    },
+    {
+      "id": "garchompite"
+    },
+    {
+      "id": "garchompitez"
+    },
+    {
+      "id": "gardevoirite"
+    },
+    {
+      "id": "gengarite"
+    },
+    {
+      "id": "glalitite"
+    },
+    {
+      "id": "glimmoranite"
+    },
+    {
+      "id": "golisopite"
+    },
+    {
+      "id": "golurkite"
+    },
+    {
+      "id": "greninjite"
+    },
+    {
+      "id": "gyaradosite"
+    },
+    {
+      "id": "hawluchanite"
+    },
+    {
+      "id": "heracronite"
+    },
+    {
+      "id": "houndoominite"
+    },
+    {
+      "id": "kangaskhanite"
+    },
+    {
+      "id": "leek"
+    },
+    {
+      "id": "lopunnite"
+    },
+    {
+      "id": "lucarionite"
+    },
+    {
+      "id": "lucarionitez"
+    },
+    {
+      "id": "malamarite"
+    },
+    {
+      "id": "manectite"
+    },
+    {
+      "id": "mawilite"
+    },
+    {
+      "id": "medichamite"
+    },
+    {
+      "id": "meganiumite"
+    },
+    {
+      "id": "meowsticite"
+    },
+    {
+      "id": "metagrossite"
+    },
+    {
+      "id": "pidgeotite"
+    },
+    {
+      "id": "pinsirite"
+    },
+    {
+      "id": "pyroarite"
+    },
+    {
+      "id": "raichunitex"
+    },
+    {
+      "id": "raichunitey"
+    },
+    {
+      "id": "sablenite"
+    },
+    {
+      "id": "salamencite"
+    },
+    {
+      "id": "sceptilite"
+    },
+    {
+      "id": "scizorite"
+    },
+    {
+      "id": "scolipite"
+    },
+    {
+      "id": "scovillainite"
+    },
+    {
+      "id": "scraftinite"
+    },
+    {
+      "id": "sharpedonite"
+    },
+    {
+      "id": "skarmorite"
+    },
+    {
+      "id": "slowbronite"
+    },
+    {
+      "id": "spelltag"
+    },
+    {
+      "id": "staraptite"
+    },
+    {
+      "id": "starminite"
+    },
+    {
+      "id": "steelixite"
+    },
+    {
+      "id": "swampertite"
+    },
+    {
+      "id": "tyranitarite"
+    },
+    {
+      "id": "venusaurite"
+    },
+    {
+      "id": "victreebelite"
+    },
+    {
+      "id": "airballoon"
+    },
+    {
+      "id": "aspearberry"
+    },
+    {
+      "id": "babiriberry"
+    },
+    {
+      "id": "bigroot"
+    },
+    {
+      "id": "bindingband"
+    },
+    {
+      "id": "blackbelt"
+    },
+    {
+      "id": "blackglasses"
+    },
+    {
+      "id": "brightpowder"
+    },
+    {
+      "id": "charcoal"
+    },
+    {
+      "id": "chartiberry"
+    },
+    {
+      "id": "cheriberry"
+    },
+    {
+      "id": "chestoberry"
+    },
+    {
+      "id": "chilanberry"
+    },
+    {
+      "id": "choicescarf"
+    },
+    {
+      "id": "chopleberry"
+    },
+    {
+      "id": "cobaberry"
+    },
+    {
+      "id": "colburberry"
+    },
+    {
+      "id": "damprock"
+    },
+    {
+      "id": "dragonfang"
+    },
+    {
+      "id": "electricseed"
+    },
+    {
+      "id": "expertbelt"
+    },
+    {
+      "id": "fairyfeather"
+    },
+    {
+      "id": "focusband"
+    },
+    {
+      "id": "focussash"
+    },
+    {
+      "id": "grassyseed"
+    },
+    {
+      "id": "habanberry"
+    },
+    {
+      "id": "hardstone"
+    },
+    {
+      "id": "heatrock"
+    },
+    {
+      "id": "icyrock"
+    },
+    {
+      "id": "ironball"
+    },
+    {
+      "id": "kasibberry"
+    },
+    {
+      "id": "kebiaberry"
+    },
+    {
+      "id": "kingsrock"
+    },
+    {
+      "id": "leftovers"
+    },
+    {
+      "id": "leppaberry"
+    },
+    {
+      "id": "lifeorb"
+    },
+    {
+      "id": "lightball"
+    },
+    {
+      "id": "lightclay"
+    },
+    {
+      "id": "lumberry"
+    },
+    {
+      "id": "magnet"
+    },
+    {
+      "id": "mentalherb"
+    },
+    {
+      "id": "metalcoat"
+    },
+    {
+      "id": "metronome"
+    },
+    {
+      "id": "miracleseed"
+    },
+    {
+      "id": "mistyseed"
+    },
+    {
+      "id": "muscleband"
+    },
+    {
+      "id": "mysticwater"
+    },
+    {
+      "id": "nevermeltice"
+    },
+    {
+      "id": "normalgem"
+    },
+    {
+      "id": "occaberry"
+    },
+    {
+      "id": "oranberry"
+    },
+    {
+      "id": "passhoberry"
+    },
+    {
+      "id": "payapaberry"
+    },
+    {
+      "id": "pechaberry"
+    },
+    {
+      "id": "persimberry"
+    },
+    {
+      "id": "poisonbarb"
+    },
+    {
+      "id": "psychicseed"
+    },
+    {
+      "id": "quickclaw"
+    },
+    {
+      "id": "rawstberry"
+    },
+    {
+      "id": "redcard"
+    },
+    {
+      "id": "rindoberry"
+    },
+    {
+      "id": "rockyhelmet"
+    },
+    {
+      "id": "roseliberry"
+    },
+    {
+      "id": "scopelens"
+    },
+    {
+      "id": "sharpbeak"
+    },
+    {
+      "id": "shedshell"
+    },
+    {
+      "id": "shellbell"
+    },
+    {
+      "id": "shucaberry"
+    },
+    {
+      "id": "silkscarf"
+    },
+    {
+      "id": "silverpowder"
+    },
+    {
+      "id": "sitrusberry"
+    },
+    {
+      "id": "smoothrock"
+    },
+    {
+      "id": "softsand"
+    },
+    {
+      "id": "tangaberry"
+    },
+    {
+      "id": "terrainextender"
+    },
+    {
+      "id": "twistedspoon"
+    },
+    {
+      "id": "wacanberry"
+    },
+    {
+      "id": "whiteherb"
+    },
+    {
+      "id": "widelens"
+    },
+    {
+      "id": "wiseglasses"
+    },
+    {
+      "id": "yacheberry"
+    },
+    {
+      "id": "zoomlens"
+    }
+  ]
+}
