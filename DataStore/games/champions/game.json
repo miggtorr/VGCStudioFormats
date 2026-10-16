@@ -3,6 +3,7 @@
   "name": "Pokémon Champions",
   "defaultlevel": 50,
   "statPointFormat": {
+    "pointFormat": "champions",
     "maxPointsPerStat": 32,
     "maxPointsTotal": 66
   }
