@@ -2,7 +2,7 @@
   "moveData": [
     {
       "id": "absorb",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 20,
       "accuracy": 100,
@@ -14,7 +14,7 @@
     },
     {
       "id": "acid",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -26,7 +26,7 @@
     },
     {
       "id": "aeroblast",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 100,
       "accuracy": 95,
@@ -38,7 +38,7 @@
     },
     {
       "id": "anchorshot",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -51,7 +51,7 @@
     },
     {
       "id": "appleacid",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -63,7 +63,7 @@
     },
     {
       "id": "armthrust",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 100,
@@ -76,7 +76,7 @@
     },
     {
       "id": "astonish",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 100,
@@ -89,7 +89,7 @@
     },
     {
       "id": "astralbarrage",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 110,
       "accuracy": 100,
@@ -101,7 +101,7 @@
     },
     {
       "id": "attackorder",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -113,7 +113,7 @@
     },
     {
       "id": "aurorabeam",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -125,7 +125,7 @@
     },
     {
       "id": "banefulbunker",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -137,7 +137,7 @@
     },
     {
       "id": "beakblast",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -149,7 +149,7 @@
     },
     {
       "id": "belch",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 120,
       "accuracy": 90,
@@ -161,7 +161,7 @@
     },
     {
       "id": "behemothbash",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -174,7 +174,7 @@
     },
     {
       "id": "behemothblade",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -187,7 +187,7 @@
     },
     {
       "id": "blazingtorque",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -199,7 +199,7 @@
     },
     {
       "id": "bleakwindstorm",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 100,
       "accuracy": 80,
@@ -211,7 +211,7 @@
     },
     {
       "id": "bloodmoon",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 130,
       "accuracy": 100,
@@ -223,7 +223,7 @@
     },
     {
       "id": "blueflare",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 130,
       "accuracy": 85,
@@ -235,7 +235,7 @@
     },
     {
       "id": "boltbeak",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -248,7 +248,7 @@
     },
     {
       "id": "boltstrike",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 130,
       "accuracy": 85,
@@ -261,7 +261,7 @@
     },
     {
       "id": "bonerush",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 90,
@@ -273,7 +273,7 @@
     },
     {
       "id": "branchpoke",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -286,7 +286,7 @@
     },
     {
       "id": "brine",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -298,7 +298,7 @@
     },
     {
       "id": "bubblebeam",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -310,7 +310,7 @@
     },
     {
       "id": "burningbulwark",
-      "type": "Fire",
+      "type": "fire",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -322,7 +322,7 @@
     },
     {
       "id": "burnup",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 130,
       "accuracy": 100,
@@ -334,7 +334,7 @@
     },
     {
       "id": "celebrate",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -346,7 +346,7 @@
     },
     {
       "id": "chloroblast",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 150,
       "accuracy": 95,
@@ -358,7 +358,7 @@
     },
     {
       "id": "clangoroussoul",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -371,7 +371,7 @@
     },
     {
       "id": "collisioncourse",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -384,7 +384,7 @@
     },
     {
       "id": "combattorque",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -396,7 +396,7 @@
     },
     {
       "id": "confide",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -409,7 +409,7 @@
     },
     {
       "id": "confusion",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -421,7 +421,7 @@
     },
     {
       "id": "conversion",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -433,7 +433,7 @@
     },
     {
       "id": "conversion2",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -445,7 +445,7 @@
     },
     {
       "id": "corrosivegas",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -457,7 +457,7 @@
     },
     {
       "id": "crabhammer",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -470,7 +470,7 @@
     },
     {
       "id": "crushclaw",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 95,
@@ -483,7 +483,7 @@
     },
     {
       "id": "crushgrip",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -496,7 +496,7 @@
     },
     {
       "id": "curse",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -508,7 +508,7 @@
     },
     {
       "id": "cut",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 95,
@@ -521,7 +521,7 @@
     },
     {
       "id": "darkvoid",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 50,
@@ -533,7 +533,7 @@
     },
     {
       "id": "defendorder",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -545,7 +545,7 @@
     },
     {
       "id": "defensecurl",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -557,7 +557,7 @@
     },
     {
       "id": "diamondstorm",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -569,7 +569,7 @@
     },
     {
       "id": "direclaw",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -582,7 +582,7 @@
     },
     {
       "id": "disable",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -594,7 +594,7 @@
     },
     {
       "id": "disarmingvoice",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 40,
       "accuracy": true,
@@ -607,7 +607,7 @@
     },
     {
       "id": "doodle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -619,7 +619,7 @@
     },
     {
       "id": "doomdesire",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 140,
       "accuracy": 100,
@@ -631,7 +631,7 @@
     },
     {
       "id": "doublekick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 100,
@@ -644,7 +644,7 @@
     },
     {
       "id": "doubleshock",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -657,7 +657,7 @@
     },
     {
       "id": "dragonascent",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -670,7 +670,7 @@
     },
     {
       "id": "dragonbreath",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -682,7 +682,7 @@
     },
     {
       "id": "dragoncheer",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -695,7 +695,7 @@
     },
     {
       "id": "dragonclaw",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -708,7 +708,7 @@
     },
     {
       "id": "dragonenergy",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 150,
       "accuracy": 100,
@@ -720,7 +720,7 @@
     },
     {
       "id": "dragonhammer",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -733,7 +733,7 @@
     },
     {
       "id": "dreameater",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -745,7 +745,7 @@
     },
     {
       "id": "dynamaxcannon",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -757,7 +757,7 @@
     },
     {
       "id": "echoedvoice",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -770,7 +770,7 @@
     },
     {
       "id": "electrify",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -782,7 +782,7 @@
     },
     {
       "id": "electrodrift",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -795,7 +795,7 @@
     },
     {
       "id": "ember",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -807,7 +807,7 @@
     },
     {
       "id": "encore",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -819,7 +819,7 @@
     },
     {
       "id": "esperwing",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -831,7 +831,7 @@
     },
     {
       "id": "fairywind",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -843,7 +843,7 @@
     },
     {
       "id": "fakeout",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -856,7 +856,7 @@
     },
     {
       "id": "falsesurrender",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 80,
       "accuracy": true,
@@ -869,7 +869,7 @@
     },
     {
       "id": "falseswipe",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -882,7 +882,7 @@
     },
     {
       "id": "fierywrath",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -894,7 +894,7 @@
     },
     {
       "id": "filletaway",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -906,7 +906,7 @@
     },
     {
       "id": "firelash",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -919,7 +919,7 @@
     },
     {
       "id": "firepledge",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -931,7 +931,7 @@
     },
     {
       "id": "firstimpression",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -944,7 +944,7 @@
     },
     {
       "id": "fishiousrend",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -957,7 +957,7 @@
     },
     {
       "id": "flamewheel",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -970,7 +970,7 @@
     },
     {
       "id": "fleurcannon",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 130,
       "accuracy": 90,
@@ -982,7 +982,7 @@
     },
     {
       "id": "floralhealing",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -994,7 +994,7 @@
     },
     {
       "id": "forcepalm",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -1007,7 +1007,7 @@
     },
     {
       "id": "freezedry",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "freezeshock",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 140,
       "accuracy": 90,
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "freezingglare",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "furyattack",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 85,
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "furycutter",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 95,
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "furyswipes",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 18,
       "accuracy": 80,
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "fusionbolt",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "fusionflare",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "geargrind",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 90,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": "glaciallance",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -1131,7 +1131,7 @@
     },
     {
       "id": "glaciate",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 65,
       "accuracy": 95,
@@ -1143,7 +1143,7 @@
     },
     {
       "id": "grasspledge",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": "gravapple",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -1167,7 +1167,7 @@
     },
     {
       "id": "growl",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "growth",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "gust",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -1204,7 +1204,7 @@
     },
     {
       "id": "happyhour",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1216,7 +1216,7 @@
     },
     {
       "id": "harden",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1228,7 +1228,7 @@
     },
     {
       "id": "headbutt",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -1241,7 +1241,7 @@
     },
     {
       "id": "heartswap",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "holdback",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "holdhands",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "honeclaws",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "hornattack",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "howl",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "hydrosteam",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -1328,7 +1328,7 @@
     },
     {
       "id": "hyperdrill",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -1341,7 +1341,7 @@
     },
     {
       "id": "hyperspacefury",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 100,
       "accuracy": true,
@@ -1353,7 +1353,7 @@
     },
     {
       "id": "hyperspacehole",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": true,
@@ -1365,7 +1365,7 @@
     },
     {
       "id": "iceburn",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 140,
       "accuracy": 90,
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "incinerate",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": "infernalparade",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -1401,7 +1401,7 @@
     },
     {
       "id": "ironhead",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -1414,7 +1414,7 @@
     },
     {
       "id": "ivycudgel",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -1426,7 +1426,7 @@
     },
     {
       "id": "judgment",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "junglehealing",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "kingsshield",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "leafage",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "leer",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "lick",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 100,
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "lightofruin",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 140,
       "accuracy": 90,
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "lunarblessing",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1523,7 +1523,7 @@
     },
     {
       "id": "lunardance",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "lusterpurge",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 95,
       "accuracy": 100,
@@ -1547,7 +1547,7 @@
     },
     {
       "id": "magicalleaf",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 60,
       "accuracy": true,
@@ -1559,7 +1559,7 @@
     },
     {
       "id": "magicaltorque",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -1571,7 +1571,7 @@
     },
     {
       "id": "magmastorm",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 100,
       "accuracy": 75,
@@ -1583,7 +1583,7 @@
     },
     {
       "id": "makeitrain",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 120,
       "accuracy": 95,
@@ -1595,7 +1595,7 @@
     },
     {
       "id": "malignantchain",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1607,7 +1607,7 @@
     },
     {
       "id": "megadrain",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -1619,7 +1619,7 @@
     },
     {
       "id": "megapunch",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 85,
@@ -1632,7 +1632,7 @@
     },
     {
       "id": "metalclaw",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 95,
@@ -1645,7 +1645,7 @@
     },
     {
       "id": "meteorassault",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 170,
       "accuracy": 100,
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "metronome",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "mightycleave",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 95,
       "accuracy": 100,
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "milkdrink",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "mimic",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "mist",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1718,7 +1718,7 @@
     },
     {
       "id": "mistball",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 95,
       "accuracy": 100,
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "moonblast",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 95,
       "accuracy": 100,
@@ -1742,7 +1742,7 @@
     },
     {
       "id": "moongeistbeam",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "mountaingale",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 85,
@@ -1766,7 +1766,7 @@
     },
     {
       "id": "mysticalpower",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 70,
       "accuracy": 90,
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "nightdaze",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 90,
       "accuracy": 95,
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "nightslash",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -1803,7 +1803,7 @@
     },
     {
       "id": "nihillight",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1815,7 +1815,7 @@
     },
     {
       "id": "noxioustorque",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -1827,7 +1827,7 @@
     },
     {
       "id": "obstruct",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -1839,7 +1839,7 @@
     },
     {
       "id": "octolock",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "orderup",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -1863,7 +1863,7 @@
     },
     {
       "id": "originpulse",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 110,
       "accuracy": 85,
@@ -1875,7 +1875,7 @@
     },
     {
       "id": "payday",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "peck",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 100,
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "photongeyser",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -1912,7 +1912,7 @@
     },
     {
       "id": "playnice",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1924,7 +1924,7 @@
     },
     {
       "id": "poisongas",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 90,
@@ -1936,7 +1936,7 @@
     },
     {
       "id": "poisonsting",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 100,
@@ -1948,7 +1948,7 @@
     },
     {
       "id": "poisontail",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "powdersnow",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -1973,7 +1973,7 @@
     },
     {
       "id": "powershift",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -1985,7 +1985,7 @@
     },
     {
       "id": "precipiceblades",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 85,
@@ -1997,7 +1997,7 @@
     },
     {
       "id": "present",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 90,
@@ -2009,7 +2009,7 @@
     },
     {
       "id": "prismaticlaser",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 160,
       "accuracy": 100,
@@ -2021,7 +2021,7 @@
     },
     {
       "id": "protect",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "psybeam",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -2045,7 +2045,7 @@
     },
     {
       "id": "psyblade",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -2058,7 +2058,7 @@
     },
     {
       "id": "psychoboost",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 140,
       "accuracy": 90,
@@ -2070,7 +2070,7 @@
     },
     {
       "id": "psyshieldbash",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 90,
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "psystrike",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -2095,7 +2095,7 @@
     },
     {
       "id": "purify",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "ragefist",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -2120,7 +2120,7 @@
     },
     {
       "id": "razorleaf",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 55,
       "accuracy": 95,
@@ -2132,7 +2132,7 @@
     },
     {
       "id": "relicsong",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -2145,7 +2145,7 @@
     },
     {
       "id": "retaliate",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -2158,7 +2158,7 @@
     },
     {
       "id": "revelationdance",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -2170,7 +2170,7 @@
     },
     {
       "id": "roaroftime",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 150,
       "accuracy": 90,
@@ -2182,7 +2182,7 @@
     },
     {
       "id": "rocksmash",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -2195,7 +2195,7 @@
     },
     {
       "id": "rockthrow",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 90,
@@ -2207,7 +2207,7 @@
     },
     {
       "id": "rollout",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 90,
@@ -2220,7 +2220,7 @@
     },
     {
       "id": "ruination",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 0,
       "accuracy": 90,
@@ -2232,7 +2232,7 @@
     },
     {
       "id": "sacredfire",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -2244,7 +2244,7 @@
     },
     {
       "id": "saltcure",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -2256,7 +2256,7 @@
     },
     {
       "id": "sandattack",
-      "type": "Ground",
+      "type": "ground",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2268,7 +2268,7 @@
     },
     {
       "id": "sandsearstorm",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 100,
       "accuracy": 80,
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "sandstorm",
-      "type": "Rock",
+      "type": "rock",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2292,7 +2292,7 @@
     },
     {
       "id": "scratch",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": "secretsword",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 85,
       "accuracy": 100,
@@ -2317,7 +2317,7 @@
     },
     {
       "id": "seedflare",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 120,
       "accuracy": 85,
@@ -2329,7 +2329,7 @@
     },
     {
       "id": "shadowclaw",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -2342,7 +2342,7 @@
     },
     {
       "id": "shadowforce",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -2355,7 +2355,7 @@
     },
     {
       "id": "shelltrap",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 150,
       "accuracy": 100,
@@ -2367,7 +2367,7 @@
     },
     {
       "id": "shockwave",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 60,
       "accuracy": true,
@@ -2379,7 +2379,7 @@
     },
     {
       "id": "shoreup",
-      "type": "Ground",
+      "type": "ground",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2391,7 +2391,7 @@
     },
     {
       "id": "silktrap",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2403,7 +2403,7 @@
     },
     {
       "id": "sketch",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2415,7 +2415,7 @@
     },
     {
       "id": "slam",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 75,
@@ -2428,7 +2428,7 @@
     },
     {
       "id": "slash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -2441,7 +2441,7 @@
     },
     {
       "id": "sludge",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -2453,7 +2453,7 @@
     },
     {
       "id": "smog",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 30,
       "accuracy": 70,
@@ -2465,7 +2465,7 @@
     },
     {
       "id": "smokescreen",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2477,7 +2477,7 @@
     },
     {
       "id": "snaptrap",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 100,
@@ -2490,7 +2490,7 @@
     },
     {
       "id": "snipeshot",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 85,
       "accuracy": 100,
@@ -2502,7 +2502,7 @@
     },
     {
       "id": "snowscape",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "spacialrend",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 100,
       "accuracy": 95,
@@ -2526,7 +2526,7 @@
     },
     {
       "id": "spark",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -2539,7 +2539,7 @@
     },
     {
       "id": "spikyshield",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2551,7 +2551,7 @@
     },
     {
       "id": "spinout",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -2564,7 +2564,7 @@
     },
     {
       "id": "spiritshackle",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -2576,7 +2576,7 @@
     },
     {
       "id": "splash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2588,7 +2588,7 @@
     },
     {
       "id": "springtidestorm",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 100,
       "accuracy": 80,
@@ -2600,7 +2600,7 @@
     },
     {
       "id": "steameruption",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 110,
       "accuracy": 95,
@@ -2612,7 +2612,7 @@
     },
     {
       "id": "stomp",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -2625,7 +2625,7 @@
     },
     {
       "id": "stormthrow",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -2638,7 +2638,7 @@
     },
     {
       "id": "strangesteam",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 90,
       "accuracy": 95,
@@ -2650,7 +2650,7 @@
     },
     {
       "id": "strength",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -2663,7 +2663,7 @@
     },
     {
       "id": "strengthsap",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2675,7 +2675,7 @@
     },
     {
       "id": "stuffcheeks",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2687,7 +2687,7 @@
     },
     {
       "id": "sunsteelstrike",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -2700,7 +2700,7 @@
     },
     {
       "id": "supersonic",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 55,
@@ -2713,7 +2713,7 @@
     },
     {
       "id": "surgingstrikes",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 100,
@@ -2726,7 +2726,7 @@
     },
     {
       "id": "swift",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 60,
       "accuracy": true,
@@ -2738,7 +2738,7 @@
     },
     {
       "id": "syrupbomb",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 60,
       "accuracy": 90,
@@ -2750,7 +2750,7 @@
     },
     {
       "id": "tachyoncutter",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 50,
       "accuracy": true,
@@ -2762,7 +2762,7 @@
     },
     {
       "id": "tackle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -2775,7 +2775,7 @@
     },
     {
       "id": "tailglow",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2787,7 +2787,7 @@
     },
     {
       "id": "tailwhip",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2799,7 +2799,7 @@
     },
     {
       "id": "takedown",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 85,
@@ -2812,7 +2812,7 @@
     },
     {
       "id": "takeheart",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2824,7 +2824,7 @@
     },
     {
       "id": "tarshot",
-      "type": "Rock",
+      "type": "rock",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2836,7 +2836,7 @@
     },
     {
       "id": "teleport",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -2848,7 +2848,7 @@
     },
     {
       "id": "terablast",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -2860,7 +2860,7 @@
     },
     {
       "id": "terastarstorm",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -2872,7 +2872,7 @@
     },
     {
       "id": "thundercage",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 80,
       "accuracy": 90,
@@ -2884,7 +2884,7 @@
     },
     {
       "id": "thunderclap",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -2896,7 +2896,7 @@
     },
     {
       "id": "thunderouskick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -2909,7 +2909,7 @@
     },
     {
       "id": "thundershock",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -2921,7 +2921,7 @@
     },
     {
       "id": "toxicthread",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2933,7 +2933,7 @@
     },
     {
       "id": "trickortreat",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -2945,7 +2945,7 @@
     },
     {
       "id": "tripledive",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 95,
@@ -2958,7 +2958,7 @@
     },
     {
       "id": "triplekick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 10,
       "accuracy": 90,
@@ -2971,7 +2971,7 @@
     },
     {
       "id": "tropkick",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -2984,7 +2984,7 @@
     },
     {
       "id": "twister",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -2996,7 +2996,7 @@
     },
     {
       "id": "vcreate",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 180,
       "accuracy": 95,
@@ -3009,7 +3009,7 @@
     },
     {
       "id": "victorydance",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3021,7 +3021,7 @@
     },
     {
       "id": "vinewhip",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 45,
       "accuracy": 100,
@@ -3034,7 +3034,7 @@
     },
     {
       "id": "visegrip",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 55,
       "accuracy": 100,
@@ -3047,7 +3047,7 @@
     },
     {
       "id": "watergun",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -3059,7 +3059,7 @@
     },
     {
       "id": "waterpledge",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -3071,7 +3071,7 @@
     },
     {
       "id": "wickedblow",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -3084,7 +3084,7 @@
     },
     {
       "id": "wickedtorque",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -3096,7 +3096,7 @@
     },
     {
       "id": "wildboltstorm",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 100,
       "accuracy": 80,
@@ -3108,7 +3108,7 @@
     },
     {
       "id": "wingattack",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3121,7 +3121,7 @@
     },
     {
       "id": "wish",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3133,7 +3133,7 @@
     },
     {
       "id": "withdraw",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3145,7 +3145,7 @@
     },
     {
       "id": "workup",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3157,7 +3157,7 @@
     },
     {
       "id": "10000000voltthunderbolt",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 195,
       "accuracy": true,
@@ -3169,7 +3169,7 @@
     },
     {
       "id": "accelerock",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -3182,7 +3182,7 @@
     },
     {
       "id": "acidarmor",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3194,7 +3194,7 @@
     },
     {
       "id": "aciddownpour",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -3206,7 +3206,7 @@
     },
     {
       "id": "acidspray",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -3218,7 +3218,7 @@
     },
     {
       "id": "acrobatics",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 55,
       "accuracy": 100,
@@ -3231,7 +3231,7 @@
     },
     {
       "id": "acupressure",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3243,7 +3243,7 @@
     },
     {
       "id": "aerialace",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 60,
       "accuracy": true,
@@ -3256,7 +3256,7 @@
     },
     {
       "id": "afteryou",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3268,7 +3268,7 @@
     },
     {
       "id": "agility",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3280,7 +3280,7 @@
     },
     {
       "id": "aircutter",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 60,
       "accuracy": 95,
@@ -3292,7 +3292,7 @@
     },
     {
       "id": "airslash",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 75,
       "accuracy": 95,
@@ -3304,7 +3304,7 @@
     },
     {
       "id": "alloutpummeling",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -3316,7 +3316,7 @@
     },
     {
       "id": "alluringvoice",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -3329,7 +3329,7 @@
     },
     {
       "id": "allyswitch",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3341,7 +3341,7 @@
     },
     {
       "id": "amnesia",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3353,7 +3353,7 @@
     },
     {
       "id": "ancientpower",
-      "type": "Rock",
+      "type": "rock",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -3365,7 +3365,7 @@
     },
     {
       "id": "aquacutter",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -3377,7 +3377,7 @@
     },
     {
       "id": "aquajet",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -3390,7 +3390,7 @@
     },
     {
       "id": "aquaring",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3402,7 +3402,7 @@
     },
     {
       "id": "aquastep",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -3415,7 +3415,7 @@
     },
     {
       "id": "aquatail",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 90,
@@ -3428,7 +3428,7 @@
     },
     {
       "id": "armorcannon",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -3440,7 +3440,7 @@
     },
     {
       "id": "aromatherapy",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3452,7 +3452,7 @@
     },
     {
       "id": "aromaticmist",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3464,7 +3464,7 @@
     },
     {
       "id": "assist",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3476,7 +3476,7 @@
     },
     {
       "id": "assurance",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3489,7 +3489,7 @@
     },
     {
       "id": "attract",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -3501,7 +3501,7 @@
     },
     {
       "id": "aurasphere",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 80,
       "accuracy": true,
@@ -3513,7 +3513,7 @@
     },
     {
       "id": "aurawheel",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 110,
       "accuracy": 100,
@@ -3525,7 +3525,7 @@
     },
     {
       "id": "auroraveil",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3537,7 +3537,7 @@
     },
     {
       "id": "autotomize",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3549,7 +3549,7 @@
     },
     {
       "id": "avalanche",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3562,7 +3562,7 @@
     },
     {
       "id": "axekick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 90,
@@ -3575,7 +3575,7 @@
     },
     {
       "id": "babydolleyes",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -3587,7 +3587,7 @@
     },
     {
       "id": "baddybad",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 80,
       "accuracy": 95,
@@ -3599,7 +3599,7 @@
     },
     {
       "id": "barbbarrage",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3611,7 +3611,7 @@
     },
     {
       "id": "barrage",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 85,
@@ -3623,7 +3623,7 @@
     },
     {
       "id": "barrier",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3635,7 +3635,7 @@
     },
     {
       "id": "batonpass",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3647,7 +3647,7 @@
     },
     {
       "id": "beatup",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -3659,7 +3659,7 @@
     },
     {
       "id": "bellydrum",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3671,7 +3671,7 @@
     },
     {
       "id": "bestow",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3683,7 +3683,7 @@
     },
     {
       "id": "bide",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": true,
@@ -3696,7 +3696,7 @@
     },
     {
       "id": "bind",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 85,
@@ -3709,7 +3709,7 @@
     },
     {
       "id": "bite",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3722,7 +3722,7 @@
     },
     {
       "id": "bitterblade",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -3735,7 +3735,7 @@
     },
     {
       "id": "bittermalice",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -3747,7 +3747,7 @@
     },
     {
       "id": "blackholeeclipse",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -3759,7 +3759,7 @@
     },
     {
       "id": "blastburn",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 150,
       "accuracy": 90,
@@ -3771,7 +3771,7 @@
     },
     {
       "id": "blazekick",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 90,
@@ -3784,7 +3784,7 @@
     },
     {
       "id": "blizzard",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 110,
       "accuracy": 70,
@@ -3796,7 +3796,7 @@
     },
     {
       "id": "block",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -3808,7 +3808,7 @@
     },
     {
       "id": "bloomdoom",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -3820,7 +3820,7 @@
     },
     {
       "id": "bodypress",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -3833,7 +3833,7 @@
     },
     {
       "id": "bodyslam",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -3846,7 +3846,7 @@
     },
     {
       "id": "boneclub",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 85,
@@ -3858,7 +3858,7 @@
     },
     {
       "id": "bonemerang",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 90,
@@ -3870,7 +3870,7 @@
     },
     {
       "id": "boomburst",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 140,
       "accuracy": 100,
@@ -3883,7 +3883,7 @@
     },
     {
       "id": "bounce",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 85,
@@ -3896,7 +3896,7 @@
     },
     {
       "id": "bouncybubble",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -3908,7 +3908,7 @@
     },
     {
       "id": "bravebird",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -3921,7 +3921,7 @@
     },
     {
       "id": "breakingswipe",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3934,7 +3934,7 @@
     },
     {
       "id": "breakneckblitz",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -3946,7 +3946,7 @@
     },
     {
       "id": "brickbreak",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -3959,7 +3959,7 @@
     },
     {
       "id": "brutalswing",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3972,7 +3972,7 @@
     },
     {
       "id": "bubble",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -3984,7 +3984,7 @@
     },
     {
       "id": "bugbite",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -3997,7 +3997,7 @@
     },
     {
       "id": "bugbuzz",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -4010,7 +4010,7 @@
     },
     {
       "id": "bulkup",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4022,7 +4022,7 @@
     },
     {
       "id": "bulldoze",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -4034,7 +4034,7 @@
     },
     {
       "id": "bulletpunch",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -4047,7 +4047,7 @@
     },
     {
       "id": "bulletseed",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 100,
@@ -4059,7 +4059,7 @@
     },
     {
       "id": "burningjealousy",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -4071,7 +4071,7 @@
     },
     {
       "id": "buzzybuzz",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -4083,7 +4083,7 @@
     },
     {
       "id": "calmmind",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4095,7 +4095,7 @@
     },
     {
       "id": "camouflage",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4107,7 +4107,7 @@
     },
     {
       "id": "captivate",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4119,7 +4119,7 @@
     },
     {
       "id": "catastropika",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 210,
       "accuracy": true,
@@ -4132,7 +4132,7 @@
     },
     {
       "id": "ceaselessedge",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 90,
@@ -4145,7 +4145,7 @@
     },
     {
       "id": "charge",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4157,7 +4157,7 @@
     },
     {
       "id": "chargebeam",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 50,
       "accuracy": 90,
@@ -4169,7 +4169,7 @@
     },
     {
       "id": "charm",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4181,7 +4181,7 @@
     },
     {
       "id": "chatter",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -4194,7 +4194,7 @@
     },
     {
       "id": "chillingwater",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -4206,7 +4206,7 @@
     },
     {
       "id": "chillyreception",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4218,7 +4218,7 @@
     },
     {
       "id": "chipaway",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -4231,7 +4231,7 @@
     },
     {
       "id": "circlethrow",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 90,
@@ -4244,7 +4244,7 @@
     },
     {
       "id": "clamp",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 85,
@@ -4257,7 +4257,7 @@
     },
     {
       "id": "clangingscales",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 110,
       "accuracy": 100,
@@ -4270,7 +4270,7 @@
     },
     {
       "id": "clangoroussoulblaze",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 185,
       "accuracy": true,
@@ -4283,7 +4283,7 @@
     },
     {
       "id": "clearsmog",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 50,
       "accuracy": true,
@@ -4295,7 +4295,7 @@
     },
     {
       "id": "closecombat",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -4308,7 +4308,7 @@
     },
     {
       "id": "coaching",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4320,7 +4320,7 @@
     },
     {
       "id": "coil",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4332,7 +4332,7 @@
     },
     {
       "id": "cometpunch",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 18,
       "accuracy": 85,
@@ -4345,7 +4345,7 @@
     },
     {
       "id": "comeuppance",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -4358,7 +4358,7 @@
     },
     {
       "id": "confuseray",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4370,7 +4370,7 @@
     },
     {
       "id": "constrict",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 10,
       "accuracy": 100,
@@ -4383,7 +4383,7 @@
     },
     {
       "id": "continentalcrush",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -4395,7 +4395,7 @@
     },
     {
       "id": "copycat",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4407,7 +4407,7 @@
     },
     {
       "id": "coreenforcer",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -4419,7 +4419,7 @@
     },
     {
       "id": "corkscrewcrash",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -4431,7 +4431,7 @@
     },
     {
       "id": "cosmicpower",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4443,7 +4443,7 @@
     },
     {
       "id": "cottonguard",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4455,7 +4455,7 @@
     },
     {
       "id": "cottonspore",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4467,7 +4467,7 @@
     },
     {
       "id": "counter",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -4480,7 +4480,7 @@
     },
     {
       "id": "courtchange",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4492,7 +4492,7 @@
     },
     {
       "id": "covet",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -4505,7 +4505,7 @@
     },
     {
       "id": "craftyshield",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4517,7 +4517,7 @@
     },
     {
       "id": "crosschop",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 80,
@@ -4530,7 +4530,7 @@
     },
     {
       "id": "crosspoison",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -4543,7 +4543,7 @@
     },
     {
       "id": "crunch",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -4556,7 +4556,7 @@
     },
     {
       "id": "darkestlariat",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -4569,7 +4569,7 @@
     },
     {
       "id": "darkpulse",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -4581,7 +4581,7 @@
     },
     {
       "id": "dazzlinggleam",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -4593,7 +4593,7 @@
     },
     {
       "id": "decorate",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4605,7 +4605,7 @@
     },
     {
       "id": "defog",
-      "type": "Flying",
+      "type": "flying",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4617,7 +4617,7 @@
     },
     {
       "id": "destinybond",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4629,7 +4629,7 @@
     },
     {
       "id": "detect",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4641,7 +4641,7 @@
     },
     {
       "id": "devastatingdrake",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -4653,7 +4653,7 @@
     },
     {
       "id": "dig",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -4666,7 +4666,7 @@
     },
     {
       "id": "discharge",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -4678,7 +4678,7 @@
     },
     {
       "id": "dive",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -4691,7 +4691,7 @@
     },
     {
       "id": "dizzypunch",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -4704,7 +4704,7 @@
     },
     {
       "id": "doubleedge",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -4717,7 +4717,7 @@
     },
     {
       "id": "doublehit",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 90,
@@ -4730,7 +4730,7 @@
     },
     {
       "id": "doubleironbash",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -4743,7 +4743,7 @@
     },
     {
       "id": "doubleslap",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 85,
@@ -4756,7 +4756,7 @@
     },
     {
       "id": "doubleteam",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4768,7 +4768,7 @@
     },
     {
       "id": "dracometeor",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 130,
       "accuracy": 90,
@@ -4780,7 +4780,7 @@
     },
     {
       "id": "dragondance",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -4792,7 +4792,7 @@
     },
     {
       "id": "dragondarts",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -4804,7 +4804,7 @@
     },
     {
       "id": "dragonpulse",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 85,
       "accuracy": 100,
@@ -4816,7 +4816,7 @@
     },
     {
       "id": "dragonrage",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -4828,7 +4828,7 @@
     },
     {
       "id": "dragonrush",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 75,
@@ -4841,7 +4841,7 @@
     },
     {
       "id": "dragontail",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 90,
@@ -4854,7 +4854,7 @@
     },
     {
       "id": "drainingkiss",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -4867,7 +4867,7 @@
     },
     {
       "id": "drainpunch",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -4880,7 +4880,7 @@
     },
     {
       "id": "drillpeck",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -4893,7 +4893,7 @@
     },
     {
       "id": "drillrun",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 95,
@@ -4906,7 +4906,7 @@
     },
     {
       "id": "drumbeating",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -4918,7 +4918,7 @@
     },
     {
       "id": "dualchop",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 90,
@@ -4931,7 +4931,7 @@
     },
     {
       "id": "dualwingbeat",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 90,
@@ -4944,7 +4944,7 @@
     },
     {
       "id": "dynamicpunch",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 50,
@@ -4957,7 +4957,7 @@
     },
     {
       "id": "earthpower",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -4969,7 +4969,7 @@
     },
     {
       "id": "earthquake",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -4981,7 +4981,7 @@
     },
     {
       "id": "eerieimpulse",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -4993,7 +4993,7 @@
     },
     {
       "id": "eeriespell",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5006,7 +5006,7 @@
     },
     {
       "id": "eggbomb",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 75,
@@ -5018,7 +5018,7 @@
     },
     {
       "id": "electricterrain",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5030,7 +5030,7 @@
     },
     {
       "id": "electroball",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -5042,7 +5042,7 @@
     },
     {
       "id": "electroshot",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 130,
       "accuracy": 100,
@@ -5054,7 +5054,7 @@
     },
     {
       "id": "electroweb",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 55,
       "accuracy": 95,
@@ -5066,7 +5066,7 @@
     },
     {
       "id": "embargo",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5078,7 +5078,7 @@
     },
     {
       "id": "endeavor",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -5091,7 +5091,7 @@
     },
     {
       "id": "endure",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5103,7 +5103,7 @@
     },
     {
       "id": "energyball",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -5115,7 +5115,7 @@
     },
     {
       "id": "entrainment",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5127,7 +5127,7 @@
     },
     {
       "id": "eruption",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 150,
       "accuracy": 100,
@@ -5139,7 +5139,7 @@
     },
     {
       "id": "eternabeam",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 160,
       "accuracy": 90,
@@ -5151,7 +5151,7 @@
     },
     {
       "id": "expandingforce",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5163,7 +5163,7 @@
     },
     {
       "id": "explosion",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 250,
       "accuracy": 100,
@@ -5175,7 +5175,7 @@
     },
     {
       "id": "extrasensory",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5187,7 +5187,7 @@
     },
     {
       "id": "extremeevoboost",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5199,7 +5199,7 @@
     },
     {
       "id": "extremespeed",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -5212,7 +5212,7 @@
     },
     {
       "id": "facade",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -5225,7 +5225,7 @@
     },
     {
       "id": "fairylock",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5237,7 +5237,7 @@
     },
     {
       "id": "faketears",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5249,7 +5249,7 @@
     },
     {
       "id": "featherdance",
-      "type": "Flying",
+      "type": "flying",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5261,7 +5261,7 @@
     },
     {
       "id": "feint",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 100,
@@ -5273,7 +5273,7 @@
     },
     {
       "id": "feintattack",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 60,
       "accuracy": true,
@@ -5286,7 +5286,7 @@
     },
     {
       "id": "fellstinger",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -5299,7 +5299,7 @@
     },
     {
       "id": "ficklebeam",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5311,7 +5311,7 @@
     },
     {
       "id": "fierydance",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5323,7 +5323,7 @@
     },
     {
       "id": "finalgambit",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -5335,7 +5335,7 @@
     },
     {
       "id": "fireblast",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 110,
       "accuracy": 85,
@@ -5347,7 +5347,7 @@
     },
     {
       "id": "firefang",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 95,
@@ -5360,7 +5360,7 @@
     },
     {
       "id": "firepunch",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -5373,7 +5373,7 @@
     },
     {
       "id": "firespin",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 35,
       "accuracy": 85,
@@ -5385,7 +5385,7 @@
     },
     {
       "id": "fissure",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 30,
@@ -5397,7 +5397,7 @@
     },
     {
       "id": "flail",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -5410,7 +5410,7 @@
     },
     {
       "id": "flameburst",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -5422,7 +5422,7 @@
     },
     {
       "id": "flamecharge",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -5435,7 +5435,7 @@
     },
     {
       "id": "flamethrower",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -5447,7 +5447,7 @@
     },
     {
       "id": "flareblitz",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -5460,7 +5460,7 @@
     },
     {
       "id": "flash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5472,7 +5472,7 @@
     },
     {
       "id": "flashcannon",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -5484,7 +5484,7 @@
     },
     {
       "id": "flatter",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5496,7 +5496,7 @@
     },
     {
       "id": "fling",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -5508,7 +5508,7 @@
     },
     {
       "id": "flipturn",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -5521,7 +5521,7 @@
     },
     {
       "id": "floatyfall",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 95,
@@ -5534,7 +5534,7 @@
     },
     {
       "id": "flowershield",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5546,7 +5546,7 @@
     },
     {
       "id": "flowertrick",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 70,
       "accuracy": true,
@@ -5558,7 +5558,7 @@
     },
     {
       "id": "fly",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 95,
@@ -5571,7 +5571,7 @@
     },
     {
       "id": "flyingpress",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -5584,7 +5584,7 @@
     },
     {
       "id": "focusblast",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 120,
       "accuracy": 70,
@@ -5596,7 +5596,7 @@
     },
     {
       "id": "focusenergy",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5608,7 +5608,7 @@
     },
     {
       "id": "focuspunch",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 150,
       "accuracy": 100,
@@ -5621,7 +5621,7 @@
     },
     {
       "id": "followme",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5633,7 +5633,7 @@
     },
     {
       "id": "foresight",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5645,7 +5645,7 @@
     },
     {
       "id": "forestscurse",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5657,7 +5657,7 @@
     },
     {
       "id": "foulplay",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 95,
       "accuracy": 100,
@@ -5670,7 +5670,7 @@
     },
     {
       "id": "freezyfrost",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 100,
       "accuracy": 90,
@@ -5682,7 +5682,7 @@
     },
     {
       "id": "frenzyplant",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 150,
       "accuracy": 90,
@@ -5694,7 +5694,7 @@
     },
     {
       "id": "frostbreath",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 60,
       "accuracy": 90,
@@ -5706,7 +5706,7 @@
     },
     {
       "id": "frustration",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -5719,7 +5719,7 @@
     },
     {
       "id": "futuresight",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -5731,7 +5731,7 @@
     },
     {
       "id": "gastroacid",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5743,7 +5743,7 @@
     },
     {
       "id": "gearup",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5755,7 +5755,7 @@
     },
     {
       "id": "genesissupernova",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 185,
       "accuracy": true,
@@ -5767,7 +5767,7 @@
     },
     {
       "id": "geomancy",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -5779,7 +5779,7 @@
     },
     {
       "id": "gigadrain",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -5791,7 +5791,7 @@
     },
     {
       "id": "gigaimpact",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 150,
       "accuracy": 90,
@@ -5804,7 +5804,7 @@
     },
     {
       "id": "gigatonhammer",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 160,
       "accuracy": 100,
@@ -5816,7 +5816,7 @@
     },
     {
       "id": "gigavolthavoc",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -5828,7 +5828,7 @@
     },
     {
       "id": "glaiverush",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -5841,7 +5841,7 @@
     },
     {
       "id": "glare",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -5853,7 +5853,7 @@
     },
     {
       "id": "glitzyglow",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 95,
@@ -5865,7 +5865,7 @@
     },
     {
       "id": "gmaxbefuddle",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5877,7 +5877,7 @@
     },
     {
       "id": "gmaxcannonade",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5889,7 +5889,7 @@
     },
     {
       "id": "gmaxcentiferno",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5901,7 +5901,7 @@
     },
     {
       "id": "gmaxchistrike",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5913,7 +5913,7 @@
     },
     {
       "id": "gmaxcuddle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5925,7 +5925,7 @@
     },
     {
       "id": "gmaxdepletion",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5937,7 +5937,7 @@
     },
     {
       "id": "gmaxdrumsolo",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 160,
       "accuracy": true,
@@ -5949,7 +5949,7 @@
     },
     {
       "id": "gmaxfinale",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5961,7 +5961,7 @@
     },
     {
       "id": "gmaxfireball",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 160,
       "accuracy": true,
@@ -5973,7 +5973,7 @@
     },
     {
       "id": "gmaxfoamburst",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5985,7 +5985,7 @@
     },
     {
       "id": "gmaxgoldrush",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -5997,7 +5997,7 @@
     },
     {
       "id": "gmaxgravitas",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6009,7 +6009,7 @@
     },
     {
       "id": "gmaxhydrosnipe",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 160,
       "accuracy": true,
@@ -6021,7 +6021,7 @@
     },
     {
       "id": "gmaxmalodor",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6033,7 +6033,7 @@
     },
     {
       "id": "gmaxmeltdown",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6045,7 +6045,7 @@
     },
     {
       "id": "gmaxoneblow",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6057,7 +6057,7 @@
     },
     {
       "id": "gmaxrapidflow",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6069,7 +6069,7 @@
     },
     {
       "id": "gmaxreplenish",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6081,7 +6081,7 @@
     },
     {
       "id": "gmaxresonance",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6093,7 +6093,7 @@
     },
     {
       "id": "gmaxsandblast",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6105,7 +6105,7 @@
     },
     {
       "id": "gmaxsmite",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6117,7 +6117,7 @@
     },
     {
       "id": "gmaxsnooze",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6129,7 +6129,7 @@
     },
     {
       "id": "gmaxsteelsurge",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6141,7 +6141,7 @@
     },
     {
       "id": "gmaxstonesurge",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6153,7 +6153,7 @@
     },
     {
       "id": "gmaxstunshock",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6165,7 +6165,7 @@
     },
     {
       "id": "gmaxsweetness",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6177,7 +6177,7 @@
     },
     {
       "id": "gmaxtartness",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6189,7 +6189,7 @@
     },
     {
       "id": "gmaxterror",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6201,7 +6201,7 @@
     },
     {
       "id": "gmaxvinelash",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6213,7 +6213,7 @@
     },
     {
       "id": "gmaxvolcalith",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6225,7 +6225,7 @@
     },
     {
       "id": "gmaxvoltcrash",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6237,7 +6237,7 @@
     },
     {
       "id": "gmaxwildfire",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6249,7 +6249,7 @@
     },
     {
       "id": "gmaxwindrage",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -6261,7 +6261,7 @@
     },
     {
       "id": "grassknot",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -6274,7 +6274,7 @@
     },
     {
       "id": "grasswhistle",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 55,
@@ -6287,7 +6287,7 @@
     },
     {
       "id": "grassyglide",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 55,
       "accuracy": 100,
@@ -6300,7 +6300,7 @@
     },
     {
       "id": "grassyterrain",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6312,7 +6312,7 @@
     },
     {
       "id": "gravity",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6324,7 +6324,7 @@
     },
     {
       "id": "grudge",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6336,7 +6336,7 @@
     },
     {
       "id": "guardianofalola",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 0,
       "accuracy": true,
@@ -6348,7 +6348,7 @@
     },
     {
       "id": "guardsplit",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6360,7 +6360,7 @@
     },
     {
       "id": "guardswap",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6372,7 +6372,7 @@
     },
     {
       "id": "guillotine",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 30,
@@ -6385,7 +6385,7 @@
     },
     {
       "id": "gunkshot",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 80,
@@ -6397,7 +6397,7 @@
     },
     {
       "id": "gyroball",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -6410,7 +6410,7 @@
     },
     {
       "id": "hail",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6422,7 +6422,7 @@
     },
     {
       "id": "hammerarm",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 90,
@@ -6435,7 +6435,7 @@
     },
     {
       "id": "hardpress",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -6448,7 +6448,7 @@
     },
     {
       "id": "haze",
-      "type": "Ice",
+      "type": "ice",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6460,7 +6460,7 @@
     },
     {
       "id": "headcharge",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -6473,7 +6473,7 @@
     },
     {
       "id": "headlongrush",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -6486,7 +6486,7 @@
     },
     {
       "id": "headsmash",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 150,
       "accuracy": 80,
@@ -6499,7 +6499,7 @@
     },
     {
       "id": "healbell",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6512,7 +6512,7 @@
     },
     {
       "id": "healblock",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -6524,7 +6524,7 @@
     },
     {
       "id": "healingwish",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6536,7 +6536,7 @@
     },
     {
       "id": "healorder",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6548,7 +6548,7 @@
     },
     {
       "id": "healpulse",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6560,7 +6560,7 @@
     },
     {
       "id": "heartstamp",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -6573,7 +6573,7 @@
     },
     {
       "id": "heatcrash",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -6586,7 +6586,7 @@
     },
     {
       "id": "heatwave",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 95,
       "accuracy": 90,
@@ -6598,7 +6598,7 @@
     },
     {
       "id": "heavyslam",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -6611,7 +6611,7 @@
     },
     {
       "id": "helpinghand",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -6623,7 +6623,7 @@
     },
     {
       "id": "hex",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -6635,7 +6635,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6647,7 +6647,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6659,7 +6659,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6671,7 +6671,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6683,7 +6683,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6707,7 +6707,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6719,7 +6719,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6731,7 +6731,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6743,7 +6743,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6755,7 +6755,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6767,7 +6767,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6779,7 +6779,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6791,7 +6791,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6803,7 +6803,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Rock",
+      "type": "rock",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6815,7 +6815,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6827,7 +6827,7 @@
     },
     {
       "id": "hiddenpower",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -6839,7 +6839,7 @@
     },
     {
       "id": "highhorsepower",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 95,
       "accuracy": 95,
@@ -6852,7 +6852,7 @@
     },
     {
       "id": "highjumpkick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 130,
       "accuracy": 90,
@@ -6865,7 +6865,7 @@
     },
     {
       "id": "horndrill",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 30,
@@ -6878,7 +6878,7 @@
     },
     {
       "id": "hornleech",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -6891,7 +6891,7 @@
     },
     {
       "id": "hurricane",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 110,
       "accuracy": 70,
@@ -6903,7 +6903,7 @@
     },
     {
       "id": "hydrocannon",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 150,
       "accuracy": 90,
@@ -6915,7 +6915,7 @@
     },
     {
       "id": "hydropump",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 110,
       "accuracy": 80,
@@ -6927,7 +6927,7 @@
     },
     {
       "id": "hydrovortex",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -6939,7 +6939,7 @@
     },
     {
       "id": "hyperbeam",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 150,
       "accuracy": 90,
@@ -6951,7 +6951,7 @@
     },
     {
       "id": "hyperfang",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 90,
@@ -6964,7 +6964,7 @@
     },
     {
       "id": "hypervoice",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -6977,7 +6977,7 @@
     },
     {
       "id": "hypnosis",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 60,
@@ -6989,7 +6989,7 @@
     },
     {
       "id": "iceball",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 90,
@@ -7002,7 +7002,7 @@
     },
     {
       "id": "icebeam",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -7014,7 +7014,7 @@
     },
     {
       "id": "icefang",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 95,
@@ -7027,7 +7027,7 @@
     },
     {
       "id": "icehammer",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 90,
@@ -7040,7 +7040,7 @@
     },
     {
       "id": "icepunch",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -7053,7 +7053,7 @@
     },
     {
       "id": "iceshard",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -7065,7 +7065,7 @@
     },
     {
       "id": "icespinner",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -7078,7 +7078,7 @@
     },
     {
       "id": "iciclecrash",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 90,
@@ -7090,7 +7090,7 @@
     },
     {
       "id": "iciclespear",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 100,
@@ -7102,7 +7102,7 @@
     },
     {
       "id": "icywind",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 55,
       "accuracy": 95,
@@ -7114,7 +7114,7 @@
     },
     {
       "id": "imprison",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7126,7 +7126,7 @@
     },
     {
       "id": "inferno",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 100,
       "accuracy": 50,
@@ -7138,7 +7138,7 @@
     },
     {
       "id": "infernooverdrive",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -7150,7 +7150,7 @@
     },
     {
       "id": "infestation",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 20,
       "accuracy": 100,
@@ -7163,7 +7163,7 @@
     },
     {
       "id": "ingrain",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7175,7 +7175,7 @@
     },
     {
       "id": "instruct",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7187,7 +7187,7 @@
     },
     {
       "id": "iondeluge",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7199,7 +7199,7 @@
     },
     {
       "id": "irondefense",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7211,7 +7211,7 @@
     },
     {
       "id": "irontail",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 75,
@@ -7224,7 +7224,7 @@
     },
     {
       "id": "jawlock",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -7237,7 +7237,7 @@
     },
     {
       "id": "jetpunch",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -7250,7 +7250,7 @@
     },
     {
       "id": "jumpkick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -7263,7 +7263,7 @@
     },
     {
       "id": "karatechop",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -7276,7 +7276,7 @@
     },
     {
       "id": "kinesis",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 80,
@@ -7288,7 +7288,7 @@
     },
     {
       "id": "knockoff",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -7301,7 +7301,7 @@
     },
     {
       "id": "kowtowcleave",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 85,
       "accuracy": true,
@@ -7314,7 +7314,7 @@
     },
     {
       "id": "landswrath",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -7326,7 +7326,7 @@
     },
     {
       "id": "laserfocus",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7338,7 +7338,7 @@
     },
     {
       "id": "lashout",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -7351,7 +7351,7 @@
     },
     {
       "id": "lastresort",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 140,
       "accuracy": 100,
@@ -7364,7 +7364,7 @@
     },
     {
       "id": "lastrespects",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -7376,7 +7376,7 @@
     },
     {
       "id": "lavaplume",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -7388,7 +7388,7 @@
     },
     {
       "id": "leafblade",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -7401,7 +7401,7 @@
     },
     {
       "id": "leafstorm",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 130,
       "accuracy": 90,
@@ -7413,7 +7413,7 @@
     },
     {
       "id": "leaftornado",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 65,
       "accuracy": 90,
@@ -7425,7 +7425,7 @@
     },
     {
       "id": "leechlife",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -7438,7 +7438,7 @@
     },
     {
       "id": "leechseed",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 90,
@@ -7450,7 +7450,7 @@
     },
     {
       "id": "letssnuggleforever",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 190,
       "accuracy": true,
@@ -7463,7 +7463,7 @@
     },
     {
       "id": "lifedew",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7475,7 +7475,7 @@
     },
     {
       "id": "lightscreen",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7487,7 +7487,7 @@
     },
     {
       "id": "lightthatburnsthesky",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 200,
       "accuracy": true,
@@ -7499,7 +7499,7 @@
     },
     {
       "id": "liquidation",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -7512,7 +7512,7 @@
     },
     {
       "id": "lockon",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7524,7 +7524,7 @@
     },
     {
       "id": "lovelykiss",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 75,
@@ -7536,7 +7536,7 @@
     },
     {
       "id": "lowkick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -7549,7 +7549,7 @@
     },
     {
       "id": "lowsweep",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -7562,7 +7562,7 @@
     },
     {
       "id": "luckychant",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7574,7 +7574,7 @@
     },
     {
       "id": "luminacrash",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -7586,7 +7586,7 @@
     },
     {
       "id": "lunge",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -7599,7 +7599,7 @@
     },
     {
       "id": "machpunch",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -7612,7 +7612,7 @@
     },
     {
       "id": "magiccoat",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7624,7 +7624,7 @@
     },
     {
       "id": "magicpowder",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -7636,7 +7636,7 @@
     },
     {
       "id": "magicroom",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7648,7 +7648,7 @@
     },
     {
       "id": "magnetbomb",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 60,
       "accuracy": true,
@@ -7660,7 +7660,7 @@
     },
     {
       "id": "magneticflux",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7672,7 +7672,7 @@
     },
     {
       "id": "magnetrise",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7684,7 +7684,7 @@
     },
     {
       "id": "magnitude",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -7696,7 +7696,7 @@
     },
     {
       "id": "maliciousmoonsault",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 180,
       "accuracy": true,
@@ -7709,7 +7709,7 @@
     },
     {
       "id": "matblock",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7721,7 +7721,7 @@
     },
     {
       "id": "matchagotcha",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 80,
       "accuracy": 90,
@@ -7733,7 +7733,7 @@
     },
     {
       "id": "maxairstream",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7745,7 +7745,7 @@
     },
     {
       "id": "maxdarkness",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7757,7 +7757,7 @@
     },
     {
       "id": "maxflare",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 100,
       "accuracy": true,
@@ -7769,7 +7769,7 @@
     },
     {
       "id": "maxflutterby",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7781,7 +7781,7 @@
     },
     {
       "id": "maxgeyser",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7793,7 +7793,7 @@
     },
     {
       "id": "maxguard",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7805,7 +7805,7 @@
     },
     {
       "id": "maxhailstorm",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7817,7 +7817,7 @@
     },
     {
       "id": "maxknuckle",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7829,7 +7829,7 @@
     },
     {
       "id": "maxlightning",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7841,7 +7841,7 @@
     },
     {
       "id": "maxmindstorm",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7853,7 +7853,7 @@
     },
     {
       "id": "maxooze",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7865,7 +7865,7 @@
     },
     {
       "id": "maxovergrowth",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7877,7 +7877,7 @@
     },
     {
       "id": "maxphantasm",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7889,7 +7889,7 @@
     },
     {
       "id": "maxquake",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7901,7 +7901,7 @@
     },
     {
       "id": "maxrockfall",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7913,7 +7913,7 @@
     },
     {
       "id": "maxstarfall",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7925,7 +7925,7 @@
     },
     {
       "id": "maxsteelspike",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7937,7 +7937,7 @@
     },
     {
       "id": "maxstrike",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7949,7 +7949,7 @@
     },
     {
       "id": "maxwyrmwind",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 10,
       "accuracy": true,
@@ -7961,7 +7961,7 @@
     },
     {
       "id": "meanlook",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7973,7 +7973,7 @@
     },
     {
       "id": "meditate",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7985,7 +7985,7 @@
     },
     {
       "id": "mefirst",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -7997,7 +7997,7 @@
     },
     {
       "id": "megahorn",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 85,
@@ -8010,7 +8010,7 @@
     },
     {
       "id": "megakick",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 75,
@@ -8023,7 +8023,7 @@
     },
     {
       "id": "memento",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8035,7 +8035,7 @@
     },
     {
       "id": "menacingmoonrazemaelstrom",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 200,
       "accuracy": true,
@@ -8047,7 +8047,7 @@
     },
     {
       "id": "metalburst",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -8059,7 +8059,7 @@
     },
     {
       "id": "metalsound",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": 85,
@@ -8072,7 +8072,7 @@
     },
     {
       "id": "meteorbeam",
-      "type": "Rock",
+      "type": "rock",
       "category": "Special",
       "basePower": 120,
       "accuracy": 90,
@@ -8084,7 +8084,7 @@
     },
     {
       "id": "meteormash",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 90,
@@ -8097,7 +8097,7 @@
     },
     {
       "id": "mindblown",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 150,
       "accuracy": 100,
@@ -8109,7 +8109,7 @@
     },
     {
       "id": "mindreader",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8121,7 +8121,7 @@
     },
     {
       "id": "minimize",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8133,7 +8133,7 @@
     },
     {
       "id": "miracleeye",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8145,7 +8145,7 @@
     },
     {
       "id": "mirrorcoat",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -8157,7 +8157,7 @@
     },
     {
       "id": "mirrormove",
-      "type": "Flying",
+      "type": "flying",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8169,7 +8169,7 @@
     },
     {
       "id": "mirrorshot",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 65,
       "accuracy": 85,
@@ -8181,7 +8181,7 @@
     },
     {
       "id": "mistyexplosion",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -8193,7 +8193,7 @@
     },
     {
       "id": "mistyterrain",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8205,7 +8205,7 @@
     },
     {
       "id": "moonlight",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8217,7 +8217,7 @@
     },
     {
       "id": "morningsun",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8229,7 +8229,7 @@
     },
     {
       "id": "mortalspin",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 30,
       "accuracy": 100,
@@ -8242,7 +8242,7 @@
     },
     {
       "id": "mudbomb",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 65,
       "accuracy": 85,
@@ -8254,7 +8254,7 @@
     },
     {
       "id": "muddywater",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 90,
       "accuracy": 85,
@@ -8266,7 +8266,7 @@
     },
     {
       "id": "mudshot",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 55,
       "accuracy": 95,
@@ -8278,7 +8278,7 @@
     },
     {
       "id": "mudslap",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 20,
       "accuracy": 100,
@@ -8290,7 +8290,7 @@
     },
     {
       "id": "mudsport",
-      "type": "Ground",
+      "type": "ground",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8302,7 +8302,7 @@
     },
     {
       "id": "multiattack",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -8315,7 +8315,7 @@
     },
     {
       "id": "mysticalfire",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -8327,7 +8327,7 @@
     },
     {
       "id": "nastyplot",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8339,7 +8339,7 @@
     },
     {
       "id": "naturalgift",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -8351,7 +8351,7 @@
     },
     {
       "id": "naturepower",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8363,7 +8363,7 @@
     },
     {
       "id": "naturesmadness",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 0,
       "accuracy": 90,
@@ -8375,7 +8375,7 @@
     },
     {
       "id": "needlearm",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -8388,7 +8388,7 @@
     },
     {
       "id": "neverendingnightmare",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -8400,7 +8400,7 @@
     },
     {
       "id": "nightmare",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8412,7 +8412,7 @@
     },
     {
       "id": "nightshade",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -8424,7 +8424,7 @@
     },
     {
       "id": "nobleroar",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8437,7 +8437,7 @@
     },
     {
       "id": "noretreat",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8449,7 +8449,7 @@
     },
     {
       "id": "nuzzle",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 100,
@@ -8462,7 +8462,7 @@
     },
     {
       "id": "oblivionwing",
-      "type": "Flying",
+      "type": "flying",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -8474,7 +8474,7 @@
     },
     {
       "id": "oceanicoperetta",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 195,
       "accuracy": true,
@@ -8486,7 +8486,7 @@
     },
     {
       "id": "octazooka",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 65,
       "accuracy": 85,
@@ -8498,7 +8498,7 @@
     },
     {
       "id": "odorsleuth",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8510,7 +8510,7 @@
     },
     {
       "id": "ominouswind",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -8522,7 +8522,7 @@
     },
     {
       "id": "outrage",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -8535,7 +8535,7 @@
     },
     {
       "id": "overdrive",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -8548,7 +8548,7 @@
     },
     {
       "id": "overheat",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 130,
       "accuracy": 90,
@@ -8560,7 +8560,7 @@
     },
     {
       "id": "painsplit",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8572,7 +8572,7 @@
     },
     {
       "id": "paraboliccharge",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -8584,7 +8584,7 @@
     },
     {
       "id": "partingshot",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8597,7 +8597,7 @@
     },
     {
       "id": "payback",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -8610,7 +8610,7 @@
     },
     {
       "id": "perishsong",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8623,7 +8623,7 @@
     },
     {
       "id": "petalblizzard",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -8635,7 +8635,7 @@
     },
     {
       "id": "petaldance",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -8648,7 +8648,7 @@
     },
     {
       "id": "phantomforce",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -8661,7 +8661,7 @@
     },
     {
       "id": "pikapapow",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 0,
       "accuracy": true,
@@ -8673,7 +8673,7 @@
     },
     {
       "id": "pinmissile",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 95,
@@ -8685,7 +8685,7 @@
     },
     {
       "id": "plasmafists",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 100,
@@ -8698,7 +8698,7 @@
     },
     {
       "id": "playrough",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 90,
@@ -8711,7 +8711,7 @@
     },
     {
       "id": "pluck",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -8724,7 +8724,7 @@
     },
     {
       "id": "poisonfang",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -8737,7 +8737,7 @@
     },
     {
       "id": "poisonjab",
-      "type": "Poison",
+      "type": "poison",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -8750,7 +8750,7 @@
     },
     {
       "id": "poisonpowder",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 75,
@@ -8762,7 +8762,7 @@
     },
     {
       "id": "pollenpuff",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -8774,7 +8774,7 @@
     },
     {
       "id": "poltergeist",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 110,
       "accuracy": 90,
@@ -8786,7 +8786,7 @@
     },
     {
       "id": "populationbomb",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 90,
@@ -8799,7 +8799,7 @@
     },
     {
       "id": "pounce",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -8812,7 +8812,7 @@
     },
     {
       "id": "pound",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -8825,7 +8825,7 @@
     },
     {
       "id": "powder",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8837,7 +8837,7 @@
     },
     {
       "id": "powergem",
-      "type": "Rock",
+      "type": "rock",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -8849,7 +8849,7 @@
     },
     {
       "id": "powersplit",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8861,7 +8861,7 @@
     },
     {
       "id": "powerswap",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8873,7 +8873,7 @@
     },
     {
       "id": "powertrick",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8885,7 +8885,7 @@
     },
     {
       "id": "powertrip",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 100,
@@ -8898,7 +8898,7 @@
     },
     {
       "id": "poweruppunch",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -8911,7 +8911,7 @@
     },
     {
       "id": "powerwhip",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 85,
@@ -8924,7 +8924,7 @@
     },
     {
       "id": "psychic",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -8936,7 +8936,7 @@
     },
     {
       "id": "psychicfangs",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -8949,7 +8949,7 @@
     },
     {
       "id": "psychicnoise",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -8962,7 +8962,7 @@
     },
     {
       "id": "psychicterrain",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -8974,7 +8974,7 @@
     },
     {
       "id": "psychocut",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -8986,7 +8986,7 @@
     },
     {
       "id": "psychoshift",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -8998,7 +8998,7 @@
     },
     {
       "id": "psychup",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9010,7 +9010,7 @@
     },
     {
       "id": "psyshock",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -9022,7 +9022,7 @@
     },
     {
       "id": "psywave",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -9034,7 +9034,7 @@
     },
     {
       "id": "pulverizingpancake",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 210,
       "accuracy": true,
@@ -9047,7 +9047,7 @@
     },
     {
       "id": "punishment",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -9060,7 +9060,7 @@
     },
     {
       "id": "pursuit",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -9073,7 +9073,7 @@
     },
     {
       "id": "pyroball",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 90,
@@ -9085,7 +9085,7 @@
     },
     {
       "id": "quash",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -9097,7 +9097,7 @@
     },
     {
       "id": "quickattack",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -9110,7 +9110,7 @@
     },
     {
       "id": "quickguard",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9122,7 +9122,7 @@
     },
     {
       "id": "quiverdance",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9134,7 +9134,7 @@
     },
     {
       "id": "rage",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 100,
@@ -9147,7 +9147,7 @@
     },
     {
       "id": "ragepowder",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9159,7 +9159,7 @@
     },
     {
       "id": "ragingbull",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -9172,7 +9172,7 @@
     },
     {
       "id": "ragingfury",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -9184,7 +9184,7 @@
     },
     {
       "id": "raindance",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9196,7 +9196,7 @@
     },
     {
       "id": "rapidspin",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -9209,7 +9209,7 @@
     },
     {
       "id": "razorshell",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 95,
@@ -9222,7 +9222,7 @@
     },
     {
       "id": "razorwind",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -9234,7 +9234,7 @@
     },
     {
       "id": "recover",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9246,7 +9246,7 @@
     },
     {
       "id": "recycle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9258,7 +9258,7 @@
     },
     {
       "id": "reflect",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9270,7 +9270,7 @@
     },
     {
       "id": "reflecttype",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9282,7 +9282,7 @@
     },
     {
       "id": "refresh",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9294,7 +9294,7 @@
     },
     {
       "id": "rest",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9306,7 +9306,7 @@
     },
     {
       "id": "return",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -9319,7 +9319,7 @@
     },
     {
       "id": "revenge",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -9332,7 +9332,7 @@
     },
     {
       "id": "reversal",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -9345,7 +9345,7 @@
     },
     {
       "id": "revivalblessing",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9357,7 +9357,7 @@
     },
     {
       "id": "risingvoltage",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -9369,7 +9369,7 @@
     },
     {
       "id": "roar",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9382,7 +9382,7 @@
     },
     {
       "id": "rockblast",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 90,
@@ -9394,7 +9394,7 @@
     },
     {
       "id": "rockclimb",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 85,
@@ -9407,7 +9407,7 @@
     },
     {
       "id": "rockpolish",
-      "type": "Rock",
+      "type": "rock",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9419,7 +9419,7 @@
     },
     {
       "id": "rockslide",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 90,
@@ -9431,7 +9431,7 @@
     },
     {
       "id": "rocktomb",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 95,
@@ -9443,7 +9443,7 @@
     },
     {
       "id": "rockwrecker",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 150,
       "accuracy": 90,
@@ -9455,7 +9455,7 @@
     },
     {
       "id": "roleplay",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9467,7 +9467,7 @@
     },
     {
       "id": "rollingkick",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 85,
@@ -9480,7 +9480,7 @@
     },
     {
       "id": "roost",
-      "type": "Flying",
+      "type": "flying",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9492,7 +9492,7 @@
     },
     {
       "id": "rototiller",
-      "type": "Ground",
+      "type": "ground",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9504,7 +9504,7 @@
     },
     {
       "id": "round",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -9517,7 +9517,7 @@
     },
     {
       "id": "sacredsword",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -9530,7 +9530,7 @@
     },
     {
       "id": "safeguard",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9542,7 +9542,7 @@
     },
     {
       "id": "sandtomb",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 35,
       "accuracy": 85,
@@ -9554,7 +9554,7 @@
     },
     {
       "id": "sappyseed",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 90,
@@ -9566,7 +9566,7 @@
     },
     {
       "id": "savagespinout",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -9578,7 +9578,7 @@
     },
     {
       "id": "scald",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -9590,7 +9590,7 @@
     },
     {
       "id": "scaleshot",
-      "type": "Dragon",
+      "type": "dragon",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 90,
@@ -9602,7 +9602,7 @@
     },
     {
       "id": "scaryface",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -9614,7 +9614,7 @@
     },
     {
       "id": "scorchingsands",
-      "type": "Ground",
+      "type": "ground",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -9626,7 +9626,7 @@
     },
     {
       "id": "screech",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 85,
@@ -9639,7 +9639,7 @@
     },
     {
       "id": "searingshot",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 100,
       "accuracy": 100,
@@ -9651,7 +9651,7 @@
     },
     {
       "id": "searingsunrazesmash",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 200,
       "accuracy": true,
@@ -9664,7 +9664,7 @@
     },
     {
       "id": "secretpower",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -9676,7 +9676,7 @@
     },
     {
       "id": "seedbomb",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -9688,7 +9688,7 @@
     },
     {
       "id": "seismictoss",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 100,
@@ -9701,7 +9701,7 @@
     },
     {
       "id": "selfdestruct",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 200,
       "accuracy": 100,
@@ -9713,7 +9713,7 @@
     },
     {
       "id": "shadowball",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -9725,7 +9725,7 @@
     },
     {
       "id": "shadowbone",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 100,
@@ -9737,7 +9737,7 @@
     },
     {
       "id": "shadowpunch",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 60,
       "accuracy": true,
@@ -9750,7 +9750,7 @@
     },
     {
       "id": "shadowsneak",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 40,
       "accuracy": 100,
@@ -9763,7 +9763,7 @@
     },
     {
       "id": "sharpen",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9775,7 +9775,7 @@
     },
     {
       "id": "shatteredpsyche",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -9787,7 +9787,7 @@
     },
     {
       "id": "shedtail",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9799,7 +9799,7 @@
     },
     {
       "id": "sheercold",
-      "type": "Ice",
+      "type": "ice",
       "category": "Special",
       "basePower": 0,
       "accuracy": 30,
@@ -9811,7 +9811,7 @@
     },
     {
       "id": "shellsidearm",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -9823,7 +9823,7 @@
     },
     {
       "id": "shellsmash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9835,7 +9835,7 @@
     },
     {
       "id": "shelter",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9847,7 +9847,7 @@
     },
     {
       "id": "shiftgear",
-      "type": "Steel",
+      "type": "steel",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9859,7 +9859,7 @@
     },
     {
       "id": "signalbeam",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 75,
       "accuracy": 100,
@@ -9871,7 +9871,7 @@
     },
     {
       "id": "silverwind",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -9883,7 +9883,7 @@
     },
     {
       "id": "simplebeam",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -9895,7 +9895,7 @@
     },
     {
       "id": "sing",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 55,
@@ -9908,7 +9908,7 @@
     },
     {
       "id": "sinisterarrowraid",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 180,
       "accuracy": true,
@@ -9920,7 +9920,7 @@
     },
     {
       "id": "sizzlyslide",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -9933,7 +9933,7 @@
     },
     {
       "id": "skillswap",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -9945,7 +9945,7 @@
     },
     {
       "id": "skittersmack",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 90,
@@ -9958,7 +9958,7 @@
     },
     {
       "id": "skullbash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 130,
       "accuracy": 100,
@@ -9971,7 +9971,7 @@
     },
     {
       "id": "skyattack",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 140,
       "accuracy": 90,
@@ -9983,7 +9983,7 @@
     },
     {
       "id": "skydrop",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -9996,7 +9996,7 @@
     },
     {
       "id": "skyuppercut",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 85,
       "accuracy": 90,
@@ -10009,7 +10009,7 @@
     },
     {
       "id": "slackoff",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10021,7 +10021,7 @@
     },
     {
       "id": "sleeppowder",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 75,
@@ -10033,7 +10033,7 @@
     },
     {
       "id": "sleeptalk",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10045,7 +10045,7 @@
     },
     {
       "id": "sludgebomb",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -10057,7 +10057,7 @@
     },
     {
       "id": "sludgewave",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 95,
       "accuracy": 100,
@@ -10069,7 +10069,7 @@
     },
     {
       "id": "smackdown",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -10081,7 +10081,7 @@
     },
     {
       "id": "smartstrike",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 70,
       "accuracy": true,
@@ -10094,7 +10094,7 @@
     },
     {
       "id": "smellingsalts",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -10107,7 +10107,7 @@
     },
     {
       "id": "snarl",
-      "type": "Dark",
+      "type": "dark",
       "category": "Special",
       "basePower": 55,
       "accuracy": 95,
@@ -10120,7 +10120,7 @@
     },
     {
       "id": "snatch",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10132,7 +10132,7 @@
     },
     {
       "id": "snore",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -10145,7 +10145,7 @@
     },
     {
       "id": "soak",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10157,7 +10157,7 @@
     },
     {
       "id": "softboiled",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10169,7 +10169,7 @@
     },
     {
       "id": "solarbeam",
-      "type": "Grass",
+      "type": "grass",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -10181,7 +10181,7 @@
     },
     {
       "id": "solarblade",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 125,
       "accuracy": 100,
@@ -10194,7 +10194,7 @@
     },
     {
       "id": "sonicboom",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 0,
       "accuracy": 90,
@@ -10206,7 +10206,7 @@
     },
     {
       "id": "soulstealing7starstrike",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 195,
       "accuracy": true,
@@ -10219,7 +10219,7 @@
     },
     {
       "id": "sparklingaria",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -10232,7 +10232,7 @@
     },
     {
       "id": "sparklyswirl",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Special",
       "basePower": 120,
       "accuracy": 85,
@@ -10244,7 +10244,7 @@
     },
     {
       "id": "spectralthief",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -10257,7 +10257,7 @@
     },
     {
       "id": "speedswap",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10269,7 +10269,7 @@
     },
     {
       "id": "spicyextract",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10281,7 +10281,7 @@
     },
     {
       "id": "spiderweb",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10293,7 +10293,7 @@
     },
     {
       "id": "spikecannon",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 100,
@@ -10305,7 +10305,7 @@
     },
     {
       "id": "spikes",
-      "type": "Ground",
+      "type": "ground",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10317,7 +10317,7 @@
     },
     {
       "id": "spiritbreak",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -10330,7 +10330,7 @@
     },
     {
       "id": "spite",
-      "type": "Ghost",
+      "type": "ghost",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10342,7 +10342,7 @@
     },
     {
       "id": "spitup",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -10354,7 +10354,7 @@
     },
     {
       "id": "splinteredstormshards",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 190,
       "accuracy": true,
@@ -10366,7 +10366,7 @@
     },
     {
       "id": "splishysplash",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -10378,7 +10378,7 @@
     },
     {
       "id": "spore",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10390,7 +10390,7 @@
     },
     {
       "id": "spotlight",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10402,7 +10402,7 @@
     },
     {
       "id": "stealthrock",
-      "type": "Rock",
+      "type": "rock",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10414,7 +10414,7 @@
     },
     {
       "id": "steamroller",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -10427,7 +10427,7 @@
     },
     {
       "id": "steelbeam",
-      "type": "Steel",
+      "type": "steel",
       "category": "Special",
       "basePower": 140,
       "accuracy": 95,
@@ -10439,7 +10439,7 @@
     },
     {
       "id": "steelroller",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 130,
       "accuracy": 100,
@@ -10452,7 +10452,7 @@
     },
     {
       "id": "steelwing",
-      "type": "Steel",
+      "type": "steel",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 90,
@@ -10465,7 +10465,7 @@
     },
     {
       "id": "stickyweb",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10477,7 +10477,7 @@
     },
     {
       "id": "stockpile",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10489,7 +10489,7 @@
     },
     {
       "id": "stokedsparksurfer",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 175,
       "accuracy": true,
@@ -10501,7 +10501,7 @@
     },
     {
       "id": "stompingtantrum",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -10514,7 +10514,7 @@
     },
     {
       "id": "stoneaxe",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 90,
@@ -10527,7 +10527,7 @@
     },
     {
       "id": "stoneedge",
-      "type": "Rock",
+      "type": "rock",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 80,
@@ -10539,7 +10539,7 @@
     },
     {
       "id": "storedpower",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 20,
       "accuracy": 100,
@@ -10551,7 +10551,7 @@
     },
     {
       "id": "stringshot",
-      "type": "Bug",
+      "type": "bug",
       "category": "Status",
       "basePower": 0,
       "accuracy": 95,
@@ -10563,7 +10563,7 @@
     },
     {
       "id": "struggle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 50,
       "accuracy": true,
@@ -10576,7 +10576,7 @@
     },
     {
       "id": "strugglebug",
-      "type": "Bug",
+      "type": "bug",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -10588,7 +10588,7 @@
     },
     {
       "id": "stunspore",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 75,
@@ -10600,7 +10600,7 @@
     },
     {
       "id": "submission",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 80,
@@ -10613,7 +10613,7 @@
     },
     {
       "id": "substitute",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10625,7 +10625,7 @@
     },
     {
       "id": "subzeroslammer",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -10637,7 +10637,7 @@
     },
     {
       "id": "suckerpunch",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -10650,7 +10650,7 @@
     },
     {
       "id": "sunnyday",
-      "type": "Fire",
+      "type": "fire",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10662,7 +10662,7 @@
     },
     {
       "id": "supercellslam",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 100,
       "accuracy": 95,
@@ -10675,7 +10675,7 @@
     },
     {
       "id": "superfang",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": 90,
@@ -10688,7 +10688,7 @@
     },
     {
       "id": "superpower",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -10701,7 +10701,7 @@
     },
     {
       "id": "supersonicskystrike",
-      "type": "Flying",
+      "type": "flying",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -10713,7 +10713,7 @@
     },
     {
       "id": "surf",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -10725,7 +10725,7 @@
     },
     {
       "id": "swagger",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 85,
@@ -10737,7 +10737,7 @@
     },
     {
       "id": "swallow",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10749,7 +10749,7 @@
     },
     {
       "id": "sweetkiss",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Status",
       "basePower": 0,
       "accuracy": 75,
@@ -10761,7 +10761,7 @@
     },
     {
       "id": "sweetscent",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10773,7 +10773,7 @@
     },
     {
       "id": "switcheroo",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10785,7 +10785,7 @@
     },
     {
       "id": "swordsdance",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10797,7 +10797,7 @@
     },
     {
       "id": "synchronoise",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -10809,7 +10809,7 @@
     },
     {
       "id": "synthesis",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10821,7 +10821,7 @@
     },
     {
       "id": "tailslap",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 85,
@@ -10834,7 +10834,7 @@
     },
     {
       "id": "tailwind",
-      "type": "Flying",
+      "type": "flying",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10846,7 +10846,7 @@
     },
     {
       "id": "taunt",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10858,7 +10858,7 @@
     },
     {
       "id": "tearfullook",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10870,7 +10870,7 @@
     },
     {
       "id": "teatime",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10882,7 +10882,7 @@
     },
     {
       "id": "technoblast",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 120,
       "accuracy": 100,
@@ -10894,7 +10894,7 @@
     },
     {
       "id": "tectonicrage",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -10906,7 +10906,7 @@
     },
     {
       "id": "teeterdance",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -10918,7 +10918,7 @@
     },
     {
       "id": "telekinesis",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -10930,7 +10930,7 @@
     },
     {
       "id": "temperflare",
-      "type": "Fire",
+      "type": "fire",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -10943,7 +10943,7 @@
     },
     {
       "id": "terrainpulse",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -10955,7 +10955,7 @@
     },
     {
       "id": "thief",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 60,
       "accuracy": 100,
@@ -10968,7 +10968,7 @@
     },
     {
       "id": "thousandarrows",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -10980,7 +10980,7 @@
     },
     {
       "id": "thousandwaves",
-      "type": "Ground",
+      "type": "ground",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -10992,7 +10992,7 @@
     },
     {
       "id": "thrash",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -11005,7 +11005,7 @@
     },
     {
       "id": "throatchop",
-      "type": "Dark",
+      "type": "dark",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -11018,7 +11018,7 @@
     },
     {
       "id": "thunder",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 110,
       "accuracy": 70,
@@ -11030,7 +11030,7 @@
     },
     {
       "id": "thunderbolt",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -11042,7 +11042,7 @@
     },
     {
       "id": "thunderfang",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 95,
@@ -11055,7 +11055,7 @@
     },
     {
       "id": "thunderpunch",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 75,
       "accuracy": 100,
@@ -11068,7 +11068,7 @@
     },
     {
       "id": "thunderwave",
-      "type": "Electric",
+      "type": "electric",
       "category": "Status",
       "basePower": 0,
       "accuracy": 90,
@@ -11080,7 +11080,7 @@
     },
     {
       "id": "tickle",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -11092,7 +11092,7 @@
     },
     {
       "id": "tidyup",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11104,7 +11104,7 @@
     },
     {
       "id": "topsyturvy",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11116,7 +11116,7 @@
     },
     {
       "id": "torchsong",
-      "type": "Fire",
+      "type": "fire",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -11129,7 +11129,7 @@
     },
     {
       "id": "torment",
-      "type": "Dark",
+      "type": "dark",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -11141,7 +11141,7 @@
     },
     {
       "id": "toxic",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 90,
@@ -11153,7 +11153,7 @@
     },
     {
       "id": "toxicspikes",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11165,7 +11165,7 @@
     },
     {
       "id": "trailblaze",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 50,
       "accuracy": 100,
@@ -11178,7 +11178,7 @@
     },
     {
       "id": "transform",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11190,7 +11190,7 @@
     },
     {
       "id": "triattack",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 80,
       "accuracy": 100,
@@ -11202,7 +11202,7 @@
     },
     {
       "id": "trick",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -11214,7 +11214,7 @@
     },
     {
       "id": "trickroom",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11226,7 +11226,7 @@
     },
     {
       "id": "triplearrows",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -11238,7 +11238,7 @@
     },
     {
       "id": "tripleaxel",
-      "type": "Ice",
+      "type": "ice",
       "category": "Physical",
       "basePower": 20,
       "accuracy": 90,
@@ -11251,7 +11251,7 @@
     },
     {
       "id": "trumpcard",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 0,
       "accuracy": true,
@@ -11264,7 +11264,7 @@
     },
     {
       "id": "twinbeam",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -11276,7 +11276,7 @@
     },
     {
       "id": "twineedle",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 25,
       "accuracy": 100,
@@ -11288,7 +11288,7 @@
     },
     {
       "id": "twinkletackle",
-      "type": "Fairy",
+      "type": "fairy",
       "category": "Physical",
       "basePower": 1,
       "accuracy": true,
@@ -11300,7 +11300,7 @@
     },
     {
       "id": "upperhand",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 65,
       "accuracy": 100,
@@ -11313,7 +11313,7 @@
     },
     {
       "id": "uproar",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 90,
       "accuracy": 100,
@@ -11326,7 +11326,7 @@
     },
     {
       "id": "uturn",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -11339,7 +11339,7 @@
     },
     {
       "id": "vacuumwave",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Special",
       "basePower": 40,
       "accuracy": 100,
@@ -11351,7 +11351,7 @@
     },
     {
       "id": "veeveevolley",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 0,
       "accuracy": true,
@@ -11364,7 +11364,7 @@
     },
     {
       "id": "venomdrench",
-      "type": "Poison",
+      "type": "poison",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -11376,7 +11376,7 @@
     },
     {
       "id": "venoshock",
-      "type": "Poison",
+      "type": "poison",
       "category": "Special",
       "basePower": 65,
       "accuracy": 100,
@@ -11388,7 +11388,7 @@
     },
     {
       "id": "vitalthrow",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 70,
       "accuracy": true,
@@ -11401,7 +11401,7 @@
     },
     {
       "id": "voltswitch",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 70,
       "accuracy": 100,
@@ -11413,7 +11413,7 @@
     },
     {
       "id": "volttackle",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -11426,7 +11426,7 @@
     },
     {
       "id": "wakeupslap",
-      "type": "Fighting",
+      "type": "fighting",
       "category": "Physical",
       "basePower": 70,
       "accuracy": 100,
@@ -11439,7 +11439,7 @@
     },
     {
       "id": "waterfall",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -11452,7 +11452,7 @@
     },
     {
       "id": "waterpulse",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 60,
       "accuracy": 100,
@@ -11464,7 +11464,7 @@
     },
     {
       "id": "watershuriken",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 15,
       "accuracy": 100,
@@ -11476,7 +11476,7 @@
     },
     {
       "id": "watersport",
-      "type": "Water",
+      "type": "water",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11488,7 +11488,7 @@
     },
     {
       "id": "waterspout",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 150,
       "accuracy": 100,
@@ -11500,7 +11500,7 @@
     },
     {
       "id": "wavecrash",
-      "type": "Water",
+      "type": "water",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -11513,7 +11513,7 @@
     },
     {
       "id": "weatherball",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 50,
       "accuracy": 100,
@@ -11525,7 +11525,7 @@
     },
     {
       "id": "whirlpool",
-      "type": "Water",
+      "type": "water",
       "category": "Special",
       "basePower": 35,
       "accuracy": 85,
@@ -11537,7 +11537,7 @@
     },
     {
       "id": "whirlwind",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11549,7 +11549,7 @@
     },
     {
       "id": "wideguard",
-      "type": "Rock",
+      "type": "rock",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11561,7 +11561,7 @@
     },
     {
       "id": "wildcharge",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 90,
       "accuracy": 100,
@@ -11574,7 +11574,7 @@
     },
     {
       "id": "willowisp",
-      "type": "Fire",
+      "type": "fire",
       "category": "Status",
       "basePower": 0,
       "accuracy": 85,
@@ -11586,7 +11586,7 @@
     },
     {
       "id": "wonderroom",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11598,7 +11598,7 @@
     },
     {
       "id": "woodhammer",
-      "type": "Grass",
+      "type": "grass",
       "category": "Physical",
       "basePower": 120,
       "accuracy": 100,
@@ -11611,7 +11611,7 @@
     },
     {
       "id": "worryseed",
-      "type": "Grass",
+      "type": "grass",
       "category": "Status",
       "basePower": 0,
       "accuracy": 100,
@@ -11623,7 +11623,7 @@
     },
     {
       "id": "wrap",
-      "type": "Normal",
+      "type": "normal",
       "category": "Physical",
       "basePower": 15,
       "accuracy": 90,
@@ -11636,7 +11636,7 @@
     },
     {
       "id": "wringout",
-      "type": "Normal",
+      "type": "normal",
       "category": "Special",
       "basePower": 0,
       "accuracy": 100,
@@ -11649,7 +11649,7 @@
     },
     {
       "id": "xscissor",
-      "type": "Bug",
+      "type": "bug",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -11662,7 +11662,7 @@
     },
     {
       "id": "yawn",
-      "type": "Normal",
+      "type": "normal",
       "category": "Status",
       "basePower": 0,
       "accuracy": true,
@@ -11674,7 +11674,7 @@
     },
     {
       "id": "zapcannon",
-      "type": "Electric",
+      "type": "electric",
       "category": "Special",
       "basePower": 120,
       "accuracy": 50,
@@ -11686,7 +11686,7 @@
     },
     {
       "id": "zenheadbutt",
-      "type": "Psychic",
+      "type": "psychic",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 90,
@@ -11699,7 +11699,7 @@
     },
     {
       "id": "zingzap",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
@@ -11712,7 +11712,7 @@
     },
     {
       "id": "zippyzap",
-      "type": "Electric",
+      "type": "electric",
       "category": "Physical",
       "basePower": 80,
       "accuracy": 100,
