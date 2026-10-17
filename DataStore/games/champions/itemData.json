@@ -1,5 +1,5 @@
 {
-  "abilityData": [
+  "itemData": [
     {
       "id": "abilityshield",
       "shortDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
