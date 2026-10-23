@@ -2,6 +2,7 @@
   "itemData": [
     {
       "id": "abilityshield",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
       "longDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect."
     },
@@ -10,6 +11,7 @@
       "itemUser": [
         "Abomasnow"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle."
     },
@@ -18,6 +20,7 @@
       "itemUser": [
         "Absol"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol in battle.",
       "longDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol in battle."
     },
@@ -26,11 +29,13 @@
       "itemUser": [
         "Absol"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.",
       "longDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle."
     },
     {
       "id": "absorbbulb",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
       "longDesc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use."
     },
@@ -39,6 +44,7 @@
       "itemUser": [
         "Dialga-Origin"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2× power."
     },
@@ -47,11 +53,13 @@
       "itemUser": [
         "Dialga"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2× power."
     },
     {
       "id": "adrenalineorb",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
       "longDesc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use."
     },
@@ -60,6 +68,7 @@
       "itemUser": [
         "Aerodactyl"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle."
     },
@@ -68,11 +77,13 @@
       "itemUser": [
         "Aggron"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Aggron, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "aguavberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
       "longDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use."
     },
@@ -81,6 +92,7 @@
       "itemUser": [
         "Alakazam"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Alakazam, this item allows it to Mega Evolve in battle."
     },
@@ -89,6 +101,7 @@
       "itemUser": [
         "Altaria"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Altaria, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Altaria, this item allows it to Mega Evolve in battle."
     },
@@ -97,16 +110,19 @@
       "itemUser": [
         "Ampharos"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Ampharos, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "apicotberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
       "longDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use."
     },
     {
       "id": "assaultvest",
+      "isMegaStone": false,
       "shortDesc": "Holder's Sp. Def is 1.5×, but it can only select damaging moves.",
       "longDesc": "Holder's Sp. Def is 1.5×, but it can only select damaging moves."
     },
@@ -115,11 +131,13 @@
       "itemUser": [
         "Audino"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Audino, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "auspiciousarmor",
+      "isMegaStone": false,
       "shortDesc": "Evolves Charcadet into Armarouge when used.",
       "longDesc": "Evolves Charcadet into Armarouge when used."
     },
@@ -128,6 +146,7 @@
       "itemUser": [
         "Banette"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Banette, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Banette, this item allows it to Mega Evolve in battle."
     },
@@ -136,6 +155,7 @@
       "itemUser": [
         "Barbaracle"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle."
     },
@@ -144,11 +164,13 @@
       "itemUser": [
         "Baxcalibur"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "beastball",
+      "isMegaStone": false,
       "shortDesc": "A special Poke Ball designed to catch Ultra Beasts.",
       "longDesc": "A special Poke Ball designed to catch Ultra Beasts."
     },
@@ -157,21 +179,25 @@
       "itemUser": [
         "Beedrill"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Beedrill, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "berrysweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
     {
       "id": "bignugget",
+      "isMegaStone": false,
       "shortDesc": "A big nugget of pure gold that gives off a lustrous gleam.",
       "longDesc": "A big nugget of pure gold that gives off a lustrous gleam."
     },
     {
       "id": "blacksludge",
+      "isMegaStone": false,
       "shortDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
       "longDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not."
     },
@@ -180,6 +206,7 @@
       "itemUser": [
         "Blastoise"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Blastoise, this item allows it to Mega Evolve in battle."
     },
@@ -188,21 +215,25 @@
       "itemUser": [
         "Blaziken"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Blaziken, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "blunderpolicy",
+      "isMegaStone": false,
       "shortDesc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
       "longDesc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use."
     },
     {
       "id": "boosterenergy",
+      "isMegaStone": false,
       "shortDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
       "longDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use."
     },
     {
       "id": "bottlecap",
+      "isMegaStone": false,
       "shortDesc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.",
       "longDesc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31."
     },
@@ -211,11 +242,13 @@
       "itemUser": [
         "Camerupt"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Camerupt, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Camerupt, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "cellbattery",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.",
       "longDesc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use."
     },
@@ -224,6 +257,7 @@
       "itemUser": [
         "Chandelure"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Chandelure, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Chandelure, this item allows it to Mega Evolve in battle."
     },
@@ -232,6 +266,7 @@
       "itemUser": [
         "Charizard"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard X.",
       "longDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard X."
     },
@@ -240,6 +275,7 @@
       "itemUser": [
         "Charizard"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard Y.",
       "longDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard Y."
     },
@@ -248,6 +284,7 @@
       "itemUser": [
         "Chesnaught"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle."
     },
@@ -256,26 +293,31 @@
       "itemUser": [
         "Chimecho"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Chimecho, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "chippedpot",
+      "isMegaStone": false,
       "shortDesc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
       "longDesc": "Evolves Sinistea-Antique into Polteageist-Antique when used."
     },
     {
       "id": "choiceband",
+      "isMegaStone": false,
       "shortDesc": "Holder's Attack is 1.5×, but it can only select the first move it executes.",
       "longDesc": "Holder's Attack is 1.5×, but it can only select the first move it executes."
     },
     {
       "id": "choicespecs",
+      "isMegaStone": false,
       "shortDesc": "Holder's Sp. Atk is 1.5×, but it can only select the first move it executes.",
       "longDesc": "Holder's Sp. Atk is 1.5×, but it can only select the first move it executes."
     },
     {
       "id": "clearamulet",
+      "isMegaStone": false,
       "shortDesc": "Prevents other Pokemon from lowering the holder's stat stages.",
       "longDesc": "Prevents other Pokemon from lowering the holder's stat stages."
     },
@@ -284,11 +326,13 @@
       "itemUser": [
         "Clefable"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Clefable, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "cloversweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
@@ -297,11 +341,13 @@
       "itemUser": [
         "Ogerpon-Cornerstone"
       ],
+      "isMegaStone": false,
       "shortDesc": "Ogerpon-Cornerstone: 1.2× power attacks; Terastallize to gain Embody Aspect.",
       "longDesc": "Ogerpon-Cornerstone: 1.2× power attacks; Terastallize to gain Embody Aspect."
     },
     {
       "id": "covertcloak",
+      "isMegaStone": false,
       "shortDesc": "Holder is not affected by the secondary effect of another Pokemon's attack.",
       "longDesc": "The holder is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause the holder to flinch, cause the holder's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if the holder is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against the holder."
     },
@@ -310,16 +356,19 @@
       "itemUser": [
         "Crabominable"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Crabominable, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Crabominable, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "crackedpot",
+      "isMegaStone": false,
       "shortDesc": "Evolves Sinistea into Polteageist when used.",
       "longDesc": "Evolves Sinistea into Polteageist when used."
     },
     {
       "id": "custapberry",
+      "isMegaStone": false,
       "shortDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
       "longDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use."
     },
@@ -328,11 +377,13 @@
       "itemUser": [
         "Darkrai"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Darkrai, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Darkrai, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "dawnstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used."
     },
@@ -341,21 +392,25 @@
       "itemUser": [
         "Delphox"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Delphox, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "destinyknot",
+      "isMegaStone": false,
       "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
       "longDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated."
     },
     {
       "id": "diveball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
       "longDesc": "A Poke Ball that works especially well on Pokemon that live underwater."
     },
     {
       "id": "dracoplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Dragon-type attacks have 1.2× power. Judgment is Dragon type.",
       "longDesc": "Holder's Dragon-type attacks have 1.2× power. Judgment is Dragon type."
     },
@@ -364,6 +419,7 @@
       "itemUser": [
         "Dragalge"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle."
     },
@@ -372,11 +428,13 @@
       "itemUser": [
         "Dragonite"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Dragonite, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "dragonscale",
+      "isMegaStone": false,
       "shortDesc": "Evolves Seadra into Kingdra when traded.",
       "longDesc": "Evolves Seadra into Kingdra when traded."
     },
@@ -385,36 +443,43 @@
       "itemUser": [
         "Drampa"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Drampa, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "dreadplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Dark-type attacks have 1.2× power. Judgment is Dark type.",
       "longDesc": "Holder's Dark-type attacks have 1.2× power. Judgment is Dark type."
     },
     {
       "id": "dreamball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.",
       "longDesc": "A Poke Ball that makes it easier to catch wild Pokémon while they're asleep."
     },
     {
       "id": "dubiousdisc",
+      "isMegaStone": false,
       "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
       "longDesc": "Evolves Porygon2 into Porygon-Z when traded."
     },
     {
       "id": "duskball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
       "longDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves."
     },
     {
       "id": "duskstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used."
     },
     {
       "id": "earthplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ground-type attacks have 1.2× power. Judgment is Ground type.",
       "longDesc": "Holder's Ground-type attacks have 1.2× power. Judgment is Ground type."
     },
@@ -423,21 +488,25 @@
       "itemUser": [
         "Eelektross"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "ejectbutton",
+      "isMegaStone": false,
       "shortDesc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
       "longDesc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use."
     },
     {
       "id": "ejectpack",
+      "isMegaStone": false,
       "shortDesc": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use.",
       "longDesc": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use."
     },
     {
       "id": "electirizer",
+      "isMegaStone": false,
       "shortDesc": "Evolves Electabuzz into Electivire when traded.",
       "longDesc": "Evolves Electabuzz into Electivire when traded."
     },
@@ -446,16 +515,19 @@
       "itemUser": [
         "Emboar"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Emboar, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "enigmaberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
       "longDesc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use."
     },
     {
       "id": "eviolite",
+      "isMegaStone": false,
       "shortDesc": "If holder's species can evolve, its Defense and Sp. Def are 1.5×.",
       "longDesc": "If holder's species can evolve, its Defense and Sp. Def are 1.5×."
     },
@@ -464,6 +536,7 @@
       "itemUser": [
         "Excadrill"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Excadrill, this item allows it to Mega Evolve in battle."
     },
@@ -472,11 +545,13 @@
       "itemUser": [
         "Falinks"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "fastball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
       "longDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away."
     },
@@ -485,36 +560,43 @@
       "itemUser": [
         "Feraligatr"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "figyberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.",
       "longDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use."
     },
     {
       "id": "firestone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used."
     },
     {
       "id": "fistplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fighting-type attacks have 1.2× power. Judgment is Fighting type.",
       "longDesc": "Holder's Fighting-type attacks have 1.2× power. Judgment is Fighting type."
     },
     {
       "id": "flameorb",
+      "isMegaStone": false,
       "shortDesc": "At the end of every turn, this item attempts to burn the holder.",
       "longDesc": "At the end of every turn, this item attempts to burn the holder."
     },
     {
       "id": "flameplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fire-type attacks have 1.2× power. Judgment is Fire type.",
       "longDesc": "Holder's Fire-type attacks have 1.2× power. Judgment is Fire type."
     },
     {
       "id": "floatstone",
+      "isMegaStone": false,
       "shortDesc": "Holder's weight is halved.",
       "longDesc": "Holder's weight is halved."
     },
@@ -523,16 +605,19 @@
       "itemUser": [
         "Floette-Eternal"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "flowersweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
     {
       "id": "friendball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
       "longDesc": "A Poke Ball that makes caught Pokemon more friendly."
     },
@@ -541,16 +626,19 @@
       "itemUser": [
         "Froslass"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Froslass, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "galaricacuff",
+      "isMegaStone": false,
       "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
       "longDesc": "Evolves Galarian Slowpoke into Galarian Slowbro when used."
     },
     {
       "id": "galaricawreath",
+      "isMegaStone": false,
       "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
       "longDesc": "Evolves Galarian Slowpoke into Galarian Slowking when used."
     },
@@ -559,11 +647,13 @@
       "itemUser": [
         "Gallade"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Gallade, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Gallade, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "ganlonberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
       "longDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use."
     },
@@ -572,6 +662,7 @@
       "itemUser": [
         "Garchomp"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp.",
       "longDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp."
     },
@@ -580,6 +671,7 @@
       "itemUser": [
         "Garchomp"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.",
       "longDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z."
     },
@@ -588,6 +680,7 @@
       "itemUser": [
         "Gardevoir"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle."
     },
@@ -596,6 +689,7 @@
       "itemUser": [
         "Gengar"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Gengar, this item allows it to Mega Evolve in battle."
     },
@@ -604,6 +698,7 @@
       "itemUser": [
         "Glalie"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Glalie, this item allows it to Mega Evolve in battle."
     },
@@ -612,11 +707,13 @@
       "itemUser": [
         "Glimmora"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Glimmora, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Glimmora, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "goldbottlecap",
+      "isMegaStone": false,
       "shortDesc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.",
       "longDesc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31."
     },
@@ -625,6 +722,7 @@
       "itemUser": [
         "Golisopod"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Golisopod, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Golisopod, this item allows it to Mega Evolve in battle."
     },
@@ -633,11 +731,13 @@
       "itemUser": [
         "Golurk"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Golurk, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Golurk, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "greatball",
+      "isMegaStone": false,
       "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
       "longDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball."
     },
@@ -646,16 +746,19 @@
       "itemUser": [
         "Greninja"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Greninja, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "grepaberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "gripclaw",
+      "isMegaStone": false,
       "shortDesc": "Holder's partial-trapping moves always last 7 turns.",
       "longDesc": "Holder's partial-trapping moves always last 7 turns."
     },
@@ -664,6 +767,7 @@
       "itemUser": [
         "Giratina-Origin"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2× power."
     },
@@ -672,6 +776,7 @@
       "itemUser": [
         "Giratina"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2× power."
     },
@@ -680,6 +785,7 @@
       "itemUser": [
         "Gyarados"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Gyarados, this item allows it to Mega Evolve in battle."
     },
@@ -688,11 +794,13 @@
       "itemUser": [
         "Hawlucha"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "healball",
+      "isMegaStone": false,
       "shortDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
       "longDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem."
     },
@@ -701,6 +809,7 @@
       "itemUser": [
         "Ogerpon-Hearthflame"
       ],
+      "isMegaStone": false,
       "shortDesc": "Ogerpon-Hearthflame: 1.2× power attacks; Terastallize to gain Embody Aspect.",
       "longDesc": "Ogerpon-Hearthflame: 1.2× power attacks; Terastallize to gain Embody Aspect."
     },
@@ -709,16 +818,19 @@
       "itemUser": [
         "Heatran"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Heatran, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Heatran, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "heavyball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
       "longDesc": "A Poke Ball for catching very heavy Pokemon."
     },
     {
       "id": "heavydutyboots",
+      "isMegaStone": false,
       "shortDesc": "When switching in, the holder is unaffected by hazards on its side of the field.",
       "longDesc": "When switching in, the holder is unaffected by hazards on its side of the field."
     },
@@ -727,11 +839,13 @@
       "itemUser": [
         "Heracross"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Heracross, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "hondewberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
@@ -740,36 +854,43 @@
       "itemUser": [
         "Houndoom"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Houndoom, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "iapapaberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.",
       "longDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use."
     },
     {
       "id": "icestone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Alolan Sandshrew into Alolan Sandslash, Alolan Vulpix into Alolan Ninetales, Eevee into Glaceon, and Galarian Darumaka into Galarian Darmanitan when used."
     },
     {
       "id": "icicleplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ice-type attacks have 1.2× power. Judgment is Ice type.",
       "longDesc": "Holder's Ice-type attacks have 1.2× power. Judgment is Ice type."
     },
     {
       "id": "insectplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Bug-type attacks have 1.2× power. Judgment is Bug type.",
       "longDesc": "Holder's Bug-type attacks have 1.2× power. Judgment is Bug type."
     },
     {
       "id": "ironplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Steel-type attacks have 1.2× power. Judgment is Steel type.",
       "longDesc": "Holder's Steel-type attacks have 1.2× power. Judgment is Steel type."
     },
     {
       "id": "jabocaberry",
+      "isMegaStone": false,
       "shortDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
       "longDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use."
     },
@@ -778,31 +899,37 @@
       "itemUser": [
         "Kangaskhan"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "keeberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.",
       "longDesc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use."
     },
     {
       "id": "kelpsyberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "laggingtail",
+      "isMegaStone": false,
       "shortDesc": "Holder moves last in its priority bracket.",
       "longDesc": "Holder moves last in its priority bracket."
     },
     {
       "id": "lansatberry",
+      "isMegaStone": false,
       "shortDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
       "longDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use."
     },
     {
       "id": "leafstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Eevee into Leafeon, Nuzleaf into Shiftry, and Pansage into Simisage when used."
     },
@@ -813,21 +940,25 @@
         "Farfetch’d-Galar",
         "Sirfetch’d"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
       "longDesc": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages."
     },
     {
       "id": "levelball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
       "longDesc": "A Poke Ball for catching Pokemon that are a lower level than your own."
     },
     {
       "id": "liechiberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
       "longDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use."
     },
     {
       "id": "loadeddice",
+      "isMegaStone": false,
       "shortDesc": "Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.",
       "longDesc": "The holder's moves that normally hit 2 to 5 times instead hit 4 or 5 times. If the first hit is successful, the holder's use of Triple Kick or Triple Axel hits 3 times, and Population Bomb hits 4 to 10 times, at random."
     },
@@ -836,16 +967,19 @@
       "itemUser": [
         "Lopunny"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Lopunny, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "loveball",
+      "isMegaStone": false,
       "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
       "longDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon."
     },
     {
       "id": "lovesweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
@@ -854,6 +988,7 @@
       "itemUser": [
         "Lucario"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario in battle.",
       "longDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario in battle."
     },
@@ -862,16 +997,19 @@
       "itemUser": [
         "Lucario"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.",
       "longDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle."
     },
     {
       "id": "luminousmoss",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.",
       "longDesc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use."
     },
     {
       "id": "lureball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
       "longDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing."
     },
@@ -880,6 +1018,7 @@
       "itemUser": [
         "Palkia-Origin"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2× power."
     },
@@ -888,21 +1027,25 @@
       "itemUser": [
         "Palkia"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2× power.",
       "longDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2× power."
     },
     {
       "id": "luxuryball",
+      "isMegaStone": false,
       "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
       "longDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly."
     },
     {
       "id": "magmarizer",
+      "isMegaStone": false,
       "shortDesc": "Evolves Magmar into Magmortar when traded.",
       "longDesc": "Evolves Magmar into Magmortar when traded."
     },
     {
       "id": "magoberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
       "longDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use."
     },
@@ -911,11 +1054,13 @@
       "itemUser": [
         "Malamar"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "maliciousarmor",
+      "isMegaStone": false,
       "shortDesc": "Evolves Charcadet into Ceruledge when used.",
       "longDesc": "Evolves Charcadet into Ceruledge when used."
     },
@@ -924,21 +1069,25 @@
       "itemUser": [
         "Manectric"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Manectric, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "marangaberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.",
       "longDesc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use."
     },
     {
       "id": "masterball",
+      "isMegaStone": false,
       "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
       "longDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon."
     },
     {
       "id": "masterpieceteacup",
+      "isMegaStone": false,
       "shortDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
       "longDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used."
     },
@@ -947,11 +1096,13 @@
       "itemUser": [
         "Mawile"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Mawile, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "meadowplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Grass-type attacks have 1.2× power. Judgment is Grass type.",
       "longDesc": "Holder's Grass-type attacks have 1.2× power. Judgment is Grass type."
     },
@@ -960,6 +1111,7 @@
       "itemUser": [
         "Medicham"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Medicham, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Medicham, this item allows it to Mega Evolve in battle."
     },
@@ -968,6 +1120,7 @@
       "itemUser": [
         "Meganium"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Meganium, this item allows it to Mega Evolve in battle."
     },
@@ -977,11 +1130,13 @@
         "Meowstic",
         "Meowstic-F"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Meowstic, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Meowstic, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "metalalloy",
+      "isMegaStone": false,
       "shortDesc": "Evolves Duraludon into Archaludon when used.",
       "longDesc": "Evolves Duraludon into Archaludon when used."
     },
@@ -990,56 +1145,67 @@
       "itemUser": [
         "Metagross"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Metagross, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "micleberry",
+      "isMegaStone": false,
       "shortDesc": "Holder's next move has 1.2× accuracy when at 1/4 max HP or less. Single use.",
       "longDesc": "Holder's next move has 1.2× accuracy when at 1/4 max HP or less. Single use."
     },
     {
       "id": "mindplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Psychic-type attacks have 1.2× power. Judgment is Psychic type.",
       "longDesc": "Holder's Psychic-type attacks have 1.2× power. Judgment is Psychic type."
     },
     {
       "id": "mirrorherb",
+      "isMegaStone": false,
       "shortDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
       "longDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use."
     },
     {
       "id": "moonball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
       "longDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone."
     },
     {
       "id": "moonstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used."
     },
     {
       "id": "nestball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
       "longDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild."
     },
     {
       "id": "netball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
       "longDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon."
     },
     {
       "id": "ovalstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
       "longDesc": "Evolves Happiny into Chansey when held and leveled up during the day."
     },
     {
       "id": "parkball",
+      "isMegaStone": false,
       "shortDesc": "A special Poke Ball for the Pal Park.",
       "longDesc": "A special Poke Ball for the Pal Park."
     },
     {
       "id": "petayaberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
       "longDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use."
     },
@@ -1048,6 +1214,7 @@
       "itemUser": [
         "Pidgeot"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle."
     },
@@ -1056,86 +1223,103 @@
       "itemUser": [
         "Pinsir"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Pinsir, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "pixieplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fairy-type attacks have 1.2× power. Judgment is Fairy type.",
       "longDesc": "Holder's Fairy-type attacks have 1.2× power. Judgment is Fairy type."
     },
     {
       "id": "pokeball",
+      "isMegaStone": false,
       "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
       "longDesc": "A device for catching wild Pokemon. It is designed as a capsule system."
     },
     {
       "id": "pomegberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "poweranklet",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "powerband",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "powerbelt",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "powerbracer",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "powerherb",
+      "isMegaStone": false,
       "shortDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
       "longDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use."
     },
     {
       "id": "powerlens",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "powerweight",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
     {
       "id": "premierball",
+      "isMegaStone": false,
       "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
       "longDesc": "A rare Poke Ball that has been crafted to commemorate an event."
     },
     {
       "id": "prettyfeather",
+      "isMegaStone": false,
       "shortDesc": "Though this feather is beautiful, it's just a regular feather and has no effect.",
       "longDesc": "Though this feather is beautiful, it's just a regular feather and has no effect."
     },
     {
       "id": "prismscale",
+      "isMegaStone": false,
       "shortDesc": "Evolves Feebas into Milotic when traded.",
       "longDesc": "Evolves Feebas into Milotic when traded."
     },
     {
       "id": "protectivepads",
+      "isMegaStone": false,
       "shortDesc": "Holder's moves are protected from adverse contact effects, except Pickpocket.",
       "longDesc": "Holder's moves are protected from adverse contact effects, except Pickpocket."
     },
     {
       "id": "protector",
+      "isMegaStone": false,
       "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
       "longDesc": "Evolves Rhydon into Rhyperior when traded."
     },
     {
       "id": "punchingglove",
+      "isMegaStone": false,
       "shortDesc": "Holder's punch-based attacks have 1.1× power and do not make contact.",
       "longDesc": "Holder's punch-based attacks have 1.1× power and do not make contact."
     },
@@ -1144,16 +1328,19 @@
       "itemUser": [
         "Pyroar"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "qualotberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "quickball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
       "longDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter."
     },
@@ -1162,6 +1349,7 @@
       "itemUser": [
         "Raichu"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.",
       "longDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle."
     },
@@ -1170,51 +1358,61 @@
       "itemUser": [
         "Raichu"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.",
       "longDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle."
     },
     {
       "id": "rarebone",
+      "isMegaStone": false,
       "shortDesc": "No competitive use other than when used with Fling.",
       "longDesc": "No competitive use other than when used with Fling."
     },
     {
       "id": "razorclaw",
+      "isMegaStone": false,
       "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
       "longDesc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night."
     },
     {
       "id": "razorfang",
+      "isMegaStone": false,
       "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
       "longDesc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Gligar into Gliscor when held and leveled up during the night."
     },
     {
       "id": "reapercloth",
+      "isMegaStone": false,
       "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
       "longDesc": "Evolves Dusclops into Dusknoir when traded."
     },
     {
       "id": "repeatball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that works well on Pokemon species that were previously caught.",
       "longDesc": "A Poke Ball that works well on Pokemon species that were previously caught."
     },
     {
       "id": "ribbonsweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
     {
       "id": "ringtarget",
+      "isMegaStone": false,
       "shortDesc": "The holder's type immunities granted solely by its typing are negated.",
       "longDesc": "The holder's type immunities granted solely by its typing are negated."
     },
     {
       "id": "roomservice",
+      "isMegaStone": false,
       "shortDesc": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.",
       "longDesc": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use."
     },
     {
       "id": "rowapberry",
+      "isMegaStone": false,
       "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
       "longDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use."
     },
@@ -1223,6 +1421,7 @@
       "itemUser": [
         "Zamazenta-Crowned"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
       "longDesc": "If held by a Zamazenta, this item changes its forme to Crowned Shield."
     },
@@ -1231,6 +1430,7 @@
       "itemUser": [
         "Zacian-Crowned"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
       "longDesc": "If held by a Zacian, this item changes its forme to Crowned Sword."
     },
@@ -1239,21 +1439,25 @@
       "itemUser": [
         "Sableye"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Sableye, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "safariball",
+      "isMegaStone": false,
       "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
       "longDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh."
     },
     {
       "id": "safetygoggles",
+      "isMegaStone": false,
       "shortDesc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
       "longDesc": "Holder is immune to powder moves and damage from Sandstorm or Hail."
     },
     {
       "id": "salacberry",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
       "longDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use."
     },
@@ -1262,6 +1466,7 @@
       "itemUser": [
         "Salamence"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Salamence, this item allows it to Mega Evolve in battle."
     },
@@ -1270,6 +1475,7 @@
       "itemUser": [
         "Sceptile"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle."
     },
@@ -1278,6 +1484,7 @@
       "itemUser": [
         "Scizor"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Scizor, this item allows it to Mega Evolve in battle."
     },
@@ -1286,6 +1493,7 @@
       "itemUser": [
         "Scolipede"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle."
     },
@@ -1294,6 +1502,7 @@
       "itemUser": [
         "Scovillain"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Scovillain, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Scovillain, this item allows it to Mega Evolve in battle."
     },
@@ -1302,6 +1511,7 @@
       "itemUser": [
         "Scrafty"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle."
     },
@@ -1310,11 +1520,13 @@
       "itemUser": [
         "Sharpedo"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "shinystone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used."
     },
@@ -1323,11 +1535,13 @@
       "itemUser": [
         "Skarmory"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Skarmory, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "skyplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Flying-type attacks have 1.2× power. Judgment is Flying type.",
       "longDesc": "Holder's Flying-type attacks have 1.2× power. Judgment is Flying type."
     },
@@ -1336,11 +1550,13 @@
       "itemUser": [
         "Slowbro"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Slowbro (not Galarian Slowbro), this item allows it to Mega Evolve.",
       "longDesc": "If held by a Slowbro (not Galarian Slowbro), this item allows it to Mega Evolve."
     },
     {
       "id": "snowball",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.",
       "longDesc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use."
     },
@@ -1350,26 +1566,31 @@
         "Latios",
         "Latias"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2× power.",
       "longDesc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2× power."
     },
     {
       "id": "spelltag",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ghost-type attacks have 1.2× power.",
       "longDesc": "Holder's Ghost-type attacks have 1.2× power."
     },
     {
       "id": "splashplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Water-type attacks have 1.2× power. Judgment is Water type.",
       "longDesc": "Holder's Water-type attacks have 1.2× power. Judgment is Water type."
     },
     {
       "id": "spookyplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ghost-type attacks have 1.2× power. Judgment is Ghost type.",
       "longDesc": "Holder's Ghost-type attacks have 1.2× power. Judgment is Ghost type."
     },
     {
       "id": "sportball",
+      "isMegaStone": false,
       "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
       "longDesc": "A special Poke Ball for the Bug-Catching Contest."
     },
@@ -1378,11 +1599,13 @@
       "itemUser": [
         "Staraptor"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Staraptor, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Staraptor, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "starfberry",
+      "isMegaStone": false,
       "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
       "longDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use."
     },
@@ -1391,11 +1614,13 @@
       "itemUser": [
         "Starmie"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Starmie, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "starsweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
@@ -1404,41 +1629,49 @@
       "itemUser": [
         "Steelix"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Steelix, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "stickybarb",
+      "isMegaStone": false,
       "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
       "longDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it."
     },
     {
       "id": "stoneplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Rock-type attacks have 1.2× power. Judgment is Rock type.",
       "longDesc": "Holder's Rock-type attacks have 1.2× power. Judgment is Rock type."
     },
     {
       "id": "strangeball",
+      "isMegaStone": false,
       "shortDesc": "Placeholder if caught in Poke Ball not in current game.",
       "longDesc": "Placeholder if caught in Poke Ball not in current game."
     },
     {
       "id": "strawberrysweet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
       "longDesc": "Evolves Milcery into Alcremie when held and spun around."
     },
     {
       "id": "sunstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used."
     },
     {
       "id": "sweetapple",
+      "isMegaStone": false,
       "shortDesc": "Evolves Applin into Appletun when used.",
       "longDesc": "Evolves Applin into Appletun when used."
     },
     {
       "id": "syrupyapple",
+      "isMegaStone": false,
       "shortDesc": "Evolves Applin into Dipplin when used.",
       "longDesc": "Evolves Applin into Dipplin when used."
     },
@@ -1447,41 +1680,49 @@
       "itemUser": [
         "Swampert"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "tamatoberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "tartapple",
+      "isMegaStone": false,
       "shortDesc": "Evolves Applin into Flapple when used.",
       "longDesc": "Evolves Applin into Flapple when used."
     },
     {
       "id": "throatspray",
+      "isMegaStone": false,
       "shortDesc": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.",
       "longDesc": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use."
     },
     {
       "id": "thunderstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used."
     },
     {
       "id": "timerball",
+      "isMegaStone": false,
       "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
       "longDesc": "A Poke Ball that becomes better the more turns there are in a battle."
     },
     {
       "id": "toxicorb",
+      "isMegaStone": false,
       "shortDesc": "At the end of every turn, this item attempts to badly poison the holder.",
       "longDesc": "At the end of every turn, this item attempts to badly poison the holder."
     },
     {
       "id": "toxicplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Poison-type attacks have 1.2× power. Judgment is Poison type.",
       "longDesc": "Holder's Poison-type attacks have 1.2× power. Judgment is Poison type."
     },
@@ -1490,26 +1731,31 @@
       "itemUser": [
         "Tyranitar"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "ultraball",
+      "isMegaStone": false,
       "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
       "longDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball."
     },
     {
       "id": "unremarkableteacup",
+      "isMegaStone": false,
       "shortDesc": "Evolves Poltchageist into Sinistcha when used.",
       "longDesc": "Evolves Poltchageist into Sinistcha when used."
     },
     {
       "id": "upgrade",
+      "isMegaStone": false,
       "shortDesc": "Evolves Porygon into Porygon2 when traded.",
       "longDesc": "Evolves Porygon into Porygon2 when traded."
     },
     {
       "id": "utilityumbrella",
+      "isMegaStone": false,
       "shortDesc": "The holder ignores rain- and sun-based effects.",
       "longDesc": "The holder ignores rain- and sun-based effects, including those of its Ability unless it is Orichalcum Pulse or Protosynthesis. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder."
     },
@@ -1518,6 +1764,7 @@
       "itemUser": [
         "Venusaur"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Venusaur, this item allows it to Mega Evolve in battle."
     },
@@ -1526,16 +1773,19 @@
       "itemUser": [
         "Victreebel"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Victreebel, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "waterstone",
+      "isMegaStone": false,
       "shortDesc": "Evolves certain species of Pokemon when used.",
       "longDesc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used."
     },
     {
       "id": "weaknesspolicy",
+      "isMegaStone": false,
       "shortDesc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.",
       "longDesc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use."
     },
@@ -1544,21 +1794,25 @@
       "itemUser": [
         "Ogerpon-Wellspring"
       ],
+      "isMegaStone": false,
       "shortDesc": "Ogerpon-Wellspring: 1.2× power attacks; Terastallize to gain Embody Aspect.",
       "longDesc": "Ogerpon-Wellspring: 1.2× power attacks; Terastallize to gain Embody Aspect."
     },
     {
       "id": "wikiberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.",
       "longDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use."
     },
     {
       "id": "zapplate",
+      "isMegaStone": false,
       "shortDesc": "Holder's Electric-type attacks have 1.2× power. Judgment is Electric type.",
       "longDesc": "Holder's Electric-type attacks have 1.2× power. Judgment is Electric type."
     },
     {
       "id": "airballoon",
+      "isMegaStone": false,
       "shortDesc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
       "longDesc": "Holder is immune to Ground-type attacks. Pops when holder is hit."
     },
@@ -1567,51 +1821,61 @@
       "itemUser": [
         "Raichu-Alola"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
       "longDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer."
     },
     {
       "id": "armorfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Shieldon.",
       "longDesc": "Can be revived into Shieldon."
     },
     {
       "id": "aspearberry",
+      "isMegaStone": false,
       "shortDesc": "Holder is cured if it is frozen. Single use.",
       "longDesc": "Holder is cured if it is frozen. Single use."
     },
     {
       "id": "babiriberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Steel-type attack. Single use."
     },
     {
       "id": "belueberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "berryjuice",
+      "isMegaStone": false,
       "shortDesc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
       "longDesc": "Restores 20 HP when at 1/2 max HP or less. Single use."
     },
     {
       "id": "bigroot",
+      "isMegaStone": false,
       "shortDesc": "Holder gains 1.3× HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
       "longDesc": "Holder gains 1.3× HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap."
     },
     {
       "id": "bindingband",
+      "isMegaStone": false,
       "shortDesc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.",
       "longDesc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8."
     },
     {
       "id": "blackbelt",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fighting-type attacks have 1.2× power.",
       "longDesc": "Holder's Fighting-type attacks have 1.2× power."
     },
     {
       "id": "blackglasses",
+      "isMegaStone": false,
       "shortDesc": "Holder's Dark-type attacks have 1.2× power.",
       "longDesc": "Holder's Dark-type attacks have 1.2× power."
     },
@@ -1620,26 +1884,31 @@
       "itemUser": [
         "Kyogre"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
       "longDesc": "If held by a Kyogre, this item triggers its Primal Reversion in battle."
     },
     {
       "id": "blukberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "brightpowder",
+      "isMegaStone": false,
       "shortDesc": "The accuracy of attacks against the holder is 0.9×.",
       "longDesc": "The accuracy of attacks against the holder is 0.9×."
     },
     {
       "id": "buggem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Bug-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Bug-type attack will have 1.3× power. Single use."
     },
     {
       "id": "buginiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
       "longDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move."
     },
@@ -1648,6 +1917,7 @@
       "itemUser": [
         "Silvally-Bug"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Bug type.",
       "longDesc": "Holder's Multi-Attack is Bug type."
     },
@@ -1656,31 +1926,37 @@
       "itemUser": [
         "Genesect-Burn"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Techno Blast is Fire type.",
       "longDesc": "Holder's Techno Blast is Fire type."
     },
     {
       "id": "charcoal",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fire-type attacks have 1.2× power.",
       "longDesc": "Holder's Fire-type attacks have 1.2× power."
     },
     {
       "id": "chartiberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Rock-type attack. Single use."
     },
     {
       "id": "cheriberry",
+      "isMegaStone": false,
       "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
       "longDesc": "Holder cures itself if it is paralyzed. Single use."
     },
     {
       "id": "chestoberry",
+      "isMegaStone": false,
       "shortDesc": "Holder wakes up if it is asleep. Single use.",
       "longDesc": "Holder wakes up if it is asleep. Single use."
     },
     {
       "id": "chilanberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
       "longDesc": "Halves damage taken from a Normal-type attack. Single use."
     },
@@ -1689,56 +1965,67 @@
       "itemUser": [
         "Genesect-Chill"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Techno Blast is Ice type.",
       "longDesc": "Holder's Techno Blast is Ice type."
     },
     {
       "id": "choicescarf",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is 1.5×, but it can only select the first move it executes.",
       "longDesc": "Holder's Speed is 1.5×, but it can only select the first move it executes."
     },
     {
       "id": "chopleberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use."
     },
     {
       "id": "clawfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Anorith.",
       "longDesc": "Can be revived into Anorith."
     },
     {
       "id": "cobaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Flying-type attack. Single use."
     },
     {
       "id": "colburberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Dark-type attack. Single use."
     },
     {
       "id": "cornnberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "coverfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Tirtouga.",
       "longDesc": "Can be revived into Tirtouga."
     },
     {
       "id": "damprock",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5."
     },
     {
       "id": "darkgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Dark-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Dark-type attack will have 1.3× power. Single use."
     },
     {
       "id": "darkiniumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
       "longDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move."
     },
@@ -1747,6 +2034,7 @@
       "itemUser": [
         "Silvally-Dark"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Dark type.",
       "longDesc": "Holder's Multi-Attack is Dark type."
     },
@@ -1755,6 +2043,7 @@
       "itemUser": [
         "Decidueye"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
       "longDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid."
     },
@@ -1763,6 +2052,7 @@
       "itemUser": [
         "Clamperl"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
       "longDesc": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded."
     },
@@ -1771,6 +2061,7 @@
       "itemUser": [
         "Clamperl"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
       "longDesc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded."
     },
@@ -1779,11 +2070,13 @@
       "itemUser": [
         "Diancie"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Diancie, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Diancie, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "domefossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Kabuto.",
       "longDesc": "Can be revived into Kabuto."
     },
@@ -1792,21 +2085,25 @@
       "itemUser": [
         "Genesect-Douse"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Techno Blast is Water type.",
       "longDesc": "Holder's Techno Blast is Water type."
     },
     {
       "id": "dragonfang",
+      "isMegaStone": false,
       "shortDesc": "Holder's Dragon-type attacks have 1.2× power.",
       "longDesc": "Holder's Dragon-type attacks have 1.2× power."
     },
     {
       "id": "dragongem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Dragon-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Dragon-type attack will have 1.3× power. Single use."
     },
     {
       "id": "dragoniumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
       "longDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move."
     },
@@ -1815,11 +2112,13 @@
       "itemUser": [
         "Silvally-Dragon"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Dragon type.",
       "longDesc": "Holder's Multi-Attack is Dragon type."
     },
     {
       "id": "durinberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
@@ -1828,11 +2127,13 @@
       "itemUser": [
         "Eevee"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
       "longDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost."
     },
     {
       "id": "electricgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Electric-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Electric-type attack will have 1.3× power. Single use."
     },
@@ -1841,36 +2142,43 @@
       "itemUser": [
         "Silvally-Electric"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Electric type.",
       "longDesc": "Holder's Multi-Attack is Electric type."
     },
     {
       "id": "electricseed",
+      "isMegaStone": false,
       "shortDesc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.",
       "longDesc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use."
     },
     {
       "id": "electriumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
       "longDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move."
     },
     {
       "id": "expertbelt",
+      "isMegaStone": false,
       "shortDesc": "Holder's attacks that are super effective against the target do 1.2× damage.",
       "longDesc": "Holder's attacks that are super effective against the target do 1.2× damage."
     },
     {
       "id": "fairiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
       "longDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move."
     },
     {
       "id": "fairyfeather",
+      "isMegaStone": false,
       "shortDesc": "Holder's Fairy-type attacks have 1.2× power.",
       "longDesc": "Holder's Fairy-type attacks have 1.2× power."
     },
     {
       "id": "fairygem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Fairy-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Fairy-type attack will have 1.3× power. Single use."
     },
@@ -1879,11 +2187,13 @@
       "itemUser": [
         "Silvally-Fairy"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Fairy type.",
       "longDesc": "Holder's Multi-Attack is Fairy type."
     },
     {
       "id": "fightinggem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Fighting-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Fighting-type attack will have 1.3× power. Single use."
     },
@@ -1892,16 +2202,19 @@
       "itemUser": [
         "Silvally-Fighting"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Fighting type.",
       "longDesc": "Holder's Multi-Attack is Fighting type."
     },
     {
       "id": "fightiniumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
       "longDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move."
     },
     {
       "id": "firegem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Fire-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Fire-type attack will have 1.3× power. Single use."
     },
@@ -1910,16 +2223,19 @@
       "itemUser": [
         "Silvally-Fire"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Fire type.",
       "longDesc": "Holder's Multi-Attack is Fire type."
     },
     {
       "id": "firiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
       "longDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move."
     },
     {
       "id": "flyinggem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Flying-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Flying-type attack will have 1.3× power. Single use."
     },
@@ -1928,56 +2244,67 @@
       "itemUser": [
         "Silvally-Flying"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Flying type.",
       "longDesc": "Holder's Multi-Attack is Flying type."
     },
     {
       "id": "flyiniumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
       "longDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move."
     },
     {
       "id": "focusband",
+      "isMegaStone": false,
       "shortDesc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
       "longDesc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP."
     },
     {
       "id": "focussash",
+      "isMegaStone": false,
       "shortDesc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.",
       "longDesc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use."
     },
     {
       "id": "fossilizedbird",
+      "isMegaStone": false,
       "shortDesc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
       "longDesc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino."
     },
     {
       "id": "fossilizeddino",
+      "isMegaStone": false,
       "shortDesc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
       "longDesc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird."
     },
     {
       "id": "fossilizeddrake",
+      "isMegaStone": false,
       "shortDesc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
       "longDesc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish."
     },
     {
       "id": "fossilizedfish",
+      "isMegaStone": false,
       "shortDesc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
       "longDesc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino."
     },
     {
       "id": "fullincense",
+      "isMegaStone": false,
       "shortDesc": "Holder moves last in its priority bracket.",
       "longDesc": "Holder moves last in its priority bracket."
     },
     {
       "id": "ghostgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Ghost-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Ghost-type attack will have 1.3× power. Single use."
     },
     {
       "id": "ghostiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
       "longDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move."
     },
@@ -1986,16 +2313,19 @@
       "itemUser": [
         "Silvally-Ghost"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Ghost type.",
       "longDesc": "Holder's Multi-Attack is Ghost type."
     },
     {
       "id": "grassgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Grass-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Grass-type attack will have 1.3× power. Single use."
     },
     {
       "id": "grassiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
       "longDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move."
     },
@@ -2004,21 +2334,25 @@
       "itemUser": [
         "Silvally-Grass"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Grass type.",
       "longDesc": "Holder's Multi-Attack is Grass type."
     },
     {
       "id": "grassyseed",
+      "isMegaStone": false,
       "shortDesc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.",
       "longDesc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use."
     },
     {
       "id": "groundgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Ground-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Ground-type attack will have 1.3× power. Single use."
     },
     {
       "id": "groundiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
       "longDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move."
     },
@@ -2027,31 +2361,37 @@
       "itemUser": [
         "Silvally-Ground"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Ground type.",
       "longDesc": "Holder's Multi-Attack is Ground type."
     },
     {
       "id": "habanberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use."
     },
     {
       "id": "hardstone",
+      "isMegaStone": false,
       "shortDesc": "Holder's Rock-type attacks have 1.2× power.",
       "longDesc": "Holder's Rock-type attacks have 1.2× power."
     },
     {
       "id": "heatrock",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5."
     },
     {
       "id": "helixfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Omanyte.",
       "longDesc": "Can be revived into Omanyte."
     },
     {
       "id": "icegem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Ice-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Ice-type attack will have 1.3× power. Single use."
     },
@@ -2060,16 +2400,19 @@
       "itemUser": [
         "Silvally-Ice"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Ice type.",
       "longDesc": "Holder's Multi-Attack is Ice type."
     },
     {
       "id": "iciumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
       "longDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move."
     },
     {
       "id": "icyrock",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Snowscape lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Snowscape lasts 8 turns instead of 5."
     },
@@ -2078,31 +2421,37 @@
       "itemUser": [
         "Incineroar"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
       "longDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault."
     },
     {
       "id": "ironball",
+      "isMegaStone": false,
       "shortDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
       "longDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage."
     },
     {
       "id": "jawfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Tyrunt.",
       "longDesc": "Can be revived into Tyrunt."
     },
     {
       "id": "kasibberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use."
     },
     {
       "id": "kebiaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Poison-type attack. Single use."
     },
     {
       "id": "kingsrock",
+      "isMegaStone": false,
       "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
       "longDesc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded."
     },
@@ -2112,6 +2461,7 @@
         "Kommo-o",
         "Kommo-o-Totem"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
       "longDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze."
     },
@@ -2120,6 +2470,7 @@
       "itemUser": [
         "Latias"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Latias, this item allows it to Mega Evolve in battle."
     },
@@ -2128,26 +2479,31 @@
       "itemUser": [
         "Latios"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Latios, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Latios, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "laxincense",
+      "isMegaStone": false,
       "shortDesc": "The accuracy of attacks against the holder is 0.9×.",
       "longDesc": "The accuracy of attacks against the holder is 0.9×."
     },
     {
       "id": "leftovers",
+      "isMegaStone": false,
       "shortDesc": "At the end of every turn, holder restores 1/16 of its max HP.",
       "longDesc": "At the end of every turn, holder restores 1/16 of its max HP."
     },
     {
       "id": "leppaberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
       "longDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use."
     },
     {
       "id": "lifeorb",
+      "isMegaStone": false,
       "shortDesc": "Holder's attacks do 1.3× damage, and it loses 1/10 its max HP after the attack.",
       "longDesc": "Holder's attacks do 1.3× damage, and it loses 1/10 its max HP after the attack."
     },
@@ -2171,11 +2527,13 @@
         "Pikachu-Starter",
         "Pikachu-World"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
       "longDesc": "If held by a Pikachu, its Attack and Sp. Atk are doubled."
     },
     {
       "id": "lightclay",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5."
     },
@@ -2184,11 +2542,13 @@
       "itemUser": [
         "Chansey"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
       "longDesc": "If held by a Chansey, its critical hit ratio is raised by 2 stages."
     },
     {
       "id": "lumberry",
+      "isMegaStone": false,
       "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
       "longDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use."
     },
@@ -2198,6 +2558,7 @@
         "Lunala",
         "Necrozma-Dawn-Wings"
       ],
+      "isMegaStone": false,
       "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
       "longDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move."
     },
@@ -2208,11 +2569,13 @@
         "Lycanroc-Midnight",
         "Lycanroc-Dusk"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
       "longDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards."
     },
     {
       "id": "machobrace",
+      "isMegaStone": false,
       "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
       "longDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
     },
@@ -2222,21 +2585,25 @@
         "Magearna",
         "Magearna-Original"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Magearna, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Magearna, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "magnet",
+      "isMegaStone": false,
       "shortDesc": "Holder's Electric-type attacks have 1.2× power.",
       "longDesc": "Holder's Electric-type attacks have 1.2× power."
     },
     {
       "id": "magostberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "mail",
+      "isMegaStone": false,
       "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
       "longDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief."
     },
@@ -2245,16 +2612,19 @@
       "itemUser": [
         "Marshadow"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
       "longDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike."
     },
     {
       "id": "mentalherb",
+      "isMegaStone": false,
       "shortDesc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
       "longDesc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use."
     },
     {
       "id": "metalcoat",
+      "isMegaStone": false,
       "shortDesc": "Holder's Steel-type attacks have 1.2× power.",
       "longDesc": "Holder's Steel-type attacks have 1.2× power. Evolves Onix into Steelix and Scyther into Scizor when traded."
     },
@@ -2263,11 +2633,13 @@
       "itemUser": [
         "Ditto"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
       "longDesc": "If held by a Ditto that hasn't Transformed, its Defense is doubled."
     },
     {
       "id": "metronome",
+      "isMegaStone": false,
       "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2× after 5 turns.",
       "longDesc": "Damage of moves used on consecutive turns is increased. Max 2× after 5 turns."
     },
@@ -2276,6 +2648,7 @@
       "itemUser": [
         "Mew"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
       "longDesc": "If held by a Mew with Psychic, it can use Genesis Supernova."
     },
@@ -2284,6 +2657,7 @@
       "itemUser": [
         "Mewtwo"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo X in battle.",
       "longDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo X in battle."
     },
@@ -2292,6 +2666,7 @@
       "itemUser": [
         "Mewtwo"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo Y in battle.",
       "longDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo Y in battle."
     },
@@ -2303,96 +2678,115 @@
         "Mimikyu-Totem",
         "Mimikyu-Busted-Totem"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
       "longDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever."
     },
     {
       "id": "miracleseed",
+      "isMegaStone": false,
       "shortDesc": "Holder's Grass-type attacks have 1.2× power.",
       "longDesc": "Holder's Grass-type attacks have 1.2× power."
     },
     {
       "id": "mistyseed",
+      "isMegaStone": false,
       "shortDesc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.",
       "longDesc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use."
     },
     {
       "id": "muscleband",
+      "isMegaStone": false,
       "shortDesc": "Holder's physical attacks have 1.1× power.",
       "longDesc": "Holder's physical attacks have 1.1× power."
     },
     {
       "id": "mysticwater",
+      "isMegaStone": false,
       "shortDesc": "Holder's Water-type attacks have 1.2× power.",
       "longDesc": "Holder's Water-type attacks have 1.2× power."
     },
     {
       "id": "nanabberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "nevermeltice",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ice-type attacks have 1.2× power.",
       "longDesc": "Holder's Ice-type attacks have 1.2× power."
     },
     {
       "id": "nomelberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "normalgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Normal-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Normal-type attack will have 1.3× power. Single use."
     },
     {
       "id": "normaliumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
       "longDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move."
     },
     {
       "id": "occaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Fire-type attack. Single use."
     },
     {
       "id": "oddincense",
+      "isMegaStone": false,
       "shortDesc": "Holder's Psychic-type attacks have 1.2× power.",
       "longDesc": "Holder's Psychic-type attacks have 1.2× power."
     },
     {
       "id": "oldamber",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Aerodactyl.",
       "longDesc": "Can be revived into Aerodactyl."
     },
     {
       "id": "oranberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
       "longDesc": "Restores 10 HP when at 1/2 max HP or less. Single use."
     },
     {
       "id": "pamtreberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "passhoberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Water-type attack. Single use."
     },
     {
       "id": "payapaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use."
     },
     {
       "id": "pechaberry",
+      "isMegaStone": false,
       "shortDesc": "Holder is cured if it is poisoned. Single use.",
       "longDesc": "Holder is cured if it is poisoned. Single use."
     },
     {
       "id": "persimberry",
+      "isMegaStone": false,
       "shortDesc": "Holder is cured if it is confused. Single use.",
       "longDesc": "Holder is cured if it is confused. Single use."
     },
@@ -2401,6 +2795,7 @@
       "itemUser": [
         "Pikachu"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
       "longDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika."
     },
@@ -2415,31 +2810,37 @@
         "Pikachu-Alola",
         "Pikachu-Partner"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
       "longDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt."
     },
     {
       "id": "pinapberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "plumefossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Archen.",
       "longDesc": "Can be revived into Archen."
     },
     {
       "id": "poisonbarb",
+      "isMegaStone": false,
       "shortDesc": "Holder's Poison-type attacks have 1.2× power.",
       "longDesc": "Holder's Poison-type attacks have 1.2× power."
     },
     {
       "id": "poisongem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Poison-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Poison-type attack will have 1.3× power. Single use."
     },
     {
       "id": "poisoniumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
       "longDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move."
     },
@@ -2448,6 +2849,7 @@
       "itemUser": [
         "Silvally-Poison"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Poison type.",
       "longDesc": "Holder's Multi-Attack is Poison type."
     },
@@ -2456,11 +2858,13 @@
       "itemUser": [
         "Primarina"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
       "longDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta."
     },
     {
       "id": "psychicgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Psychic-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Psychic-type attack will have 1.3× power. Single use."
     },
@@ -2469,21 +2873,25 @@
       "itemUser": [
         "Silvally-Psychic"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Psychic type.",
       "longDesc": "Holder's Multi-Attack is Psychic type."
     },
     {
       "id": "psychicseed",
+      "isMegaStone": false,
       "shortDesc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.",
       "longDesc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use."
     },
     {
       "id": "psychiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
       "longDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move."
     },
     {
       "id": "quickclaw",
+      "isMegaStone": false,
       "shortDesc": "Each turn, holder has a 20% chance to move first in its priority bracket.",
       "longDesc": "Each turn, holder has a 20% chance to move first in its priority bracket."
     },
@@ -2492,26 +2900,31 @@
       "itemUser": [
         "Ditto"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
       "longDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled."
     },
     {
       "id": "rabutaberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "rawstberry",
+      "isMegaStone": false,
       "shortDesc": "Holder is cured if it is burned. Single use.",
       "longDesc": "Holder is cured if it is burned. Single use."
     },
     {
       "id": "razzberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "redcard",
+      "isMegaStone": false,
       "shortDesc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
       "longDesc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use."
     },
@@ -2520,26 +2933,31 @@
       "itemUser": [
         "Groudon"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
       "longDesc": "If held by a Groudon, this item triggers its Primal Reversion in battle."
     },
     {
       "id": "rindoberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Grass-type attack. Single use."
     },
     {
       "id": "rockgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Rock-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Rock-type attack will have 1.3× power. Single use."
     },
     {
       "id": "rockincense",
+      "isMegaStone": false,
       "shortDesc": "Holder's Rock-type attacks have 1.2× power.",
       "longDesc": "Holder's Rock-type attacks have 1.2× power."
     },
     {
       "id": "rockiumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
       "longDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move."
     },
@@ -2548,61 +2966,73 @@
       "itemUser": [
         "Silvally-Rock"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Rock type.",
       "longDesc": "Holder's Multi-Attack is Rock type."
     },
     {
       "id": "rockyhelmet",
+      "isMegaStone": false,
       "shortDesc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP.",
       "longDesc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP."
     },
     {
       "id": "rootfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Lileep.",
       "longDesc": "Can be revived into Lileep."
     },
     {
       "id": "roseincense",
+      "isMegaStone": false,
       "shortDesc": "Holder's Grass-type attacks have 1.2× power.",
       "longDesc": "Holder's Grass-type attacks have 1.2× power."
     },
     {
       "id": "roseliberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Fairy-type attack. Single use."
     },
     {
       "id": "sachet",
+      "isMegaStone": false,
       "shortDesc": "Evolves Spritzee into Aromatisse when traded.",
       "longDesc": "Evolves Spritzee into Aromatisse when traded."
     },
     {
       "id": "sailfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Amaura.",
       "longDesc": "Can be revived into Amaura."
     },
     {
       "id": "scopelens",
+      "isMegaStone": false,
       "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
       "longDesc": "Holder's critical hit ratio is raised by 1 stage."
     },
     {
       "id": "seaincense",
+      "isMegaStone": false,
       "shortDesc": "Holder's Water-type attacks have 1.2× power.",
       "longDesc": "Holder's Water-type attacks have 1.2× power."
     },
     {
       "id": "sharpbeak",
+      "isMegaStone": false,
       "shortDesc": "Holder's Flying-type attacks have 1.2× power.",
       "longDesc": "Holder's Flying-type attacks have 1.2× power."
     },
     {
       "id": "shedshell",
+      "isMegaStone": false,
       "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
       "longDesc": "Holder cannot be prevented from choosing to switch out by any effect."
     },
     {
       "id": "shellbell",
+      "isMegaStone": false,
       "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
       "longDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon."
     },
@@ -2611,36 +3041,43 @@
       "itemUser": [
         "Genesect-Shock"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Techno Blast is Electric type.",
       "longDesc": "Holder's Techno Blast is Electric type."
     },
     {
       "id": "shucaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Ground-type attack. Single use."
     },
     {
       "id": "silkscarf",
+      "isMegaStone": false,
       "shortDesc": "Holder's Normal-type attacks have 1.2× power.",
       "longDesc": "Holder's Normal-type attacks have 1.2× power."
     },
     {
       "id": "silverpowder",
+      "isMegaStone": false,
       "shortDesc": "Holder's Bug-type attacks have 1.2× power.",
       "longDesc": "Holder's Bug-type attacks have 1.2× power."
     },
     {
       "id": "sitrusberry",
+      "isMegaStone": false,
       "shortDesc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use.",
       "longDesc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use."
     },
     {
       "id": "skullfossil",
+      "isMegaStone": false,
       "shortDesc": "Can be revived into Cranidos.",
       "longDesc": "Can be revived into Cranidos."
     },
     {
       "id": "smoothrock",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5."
     },
@@ -2649,11 +3086,13 @@
       "itemUser": [
         "Snorlax"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
       "longDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake."
     },
     {
       "id": "softsand",
+      "isMegaStone": false,
       "shortDesc": "Holder's Ground-type attacks have 1.2× power.",
       "longDesc": "Holder's Ground-type attacks have 1.2× power."
     },
@@ -2663,21 +3102,25 @@
         "Solgaleo",
         "Necrozma-Dusk-Mane"
       ],
+      "isMegaStone": false,
       "shortDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
       "longDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move."
     },
     {
       "id": "spelonberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "steelgem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Steel-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Steel-type attack will have 1.3× power. Single use."
     },
     {
       "id": "steeliumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
       "longDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move."
     },
@@ -2686,6 +3129,7 @@
       "itemUser": [
         "Silvally-Steel"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Steel type.",
       "longDesc": "Holder's Multi-Attack is Steel type."
     },
@@ -2694,11 +3138,13 @@
       "itemUser": [
         "Farfetch’d"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.",
       "longDesc": "If held by a Farfetch’d, its critical hit ratio is raised by 2 stages."
     },
     {
       "id": "tangaberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Bug-type attack. Single use."
     },
@@ -2710,6 +3156,7 @@
         "Tapu Bulu",
         "Tapu Fini"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
       "longDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola."
     },
@@ -2720,11 +3167,13 @@
         "Tatsugiri-Droopy",
         "Tatsugiri-Stretchy"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "terrainextender",
+      "isMegaStone": false,
       "shortDesc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
       "longDesc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5."
     },
@@ -2736,511 +3185,613 @@
         "Marowak-Alola-Totem",
         "Cubone"
       ],
+      "isMegaStone": false,
       "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
       "longDesc": "If held by a Cubone or a Marowak, its Attack is doubled."
     },
     {
       "id": "tr00",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Swords Dance. One use.",
       "longDesc": "Teaches certain Pokemon the move Swords Dance. One use."
     },
     {
       "id": "tr01",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Body Slam. One use.",
       "longDesc": "Teaches certain Pokemon the move Body Slam. One use."
     },
     {
       "id": "tr02",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Flamethrower. One use.",
       "longDesc": "Teaches certain Pokemon the move Flamethrower. One use."
     },
     {
       "id": "tr03",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Hydro Pump. One use.",
       "longDesc": "Teaches certain Pokemon the move Hydro Pump. One use."
     },
     {
       "id": "tr04",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Surf. One use.",
       "longDesc": "Teaches certain Pokemon the move Surf. One use."
     },
     {
       "id": "tr05",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Ice Beam. One use.",
       "longDesc": "Teaches certain Pokemon the move Ice Beam. One use."
     },
     {
       "id": "tr06",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Blizzard. One use.",
       "longDesc": "Teaches certain Pokemon the move Blizzard. One use."
     },
     {
       "id": "tr07",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Low Kick. One use.",
       "longDesc": "Teaches certain Pokemon the move Low Kick. One use."
     },
     {
       "id": "tr08",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Thunderbolt. One use.",
       "longDesc": "Teaches certain Pokemon the move Thunderbolt. One use."
     },
     {
       "id": "tr09",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Thunder. One use.",
       "longDesc": "Teaches certain Pokemon the move Thunder. One use."
     },
     {
       "id": "tr10",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Earthquake. One use.",
       "longDesc": "Teaches certain Pokemon the move Earthquake. One use."
     },
     {
       "id": "tr11",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Psychic. One use.",
       "longDesc": "Teaches certain Pokemon the move Psychic. One use."
     },
     {
       "id": "tr12",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Agility. One use.",
       "longDesc": "Teaches certain Pokemon the move Agility. One use."
     },
     {
       "id": "tr13",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Focus Energy. One use.",
       "longDesc": "Teaches certain Pokemon the move Focus Energy. One use."
     },
     {
       "id": "tr14",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Metronome. One use.",
       "longDesc": "Teaches certain Pokemon the move Metronome. One use."
     },
     {
       "id": "tr15",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Fire Blast. One use.",
       "longDesc": "Teaches certain Pokemon the move Fire Blast. One use."
     },
     {
       "id": "tr16",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Waterfall. One use.",
       "longDesc": "Teaches certain Pokemon the move Waterfall. One use."
     },
     {
       "id": "tr17",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Amnesia. One use.",
       "longDesc": "Teaches certain Pokemon the move Amnesia. One use."
     },
     {
       "id": "tr18",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Leech Life. One use.",
       "longDesc": "Teaches certain Pokemon the move Leech Life. One use."
     },
     {
       "id": "tr19",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Tri Attack. One use.",
       "longDesc": "Teaches certain Pokemon the move Tri Attack. One use."
     },
     {
       "id": "tr20",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Substitute. One use.",
       "longDesc": "Teaches certain Pokemon the move Substitute. One use."
     },
     {
       "id": "tr21",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Reversal. One use.",
       "longDesc": "Teaches certain Pokemon the move Reversal. One use."
     },
     {
       "id": "tr22",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
       "longDesc": "Teaches certain Pokemon the move Sludge Bomb. One use."
     },
     {
       "id": "tr23",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Spikes. One use.",
       "longDesc": "Teaches certain Pokemon the move Spikes. One use."
     },
     {
       "id": "tr24",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Outrage. One use.",
       "longDesc": "Teaches certain Pokemon the move Outrage. One use."
     },
     {
       "id": "tr25",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Psyshock. One use.",
       "longDesc": "Teaches certain Pokemon the move Psyshock. One use."
     },
     {
       "id": "tr26",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Endure. One use.",
       "longDesc": "Teaches certain Pokemon the move Endure. One use."
     },
     {
       "id": "tr27",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Sleep Talk. One use.",
       "longDesc": "Teaches certain Pokemon the move Sleep Talk. One use."
     },
     {
       "id": "tr28",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Megahorn. One use.",
       "longDesc": "Teaches certain Pokemon the move Megahorn. One use."
     },
     {
       "id": "tr29",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Baton Pass. One use.",
       "longDesc": "Teaches certain Pokemon the move Baton Pass. One use."
     },
     {
       "id": "tr30",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Encore. One use.",
       "longDesc": "Teaches certain Pokemon the move Encore. One use."
     },
     {
       "id": "tr31",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Iron Tail. One use.",
       "longDesc": "Teaches certain Pokemon the move Iron Tail. One use."
     },
     {
       "id": "tr32",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Crunch. One use.",
       "longDesc": "Teaches certain Pokemon the move Crunch. One use."
     },
     {
       "id": "tr33",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Shadow Ball. One use.",
       "longDesc": "Teaches certain Pokemon the move Shadow Ball. One use."
     },
     {
       "id": "tr34",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Future Sight. One use.",
       "longDesc": "Teaches certain Pokemon the move Future Sight. One use."
     },
     {
       "id": "tr35",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Uproar. One use.",
       "longDesc": "Teaches certain Pokemon the move Uproar. One use."
     },
     {
       "id": "tr36",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Heat Wave. One use.",
       "longDesc": "Teaches certain Pokemon the move Heat Wave. One use."
     },
     {
       "id": "tr37",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Taunt. One use.",
       "longDesc": "Teaches certain Pokemon the move Taunt. One use."
     },
     {
       "id": "tr38",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Trick. One use.",
       "longDesc": "Teaches certain Pokemon the move Trick. One use."
     },
     {
       "id": "tr39",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Superpower. One use.",
       "longDesc": "Teaches certain Pokemon the move Superpower. One use."
     },
     {
       "id": "tr40",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Skill Swap. One use.",
       "longDesc": "Teaches certain Pokemon the move Skill Swap. One use."
     },
     {
       "id": "tr41",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Blaze Kick. One use.",
       "longDesc": "Teaches certain Pokemon the move Blaze Kick. One use."
     },
     {
       "id": "tr42",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Hyper Voice. One use.",
       "longDesc": "Teaches certain Pokemon the move Hyper Voice. One use."
     },
     {
       "id": "tr43",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Overheat. One use.",
       "longDesc": "Teaches certain Pokemon the move Overheat. One use."
     },
     {
       "id": "tr44",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Cosmic Power. One use.",
       "longDesc": "Teaches certain Pokemon the move Cosmic Power. One use."
     },
     {
       "id": "tr45",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Muddy Water. One use.",
       "longDesc": "Teaches certain Pokemon the move Muddy Water. One use."
     },
     {
       "id": "tr46",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Iron Defense. One use.",
       "longDesc": "Teaches certain Pokemon the move Iron Defense. One use."
     },
     {
       "id": "tr47",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Dragon Claw. One use.",
       "longDesc": "Teaches certain Pokemon the move Dragon Claw. One use."
     },
     {
       "id": "tr48",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Bulk Up. One use.",
       "longDesc": "Teaches certain Pokemon the move Bulk Up. One use."
     },
     {
       "id": "tr49",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Calm Mind. One use.",
       "longDesc": "Teaches certain Pokemon the move Calm Mind. One use."
     },
     {
       "id": "tr50",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Leaf Blade. One use.",
       "longDesc": "Teaches certain Pokemon the move Leaf Blade. One use."
     },
     {
       "id": "tr51",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Dragon Dance. One use.",
       "longDesc": "Teaches certain Pokemon the move Dragon Dance. One use."
     },
     {
       "id": "tr52",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Gyro Ball. One use.",
       "longDesc": "Teaches certain Pokemon the move Gyro Ball. One use."
     },
     {
       "id": "tr53",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Close Combat. One use.",
       "longDesc": "Teaches certain Pokemon the move Close Combat. One use."
     },
     {
       "id": "tr54",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
       "longDesc": "Teaches certain Pokemon the move Toxic Spikes. One use."
     },
     {
       "id": "tr55",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Flare Blitz. One use.",
       "longDesc": "Teaches certain Pokemon the move Flare Blitz. One use."
     },
     {
       "id": "tr56",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Aura Sphere. One use.",
       "longDesc": "Teaches certain Pokemon the move Aura Sphere. One use."
     },
     {
       "id": "tr57",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Poison Jab. One use.",
       "longDesc": "Teaches certain Pokemon the move Poison Jab. One use."
     },
     {
       "id": "tr58",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Dark Pulse. One use.",
       "longDesc": "Teaches certain Pokemon the move Dark Pulse. One use."
     },
     {
       "id": "tr59",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Seed Bomb. One use.",
       "longDesc": "Teaches certain Pokemon the move Seed Bomb. One use."
     },
     {
       "id": "tr60",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move X-Scissor. One use.",
       "longDesc": "Teaches certain Pokemon the move X-Scissor. One use."
     },
     {
       "id": "tr61",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Bug Buzz. One use.",
       "longDesc": "Teaches certain Pokemon the move Bug Buzz. One use."
     },
     {
       "id": "tr62",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
       "longDesc": "Teaches certain Pokemon the move Dragon Pulse. One use."
     },
     {
       "id": "tr63",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Power Gem. One use.",
       "longDesc": "Teaches certain Pokemon the move Power Gem. One use."
     },
     {
       "id": "tr64",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Focus Blast. One use.",
       "longDesc": "Teaches certain Pokemon the move Focus Blast. One use."
     },
     {
       "id": "tr65",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Energy Ball. One use.",
       "longDesc": "Teaches certain Pokemon the move Energy Ball. One use."
     },
     {
       "id": "tr66",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Brave Bird. One use.",
       "longDesc": "Teaches certain Pokemon the move Brave Bird. One use."
     },
     {
       "id": "tr67",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Earth Power. One use.",
       "longDesc": "Teaches certain Pokemon the move Earth Power. One use."
     },
     {
       "id": "tr68",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Nasty Plot. One use.",
       "longDesc": "Teaches certain Pokemon the move Nasty Plot. One use."
     },
     {
       "id": "tr69",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
       "longDesc": "Teaches certain Pokemon the move Zen Headbutt. One use."
     },
     {
       "id": "tr70",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Flash Cannon. One use.",
       "longDesc": "Teaches certain Pokemon the move Flash Cannon. One use."
     },
     {
       "id": "tr71",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Leaf Storm. One use.",
       "longDesc": "Teaches certain Pokemon the move Leaf Storm. One use."
     },
     {
       "id": "tr72",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Power Whip. One use.",
       "longDesc": "Teaches certain Pokemon the move Power Whip. One use."
     },
     {
       "id": "tr73",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Gunk Shot. One use.",
       "longDesc": "Teaches certain Pokemon the move Gunk Shot. One use."
     },
     {
       "id": "tr74",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Iron Head. One use.",
       "longDesc": "Teaches certain Pokemon the move Iron Head. One use."
     },
     {
       "id": "tr75",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Stone Edge. One use.",
       "longDesc": "Teaches certain Pokemon the move Stone Edge. One use."
     },
     {
       "id": "tr76",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Stealth Rock. One use.",
       "longDesc": "Teaches certain Pokemon the move Stealth Rock. One use."
     },
     {
       "id": "tr77",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Grass Knot. One use.",
       "longDesc": "Teaches certain Pokemon the move Grass Knot. One use."
     },
     {
       "id": "tr78",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Sludge Wave. One use.",
       "longDesc": "Teaches certain Pokemon the move Sludge Wave. One use."
     },
     {
       "id": "tr79",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Heavy Slam. One use.",
       "longDesc": "Teaches certain Pokemon the move Heavy Slam. One use."
     },
     {
       "id": "tr80",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Electro Ball. One use.",
       "longDesc": "Teaches certain Pokemon the move Electro Ball. One use."
     },
     {
       "id": "tr81",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Foul Play. One use.",
       "longDesc": "Teaches certain Pokemon the move Foul Play. One use."
     },
     {
       "id": "tr82",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Stored Power. One use.",
       "longDesc": "Teaches certain Pokemon the move Stored Power. One use."
     },
     {
       "id": "tr83",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Ally Switch. One use.",
       "longDesc": "Teaches certain Pokemon the move Ally Switch. One use."
     },
     {
       "id": "tr84",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Scald. One use.",
       "longDesc": "Teaches certain Pokemon the move Scald. One use."
     },
     {
       "id": "tr85",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Work Up. One use.",
       "longDesc": "Teaches certain Pokemon the move Work Up. One use."
     },
     {
       "id": "tr86",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Wild Charge. One use.",
       "longDesc": "Teaches certain Pokemon the move Wild Charge. One use."
     },
     {
       "id": "tr87",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Drill Run. One use.",
       "longDesc": "Teaches certain Pokemon the move Drill Run. One use."
     },
     {
       "id": "tr88",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Heat Crash. One use.",
       "longDesc": "Teaches certain Pokemon the move Heat Crash. One use."
     },
     {
       "id": "tr89",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Hurricane. One use.",
       "longDesc": "Teaches certain Pokemon the move Hurricane. One use."
     },
     {
       "id": "tr90",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Play Rough. One use.",
       "longDesc": "Teaches certain Pokemon the move Play Rough. One use."
     },
     {
       "id": "tr91",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Venom Drench. One use.",
       "longDesc": "Teaches certain Pokemon the move Venom Drench. One use."
     },
     {
       "id": "tr92",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
       "longDesc": "Teaches certain Pokemon the move Dazzling Gleam. One use."
     },
     {
       "id": "tr93",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
       "longDesc": "Teaches certain Pokemon the move Darkest Lariat. One use."
     },
     {
       "id": "tr94",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move High Horsepower. One use.",
       "longDesc": "Teaches certain Pokemon the move High Horsepower. One use."
     },
     {
       "id": "tr95",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Throat Chop. One use.",
       "longDesc": "Teaches certain Pokemon the move Throat Chop. One use."
     },
     {
       "id": "tr96",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Pollen Puff. One use.",
       "longDesc": "Teaches certain Pokemon the move Pollen Puff. One use."
     },
     {
       "id": "tr97",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
       "longDesc": "Teaches certain Pokemon the move Psychic Fangs. One use."
     },
     {
       "id": "tr98",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Liquidation. One use.",
       "longDesc": "Teaches certain Pokemon the move Liquidation. One use."
     },
     {
       "id": "tr99",
+      "isMegaStone": false,
       "shortDesc": "Teaches certain Pokemon the move Body Press. One use.",
       "longDesc": "Teaches certain Pokemon the move Body Press. One use."
     },
     {
       "id": "twistedspoon",
+      "isMegaStone": false,
       "shortDesc": "Holder's Psychic-type attacks have 1.2× power.",
       "longDesc": "Holder's Psychic-type attacks have 1.2× power."
     },
@@ -3249,21 +3800,25 @@
       "itemUser": [
         "Necrozma-Ultra"
       ],
+      "isMegaStone": false,
       "shortDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
       "longDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser."
     },
     {
       "id": "wacanberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Electric-type attack. Single use."
     },
     {
       "id": "watergem",
+      "isMegaStone": false,
       "shortDesc": "Holder's first successful Water-type attack will have 1.3× power. Single use.",
       "longDesc": "Holder's first successful Water-type attack will have 1.3× power. Single use."
     },
     {
       "id": "wateriumz",
+      "isMegaStone": false,
       "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
       "longDesc": "If holder has a Water move, this item allows it to use a Water Z-Move."
     },
@@ -3272,46 +3827,55 @@
       "itemUser": [
         "Silvally-Water"
       ],
+      "isMegaStone": false,
       "shortDesc": "Holder's Multi-Attack is Water type.",
       "longDesc": "Holder's Multi-Attack is Water type."
     },
     {
       "id": "watmelberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "waveincense",
+      "isMegaStone": false,
       "shortDesc": "Holder's Water-type attacks have 1.2× power.",
       "longDesc": "Holder's Water-type attacks have 1.2× power."
     },
     {
       "id": "wepearberry",
+      "isMegaStone": false,
       "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
       "longDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
     },
     {
       "id": "whippeddream",
+      "isMegaStone": false,
       "shortDesc": "Evolves Swirlix into Slurpuff when traded.",
       "longDesc": "Evolves Swirlix into Slurpuff when traded."
     },
     {
       "id": "whiteherb",
+      "isMegaStone": false,
       "shortDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
       "longDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use."
     },
     {
       "id": "widelens",
+      "isMegaStone": false,
       "shortDesc": "The accuracy of attacks by the holder is 1.1×.",
       "longDesc": "The accuracy of attacks by the holder is 1.1×."
     },
     {
       "id": "wiseglasses",
+      "isMegaStone": false,
       "shortDesc": "Holder's special attacks have 1.1× power.",
       "longDesc": "Holder's special attacks have 1.1× power."
     },
     {
       "id": "yacheberry",
+      "isMegaStone": false,
       "shortDesc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
       "longDesc": "Halves damage taken from a supereffective Ice-type attack. Single use."
     },
@@ -3320,11 +3884,13 @@
       "itemUser": [
         "Zeraora"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Zeraora, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Zeraora, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "zoomlens",
+      "isMegaStone": false,
       "shortDesc": "The accuracy of attacks by the holder is 1.2× if it moves after its target.",
       "longDesc": "The accuracy of attacks by the holder is 1.2× if it moves after its target."
     },
@@ -3333,71 +3899,85 @@
       "itemUser": [
         "Zygarde-Complete"
       ],
+      "isMegaStone": true,
       "shortDesc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
       "longDesc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle."
     },
     {
       "id": "berry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
       "longDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use."
     },
     {
       "id": "berserkgene",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
       "longDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use."
     },
     {
       "id": "bitterberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
       "longDesc": "(Gen 2) Holder is cured if it is confused. Single use."
     },
     {
       "id": "burntberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
       "longDesc": "(Gen 2) Holder is cured if it is frozen. Single use."
     },
     {
       "id": "goldberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
       "longDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use."
     },
     {
       "id": "iceberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
       "longDesc": "(Gen 2) Holder is cured if it is burned. Single use."
     },
     {
       "id": "mintberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
       "longDesc": "(Gen 2) Holder wakes up if it is asleep. Single use."
     },
     {
       "id": "miracleberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
       "longDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use."
     },
     {
       "id": "mysteryberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
       "longDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use."
     },
     {
       "id": "pinkbow",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1× power.",
       "longDesc": "(Gen 2) Holder's Normal-type attacks have 1.1× power."
     },
     {
       "id": "polkadotbow",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1× power.",
       "longDesc": "(Gen 2) Holder's Normal-type attacks have 1.1× power."
     },
     {
       "id": "przcureberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
       "longDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use."
     },
     {
       "id": "psncureberry",
+      "isMegaStone": false,
       "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
       "longDesc": "(Gen 2) Holder is cured if it is poisoned. Single use."
     }
